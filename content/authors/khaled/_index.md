@@ -1,0 +1,41 @@
+---
+authors:
+- khaled
+# bio: 
+education:
+  courses:
+  - course: BS in Biology, minor in Chemistry
+    institution: University of Findaly
+    year: 2017
+  - course: Gradaute Student
+    institution: University of Toledo
+    year: 2017
+
+email: "khaled.alganem@rockets.utoledo.edu"
+interests:
+- Bioinformatics
+- Programming
+- Big Data Analysis
+name: Khaled Alganem
+organizations:
+- name: University of Toledo
+  url: ""
+role: Gradaute Student
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
+# superuser: true
+user_groups:
+- Grad Students
+---
+
