@@ -16,9 +16,9 @@ subtitle = ""
   user_groups = [
                  "Director",
                  "Co-Directors",
-                 "Lab Managers",
+                 "Lab Manager",
                  "Post Docs",
-                 "lab Technicians",
+                 "Lab Technicians",
                  "Grad Students",
                  "Administration",
                  "Visitors",
@@ -29,7 +29,7 @@ subtitle = ""
   show_social = false
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
 
 [design.background]
   # Apply a background color, gradient, or image.

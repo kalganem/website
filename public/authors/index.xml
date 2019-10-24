@@ -33,6 +33,14 @@
     
     <item>
       <title></title>
+      <link>/authors/abdul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/abdul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/adam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/adam/</guid>
@@ -55,9 +63,49 @@
     
     <item>
       <title></title>
+      <link>/authors/khaled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/khaled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/mackenzie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/mackenzie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/nick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/nick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/ram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/ram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/rawan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/rawan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/rayan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/rayan/</guid>
       <description></description>
     </item>
     
@@ -76,6 +124,14 @@
     
     <item>
       <title></title>
+      <link>/authors/scott/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/scott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/sinead/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/sinead/</guid>
@@ -85,6 +141,22 @@
 
 &lt;p&gt;In Summer 2018, Sinead will take up a position of Research Assistant Professor in the Dept. of Neurosciences at The University of Toledo, continuing her research in dysregulated molecular mechanisms of severe mental illness.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/sophie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/sophie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/wilma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/wilma/</guid>
+      <description></description>
     </item>
     
   </channel>

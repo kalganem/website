@@ -7,9 +7,12 @@ education:
   - course: BS in Biology, minor in Chemistry
     institution: University of Findaly
     year: 2017
-  - course: Gradaute Student
+  - course: Graduate Research Assistant, Bioinformatics
     institution: University of Toledo
     year: 2017
+  - course: Graduate Research Assistant, Neuroscience
+    institution: University of Toledo
+    year: 2018
 
 email: "khaled.alganem@rockets.utoledo.edu"
 interests:
@@ -20,7 +23,7 @@ name: Khaled Alganem
 organizations:
 - name: University of Toledo
   url: ""
-role: Gradaute Student
+role: Graduate Research Assistant
 # social:
 # - icon: envelope
 #   icon_pack: fas
