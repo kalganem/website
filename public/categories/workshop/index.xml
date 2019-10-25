@@ -14,53 +14,6 @@
     
     <item>
       <title>Intro to Coding with R</title>
-      <link>/project/intro-to-coding/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/intro-to-coding/</guid>
-      <description>&lt;p&gt;We will cover:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The &lt;strong&gt;blogdown&lt;/strong&gt; R package&lt;/li&gt;
-&lt;li&gt;Hugo themes&lt;/li&gt;
-&lt;li&gt;Adding content to personalize your site&lt;/li&gt;
-&lt;li&gt;Posting&lt;/li&gt;
-&lt;li&gt;Don&amp;rsquo;t want to blog? / just want to knit?&lt;/li&gt;
-&lt;li&gt;Customizing themes&lt;/li&gt;
-&lt;li&gt;Troubleshooting common problems&lt;/li&gt;
-&lt;li&gt;Deployment options and recommendations&lt;/li&gt;
-&lt;li&gt;Domain options available through RStudio/rbind&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you are planning on attending this workshop, please click on the HTML link above for how to prepare before the workshop.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blogdown-meetup.jpg&#34; &gt;
-&lt;img src=&#34;blogdown-meetup.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Intro to Coding with R</title>
       <link>/courses/intro-to-coding/lesson6/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/courses/intro-to-coding/lesson6/</guid>
