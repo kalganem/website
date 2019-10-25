@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V. Haroutunian | CDRL</title>
+    <link>/authors/v.-haroutunian/</link>
+      <atom:link href="/authors/v.-haroutunian/index.xml" rel="self" type="application/rss+xml" />
+    <description>V. Haroutunian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>V. Haroutunian</title>
+      <link>/authors/v.-haroutunian/</link>
+    </image>
+    
+    <item>
+      <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
+      <link>/publication/rn-4634/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4634/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decreased chloride channel expression in the dorsolateral prefrontal cortex in schizophrenia</title>
+      <link>/publication/rn-4559/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4559/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glutamate transporter splice variant expression in an enriched pyramidal cell population in schizophrenia</title>
+      <link>/publication/rn-4591/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4591/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abnormal activity of the MAPK- and cAMP-associated signaling pathways in frontal cortical areas in postmortem brain in schizophrenia</title>
+      <link>/publication/rn-697/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-697/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

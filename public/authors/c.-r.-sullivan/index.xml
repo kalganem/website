@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. R. Sullivan | CDRL</title>
+    <link>/authors/c.-r.-sullivan/</link>
+      <atom:link href="/authors/c.-r.-sullivan/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. R. Sullivan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>C. R. Sullivan</title>
+      <link>/authors/c.-r.-sullivan/</link>
+    </image>
+    
+    <item>
+      <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
+      <link>/publication/rn-4634/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4634/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decreased chloride channel expression in the dorsolateral prefrontal cortex in schizophrenia</title>
+      <link>/publication/rn-4559/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4559/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

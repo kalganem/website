@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. A. DePasquale | CDRL</title>
+    <link>/authors/e.-a.-depasquale/</link>
+      <atom:link href="/authors/e.-a.-depasquale/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. A. DePasquale</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>E. A. DePasquale</title>
+      <link>/authors/e.-a.-depasquale/</link>
+    </image>
+    
+    <item>
+      <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
+      <link>/publication/rn-4634/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4634/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

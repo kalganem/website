@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/</loc>
+    <loc>/courses/intro-to-coding/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -33,6 +23,106 @@
   </url>
   
   <url>
+    <loc>/authors/khaled/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/apps/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bioinformatics/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/coding/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/course/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/courses/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/intro-to-coding/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/intro-to-coding/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/intro-to-coding/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/kaleidoscope/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/intro-to-coding/lesson6/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-shiny/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/web-application/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/workshop/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/workshop/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -43,43 +133,13 @@
   </url>
   
   <url>
+    <loc>/courses/intro-to-coding/lesson2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -98,12 +158,12 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/projects/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>/publication/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,17 +183,87 @@
   </url>
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-j.-funk/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-j.-ramsey/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-a.-mielnik/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-r.-sullivan/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rn-4634/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-a.-depasquale/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-bentea/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-meller/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/k.-alganem/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/p.-katsel/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-e.-mccullumsmith/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-m.-odonovan/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/v.-haroutunian/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/z.-wen/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,28 +283,8 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -203,13 +313,118 @@
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/authors/d.-bauer/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/authors/d.-shan/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rn-4559/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rn-4591/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-h.-meador-woodruff/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/k.-hasselfeld/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-simmons/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/p.-roussos/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rn-697/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/adam-funk/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/james-h.-meador-woodruff/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-hammond/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rn-90/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-e.-mccullumsmith/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aj-funk/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rn-120/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rn-310/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/g-rumbaugh/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/g.-rumbaugh/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jh-meador-woodruff/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/re-mccullumsmith/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/v-harotunian/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/v.-harotunian/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -222,10 +437,6 @@
   
   <url>
     <loc>/authors/emily/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/khaled/</loc>
   </url>
   
   <url>
@@ -266,6 +477,20 @@
   
   <url>
     <loc>/authors/wilma/</loc>
+  </url>
+  
+  <url>
+    <loc>/scripts/</loc>
+  </url>
+  
+  <url>
+    <loc>/scripts/intro-to-coding/lesson6/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/slides/intro_lesson1/lesson_6_stats/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert E. McCullumsmith | CDRL</title>
+    <link>/authors/robert-e.-mccullumsmith/</link>
+      <atom:link href="/authors/robert-e.-mccullumsmith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert E. McCullumsmith</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Robert E. McCullumsmith</title>
+      <link>/authors/robert-e.-mccullumsmith/</link>
+    </image>
+    
+    <item>
+      <title>Recent Advances in Targeting the Ionotropic Glutamate Receptors in Treating Schizophrenia</title>
+      <link>/publication/rn-90/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-90/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

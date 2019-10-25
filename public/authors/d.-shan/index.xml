@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Shan | CDRL</title>
+    <link>/authors/d.-shan/</link>
+      <atom:link href="/authors/d.-shan/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Shan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>D. Shan</title>
+      <link>/authors/d.-shan/</link>
+    </image>
+    
+    <item>
+      <title>Decreased chloride channel expression in the dorsolateral prefrontal cortex in schizophrenia</title>
+      <link>/publication/rn-4559/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4559/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

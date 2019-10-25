@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intro-to-coding | CDRL</title>
+    <link>/tags/intro-to-coding/</link>
+      <atom:link href="/tags/intro-to-coding/index.xml" rel="self" type="application/rss+xml" />
+    <description>intro-to-coding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>intro-to-coding</title>
+      <link>/tags/intro-to-coding/</link>
+    </image>
+    
+    <item>
+      <title>Intro to Coding with R</title>
+      <link>/courses/intro-to-coding/lesson6/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/courses/intro-to-coding/lesson6/</guid>
+      <description>
+
+&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Generating random numbers&lt;/li&gt;
+&lt;li&gt;Descriptive Statistics&lt;/li&gt;
+&lt;li&gt;Correlations&lt;/li&gt;
+&lt;li&gt;T-tests&lt;/li&gt;
+&lt;li&gt;ANOVA&lt;/li&gt;
+&lt;li&gt;Power Analysis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/courses/intro-to-coding/lesson2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/intro-to-coding/lesson2/</guid>
+      <description>&lt;p&gt;We will cover:&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

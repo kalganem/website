@@ -37,7 +37,7 @@ role: Graduate Research Assistant
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
-# superuser: true
+superuser: true
 user_groups:
 - Grad Students
 ---

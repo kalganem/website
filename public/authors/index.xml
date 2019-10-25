@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -14,8 +14,16 @@
     
     <item>
       <title></title>
+      <link>/authors/khaled/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/khaled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
 
@@ -24,10 +32,242 @@
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <title>A. J. Funk</title>
+      <link>/authors/a.-j.-funk/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-j.-funk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. J. Ramsey</title>
+      <link>/authors/a.-j.-ramsey/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-j.-ramsey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. A. Mielnik</title>
+      <link>/authors/c.-a.-mielnik/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-a.-mielnik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. R. Sullivan</title>
+      <link>/authors/c.-r.-sullivan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-r.-sullivan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. A. DePasquale</title>
+      <link>/authors/e.-a.-depasquale/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-a.-depasquale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Bentea</title>
+      <link>/authors/e.-bentea/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-bentea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Meller</title>
+      <link>/authors/j.-meller/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-meller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Alganem</title>
+      <link>/authors/k.-alganem/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-alganem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Katsel</title>
+      <link>/authors/p.-katsel/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-katsel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. E. McCullumsmith</title>
+      <link>/authors/r.-e.-mccullumsmith/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-e.-mccullumsmith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. M. O&#39;Donovan</title>
+      <link>/authors/s.-m.-odonovan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-m.-odonovan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Haroutunian</title>
+      <link>/authors/v.-haroutunian/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-haroutunian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z. Wen</title>
+      <link>/authors/z.-wen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/z.-wen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Bauer</title>
+      <link>/authors/d.-bauer/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-bauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Shan</title>
+      <link>/authors/d.-shan/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-shan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. H. Meador-Woodruff</title>
+      <link>/authors/j.-h.-meador-woodruff/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-h.-meador-woodruff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Hasselfeld</title>
+      <link>/authors/k.-hasselfeld/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-hasselfeld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Simmons</title>
+      <link>/authors/m.-simmons/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-simmons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Roussos</title>
+      <link>/authors/p.-roussos/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-roussos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Funk</title>
+      <link>/authors/adam-funk/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/adam-funk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James H. Meador-Woodruff</title>
+      <link>/authors/james-h.-meador-woodruff/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/james-h.-meador-woodruff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Hammond</title>
+      <link>/authors/john-hammond/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/john-hammond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert E. McCullumsmith</title>
+      <link>/authors/robert-e.-mccullumsmith/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-e.-mccullumsmith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AJ Funk</title>
+      <link>/authors/aj-funk/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/aj-funk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Rumbaugh</title>
+      <link>/authors/g-rumbaugh/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/g-rumbaugh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Rumbaugh</title>
+      <link>/authors/g.-rumbaugh/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/g.-rumbaugh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JH Meador-Woodruff</title>
+      <link>/authors/jh-meador-woodruff/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/jh-meador-woodruff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RE McCullumsmith</title>
+      <link>/authors/re-mccullumsmith/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/re-mccullumsmith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V Harotunian</title>
+      <link>/authors/v-harotunian/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/v-harotunian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Harotunian</title>
+      <link>/authors/v.-harotunian/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-harotunian/</guid>
       <description></description>
     </item>
     
@@ -59,14 +299,6 @@
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/khaled/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/khaled/</guid>
-      <description></description>
     </item>
     
     <item>

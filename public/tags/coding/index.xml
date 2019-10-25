@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding | CDRL</title>
+    <link>/tags/coding/</link>
+      <atom:link href="/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <description>coding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>coding</title>
+      <link>/tags/coding/</link>
+    </image>
+    
+    <item>
+      <title>Intro to Coding with R</title>
+      <link>/project/intro-to-coding/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/intro-to-coding/</guid>
+      <description>&lt;p&gt;We will cover:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;blogdown&lt;/strong&gt; R package&lt;/li&gt;
+&lt;li&gt;Hugo themes&lt;/li&gt;
+&lt;li&gt;Adding content to personalize your site&lt;/li&gt;
+&lt;li&gt;Posting&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t want to blog? / just want to knit?&lt;/li&gt;
+&lt;li&gt;Customizing themes&lt;/li&gt;
+&lt;li&gt;Troubleshooting common problems&lt;/li&gt;
+&lt;li&gt;Deployment options and recommendations&lt;/li&gt;
+&lt;li&gt;Domain options available through RStudio/rbind&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are planning on attending this workshop, please click on the HTML link above for how to prepare before the workshop.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blogdown-meetup.jpg&#34; &gt;
+&lt;img src=&#34;blogdown-meetup.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Intro to Coding with R</title>
+      <link>/courses/intro-to-coding/lesson6/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/courses/intro-to-coding/lesson6/</guid>
+      <description>
+
+&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Generating random numbers&lt;/li&gt;
+&lt;li&gt;Descriptive Statistics&lt;/li&gt;
+&lt;li&gt;Correlations&lt;/li&gt;
+&lt;li&gt;T-tests&lt;/li&gt;
+&lt;li&gt;ANOVA&lt;/li&gt;
+&lt;li&gt;Power Analysis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/courses/intro-to-coding/lesson2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/intro-to-coding/lesson2/</guid>
+      <description>&lt;p&gt;We will cover:&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
