@@ -52,7 +52,7 @@ Instructors:
 | Name  | Email | Affiliation |
 | --- | --- | --- |
 | Jim Reigle | reiglej@mail.uc.edu | University of Cincinnati |
-| [Khaled Alganem] ( {{< relref "authors/khaled" >}}) | khaled.alganem@rockets.utoledo.edu | University of Toledo |
+| [Khaled Alganem](/authors/khaled) | khaled.alganem@rockets.utoledo.edu | University of Toledo |
 | Marissa Smail | smailma@mail.uc.edu | University of Cincinnati |
-| [Rammohan Shukla, PhD] ( {{< relref "authors/ram" >}}) | rammohanshukla@gmail.com | University of Toledo |
+| [Rammohan Shukla, PhD](/authors/ram) | rammohanshukla@gmail.com | University of Toledo |
 

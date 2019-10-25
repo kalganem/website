@@ -11,6 +11,11 @@ subtitle = ""
 # Automatically link email and phone?
 autolink = true
 
+[design.background]
+  color = "#D7BDA0"
+  
+  text_color_light = false
+
 # Email form provider
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)

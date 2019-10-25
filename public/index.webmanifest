@@ -2,8 +2,8 @@
   "name": "CDRL",
   "short_name": "CDRL",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#86745F",
+  "background_color": "#86745F",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
