@@ -1,16 +1,26 @@
 ---
 date: "2018-09-09T00:00:00Z"
-draft: false
-linktitle: Intro to Coding Course Summer 2019
-menu:
-  intro-to-coding:
-    name: Overview
-    weight: 1
-summary: 
-title: Overview
-toc: true
-type: docs
+#draft: false
+title: Intro to Coding Course Summer 2019
+# menu:
+#   intro-to-coding:
+#     name: Overview
+#     weight: 1
+summary: 8 Lessons 
+#toc: true
+#type: docs
 weight: 1
+
+links:
+- icon: google-drive
+  icon_pack: fab
+  name: Google Drive
+  url: "https://drive.google.com/drive/folders/1DexvEmFYf-7GZIWwo7H6gbfKS1XpFHrx"
+- icon: github
+  icon_pack: fab
+  name: GitHub
+  url: https://github.com/UT-CDRL/Intro-to-coding
+  
 ---
 
 # Intro to Coding Course - Summer 2019  
@@ -36,16 +46,14 @@ Schedule:
 
 | Date | Lesson | Instructor |
 | --- | --- | --- |
-| 7/3/19 | Course Overview  | Jim Reigle & Marissa Smail |
-| 7/10/19 | Basic Concepts of Coding | Jim Reigle  |
-| 7/17/19 | Excel |   |
-| 7/24/19 | Introduction to R Environment |   |
-| 7/31/19 | Data Manipulation |   |
-| 8/7/19 | Statistics |   |
-| 8/14/19 | Visualization |   |
-| 8/21/19 | Other tools:  Github, iLINCS, Kaleidoscope |   |
-
-\*this is a very flexible schedule that will adapt with student interest
+| 7/10/19 | Course Overview  | Marissa Smail & Jim Reigle |
+| 7/17/19 | Introduction to R Environment | Jim Reigle  |
+| 7/31/19 | Basics Concepts of Coding | Jim Reigle  |
+| 8/7/19 | Excel | Marissa Smail |
+| 8/14/19 | Data Manipulation | Jim Reigle  |
+| 8/21/19 | Statistics | [Khaled Alganem](/authors/khaled) |
+| 8/28/19 | Visualization | [Khaled Alganem](/authors/khaled) & Jim Reigle  |
+| 9/04/19 | Applying What We Have Learned | [Khaled Alganem](/authors/khaled) & Jim Reigle & Marissa Smail |
 
 Instructors:
 

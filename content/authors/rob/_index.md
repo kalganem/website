@@ -23,10 +23,10 @@ organizations:
 - name: University of Toledo
   url: ""
 role: CDRL Director, Chair of the Department of Neurosciences
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

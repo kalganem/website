@@ -30,7 +30,7 @@ email: "rammohan.shukla@utoledo.edu"
 # - Artificial Intelligence
 # - Computational Linguistics
 # - Information Retrieval
-name: Ram Shukla, PhD
+name: Rammohan Shukla, PhD
 organizations:
 - name: University of Toledo
   url: ""

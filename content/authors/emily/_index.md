@@ -15,9 +15,6 @@ education:
     year: 2018
 email: "emily.devine@utoledo.edu"
 # interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
 name: Emily Devine
 organizations:
 - name: University of Toledo
@@ -43,4 +40,3 @@ user_groups:
 
 Emily earned a BS in neurobiology from the University of Cincinnati in 2016.  During her undergraduate career, she spent two years researching Parkinson's disease where she analyzed ultrasonic vocalizations in rat models as a way to study dysarthria and cognitive function during disease progression.  Emily joined the Cognitive Disorders Research Laboratory in September 2016 and quickly became the lead laser capture microdissection technician, using this technique along with QPCR to explore glutamate transported expression in schizophrenia.  In the summer of 2018, Emily will relocate to the University of Toledo Medical Center in August of 2018 where she continue her work with the laboratory.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

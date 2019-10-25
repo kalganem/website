@@ -29,38 +29,6 @@
     </item>
     
     <item>
-      <title>coding</title>
-      <link>/tags/coding/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>course</title>
-      <link>/tags/course/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/course/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>intro-to-coding</title>
-      <link>/tags/intro-to-coding/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/intro-to-coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R Shiny</title>
       <link>/tags/r-shiny/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
@@ -77,9 +45,41 @@
     </item>
     
     <item>
+      <title>coding</title>
+      <link>/tags/coding/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
+      <guid>/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>course</title>
+      <link>/tags/course/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
+      <guid>/tags/course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intro-to-coding</title>
+      <link>/tags/intro-to-coding/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
+      <guid>/tags/intro-to-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>workshop</title>
       <link>/tags/workshop/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
       <guid>/tags/workshop/</guid>
       <description></description>
     </item>

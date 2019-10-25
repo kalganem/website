@@ -5,7 +5,7 @@
     <link>/categories/</link>
       <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Categories</title>
@@ -15,7 +15,7 @@
     <item>
       <title>courses</title>
       <link>/categories/courses/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
       <guid>/categories/courses/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>intro-to-coding</title>
       <link>/categories/intro-to-coding/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
       <guid>/categories/intro-to-coding/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>workshop</title>
       <link>/categories/workshop/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
       <guid>/categories/workshop/</guid>
       <description></description>
     </item>
