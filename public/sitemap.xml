@@ -28,6 +28,16 @@
   </url>
   
   <url>
+    <loc>/project/khaled_sobp2019/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/posters/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url>
@@ -93,12 +103,12 @@
   </url>
   
   <url>
-    <loc>/tags/workshop/</loc>
+    <loc>/categories/workshop/</loc>
     <lastmod>2019-09-04T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/workshop/</loc>
+    <loc>/tags/workshop/</loc>
     <lastmod>2019-09-04T00:00:00+01:00</lastmod>
   </url>
   
@@ -160,6 +170,16 @@
   <url>
     <loc>/publications/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/courses/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/workshops/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -421,11 +441,6 @@
   
   <url>
     <loc>/authors/wilma/</loc>
-  </url>
-  
-  <url>
-    <loc>/google228dddd27f8e8fa4/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

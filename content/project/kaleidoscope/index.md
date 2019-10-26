@@ -7,18 +7,19 @@ image:
   caption: 
   focal_point: Smart
 links:
-- icon: twitter
+- icon: link
   icon_pack: fas
   name: Link
   url: https://kalganem.shinyapps.io/BrainDatabases/
-#slides: example
+
+title: Kaleidoscope App
 summary: Exploratory Data Analysis Web Application
 tags:
 - Apps
 - R Shiny
 - Bioinformatics
 - Web Application
-title: Kaleidoscope
+
 url_code: ""
 url_pdf: ""
 url_slides: ""

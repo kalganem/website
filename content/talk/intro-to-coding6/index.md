@@ -33,7 +33,7 @@ tags:
 - workshop
 - course
 
-url_code: ""
+url_code: ../scripts/intro-to-coding/lesson6/
 url_pdf: ""
 url_slides: "https://drive.google.com/open?id=1mvQdcqpTJXDVnb33Db2LKNRmCdbQPBmA"
 url_video: "https://drive.google.com/open?id=1P_tRHQ4wG7SL89JklGCL6G-8Fe72PSqx"

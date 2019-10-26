@@ -20,6 +20,12 @@ links:
   icon_pack: fab
   name: GitHub
   url: https://github.com/UT-CDRL/Intro-to-coding
+
+tags:
+- Workshops
+- Courses
+- R
+- Coding
   
 ---
 
