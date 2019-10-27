@@ -28,16 +28,6 @@
   </url>
   
   <url>
-    <loc>/project/khaled_sobp2019/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/posters/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url>
@@ -103,12 +93,12 @@
   </url>
   
   <url>
-    <loc>/categories/workshop/</loc>
+    <loc>/tags/workshop/</loc>
     <lastmod>2019-09-04T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/workshop/</loc>
+    <loc>/categories/workshop/</loc>
     <lastmod>2019-09-04T00:00:00+01:00</lastmod>
   </url>
   
@@ -155,6 +145,41 @@
   <url>
     <loc>/talk/intro-to-coding1/</loc>
     <lastmod>2019-07-10T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/khaled_sobp2019/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/posters/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demonstration/</loc>
+    <lastmod>2019-04-19T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/drug-discovery/</loc>
+    <lastmod>2019-04-19T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/mini_symposium_2019/</loc>
+    <lastmod>2019-04-19T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/symposium/</loc>
+    <lastmod>2019-04-19T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/talks/</loc>
+    <lastmod>2019-04-19T00:00:01+00:00</lastmod>
   </url>
   
   <url>

@@ -26,6 +26,7 @@ tags:
 - Courses
 - R
 - Coding
+- Bioinformatics
   
 ---
 

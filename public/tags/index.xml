@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>Posters</title>
-      <link>/tags/posters/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/posters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R Shiny</title>
       <link>/tags/r-shiny/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
@@ -89,6 +81,46 @@
       <link>/tags/workshop/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
       <guid>/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posters</title>
+      <link>/tags/posters/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/posters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration</title>
+      <link>/tags/demonstration/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:01 +0000</pubDate>
+      <guid>/tags/demonstration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drug Discovery</title>
+      <link>/tags/drug-discovery/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:01 +0000</pubDate>
+      <guid>/tags/drug-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symposium</title>
+      <link>/tags/symposium/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:01 +0000</pubDate>
+      <guid>/tags/symposium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/tags/talks/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:01 +0000</pubDate>
+      <guid>/tags/talks/</guid>
       <description></description>
     </item>
     
