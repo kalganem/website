@@ -1,7 +1,8 @@
 ---
-date: "2018-09-09T00:00:00Z"
+date: "2019-09-09T00:00:00Z"
 #draft: false
 title: Intro to Coding Course Summer 2019
+authors: ["khaled"]
 # menu:
 #   intro-to-coding:
 #     name: Overview

@@ -20,7 +20,7 @@ email: ""
 # - Information Retrieval
 name: Khaled Alganem
 organizations:
-- name: Stanford University
+- name: 
   url: ""
 role: 
 # social:

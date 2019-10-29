@@ -18,7 +18,8 @@ email: "khaled.alganem@rockets.utoledo.edu"
 interests:
 - Bioinformatics
 - Programming
-- Big Data Analysis
+- Data Analysis
+
 name: Khaled Alganem
 organizations:
 - name: University of Toledo

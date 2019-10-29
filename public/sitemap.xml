@@ -4,11 +4,21 @@
   
   <url>
     <loc>/project/intro-to-coding/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/khaled/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/apps/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,12 +58,27 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-09-04T00:00:00+01:00</lastmod>
+    <loc>/tags/coding/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/coding/</loc>
+    <loc>/tags/courses/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/workshops/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2019-09-04T00:00:00+01:00</lastmod>
   </url>
   
@@ -68,22 +93,17 @@
   </url>
   
   <url>
-    <loc>/tags/intro-to-coding/</loc>
-    <lastmod>2019-09-04T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/intro-to-coding/</loc>
     <lastmod>2019-09-04T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/intro-to-coding8/</loc>
+    <loc>/tags/intro-to-coding/</loc>
     <lastmod>2019-09-04T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
+    <loc>/talk/intro-to-coding8/</loc>
     <lastmod>2019-09-04T00:00:00+01:00</lastmod>
   </url>
   
@@ -105,16 +125,6 @@
   <url>
     <loc>/talk/intro-to-coding7/</loc>
     <lastmod>2019-08-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/khaled/</loc>
-    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -195,16 +205,6 @@
   <url>
     <loc>/publications/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/courses/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/workshops/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>

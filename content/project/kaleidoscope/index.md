@@ -1,8 +1,7 @@
 ---
 date: "2019-10-24T00:00:00Z"
 external_link: ""
-author: 
-- khaled
+authors: ["khaled"]
 image:
   caption: 
   focal_point: Smart
