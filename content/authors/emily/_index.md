@@ -13,6 +13,7 @@ education:
   - course: CDRL Lab Manager
     institution: University of Toledo
     year: 2018
+    
 email: "emily.devine@utoledo.edu"
 # interests:
 name: Emily Devine
@@ -20,10 +21,10 @@ organizations:
 - name: University of Toledo
   url: ""
 role: Lab Manager
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:emily.devine@utoledo.edu"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

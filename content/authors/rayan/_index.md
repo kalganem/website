@@ -1,6 +1,6 @@
 ---
 authors:
-- sophie
+- rayan
 # bio: 
 education:
   courses:
@@ -18,15 +18,15 @@ email: ""
 # - Artificial Intelligence
 # - Computational Linguistics
 # - Information Retrieval
-name: Sophie Asah
+name: Ryan Homan
 organizations:
 - name: University of Toledo
   url: ""
-role: Lab Research Technician
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'
+role: Laboratory Research Technician
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:ryan.devorehoman@utoledo.edu"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -38,6 +38,6 @@ role: Lab Research Technician
 #   link: https://github.com/gcushen
 # superuser: true
 user_groups:
-- Lab Technicians
+- Laboratory Research Technicians
 ---
 

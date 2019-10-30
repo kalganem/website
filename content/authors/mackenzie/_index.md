@@ -23,10 +23,10 @@ organizations:
 - name: University of Toledo
   url: ""
 role: Graduate Research Assistant
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:mackenzie.abel@rockets.utoledo.edu"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -38,6 +38,6 @@ role: Graduate Research Assistant
 #   link: https://github.com/gcushen
 # superuser: true
 user_groups:
-- Grad Students
+- Graduate Students
 ---
 

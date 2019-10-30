@@ -22,11 +22,11 @@ name: Xiaojun (Wilma) Wu, PhD
 organizations:
 - name: University of Toledo
   url: ""
-role: Post Doc
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'
+role: Postdoc
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:Xiaojun.Wu@utoledo.edu"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -38,6 +38,6 @@ role: Post Doc
 #   link: https://github.com/gcushen
 # superuser: true
 user_groups:
-- Post Docs
+- Postdoctoral Researchers
 ---
 

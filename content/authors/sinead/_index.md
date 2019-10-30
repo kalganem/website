@@ -29,11 +29,11 @@ name: Sinead O'donovan, PhD
 organizations:
 - name: University of Toledo
   url: ""
-role: Director of Translational studies
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'
+role: Director of Translational Studies
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:Sinead.ODonovan@UToledo.Edu"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

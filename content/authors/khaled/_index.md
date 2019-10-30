@@ -40,6 +40,6 @@ social:
 #   link: https://github.com/kalganem
 superuser: true
 user_groups:
-- Grad Students
+- Graduate Students
 ---
 

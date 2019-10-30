@@ -18,7 +18,7 @@ email: "robert.mccullumsmith@utoledo.edu"
 # - Artificial Intelligence
 # - Computational Linguistics
 # - Information Retrieval
-name: Robert Mccullumsmith, Md, PhD
+name: Robert Mccullumsmith, MD, PhD
 organizations:
 - name: University of Toledo
   url: ""
@@ -26,7 +26,7 @@ role: CDRL Director, Chair of the Department of Neurosciences
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:robert.mccullumsmith@utoledo.edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
