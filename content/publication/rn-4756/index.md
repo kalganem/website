@@ -1,0 +1,13 @@
+---
+title: "Neurotransmitter changes after traumatic brain injury: an update for new treatment strategies"
+date: 2019-01-01
+publishDate: 2019-11-04T16:45:55.554662Z
+authors: ["J. L. McGuire", "L. B. Ngwenya", "R. E. McCullumsmith"]
+publication_types: ["2"]
+abstract: "Traumatic brain injury (TBI) is a pervasive problem in the United States and worldwide, as the number of diagnosed individuals is increasing yearly and there are no efficacious therapeutic interventions. A large number of patients suffer with cognitive disabilities and psychiatric conditions after TBI, especially anxiety and depression. The constellation of post-injury cognitive and behavioral symptoms suggest permanent effects of injury on neurotransmission. Guided in part by preclinical studies, clinical trials have focused on high-yield pathophysiologic mechanisms, including protein aggregation, inflammation, metabolic disruption, cell generation, physiology, and alterations in neurotransmitter signaling. Despite successful treatment of experimental TBI in animal models, clinical studies based on these findings have failed to translate to humans. The current international effort to reshape TBI research is focusing on redefining the taxonomy and characterization of TBI. In addition, as the next round of clinical trials is pending, there is a pressing need to consider what the field has learned over the past two decades of research, and how we can best capitalize on this knowledge to inform the hypotheses for future innovations. Thus, it is critically important to extend our understanding of the pathophysiology of TBI, particularly to mechanisms that are associated with recovery versus development of chronic symptoms. In this review, we focus on the pathology of neurotransmission after TBI, reflecting on what has been learned from both the preclinical and clinical studies, and we discuss new directions and opportunities for future work."
+featured: false
+publication: "*Mol Psychiatry*"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/30214042"
+doi: "10.1038/s41380-018-0239-6"
+---
+

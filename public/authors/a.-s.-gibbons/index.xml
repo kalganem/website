@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. S. Gibbons | CDRL</title>
+    <link>/authors/a.-s.-gibbons/</link>
+      <atom:link href="/authors/a.-s.-gibbons/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. S. Gibbons</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. S. Gibbons</title>
+      <link>/authors/a.-s.-gibbons/</link>
+    </image>
+    
+    <item>
+      <title>Changes in cortical N-methyl-D-aspartate receptors and post-synaptic density protein 95 in schizophrenia, mood disorders and suicide</title>
+      <link>/publication/rn-4775/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4775/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

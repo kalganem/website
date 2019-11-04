@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. L. Pinner | CDRL</title>
+    <link>/authors/a.-l.-pinner/</link>
+      <atom:link href="/authors/a.-l.-pinner/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. L. Pinner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. L. Pinner</title>
+      <link>/authors/a.-l.-pinner/</link>
+    </image>
+    
+    <item>
+      <title>Decreased protein S-palmitoylation in dorsolateral prefrontal cortex in schizophrenia</title>
+      <link>/publication/rn-4769/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4769/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abnormal N-linked glycosylation of cortical AMPA receptor subunits in schizophrenia</title>
+      <link>/publication/rn-4787/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4787/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

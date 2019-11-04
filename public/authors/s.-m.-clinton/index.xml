@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. M. Clinton | CDRL</title>
+    <link>/authors/s.-m.-clinton/</link>
+      <atom:link href="/authors/s.-m.-clinton/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. M. Clinton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. M. Clinton</title>
+      <link>/authors/s.-m.-clinton/</link>
+    </image>
+    
+    <item>
+      <title>Schizophrenia as a disorder of neuroplasticity</title>
+      <link>/publication/rn-4811/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4811/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular abnormalities of the glutamate synapse in the thalamus in schizophrenia</title>
+      <link>/publication/rn-4815/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4815/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

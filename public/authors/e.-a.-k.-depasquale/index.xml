@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. A. K. Depasquale | CDRL</title>
+    <link>/authors/e.-a.-k.-depasquale/</link>
+      <atom:link href="/authors/e.-a.-k.-depasquale/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. A. K. Depasquale</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>E. A. K. Depasquale</title>
+      <link>/authors/e.-a.-k.-depasquale/</link>
+    </image>
+    
+    <item>
+      <title>Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</title>
+      <link>/publication/rn-4757/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4757/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
+      <link>/publication/rn-4752/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4752/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

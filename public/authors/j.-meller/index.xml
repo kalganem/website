@@ -5,7 +5,7 @@
     <link>/authors/j.-meller/</link>
       <atom:link href="/authors/j.-meller/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Meller</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>J. Meller</title>
@@ -14,9 +14,33 @@
     
     <item>
       <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
-      <link>/publication/rn-4634/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4634/</guid>
+      <link>/publication/rn-4754/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4754/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
+      <link>/publication/rn-4752/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4752/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abnormalities of signal transduction networks in chronic schizophrenia</title>
+      <link>/publication/rn-4763/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4763/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traumatic Brain Injury Induces Alterations in Cortical Glutamate Uptake without a Reduction in Glutamate Transporter-1 Protein Expression</title>
+      <link>/publication/rn-4766/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4766/</guid>
       <description></description>
     </item>
     
