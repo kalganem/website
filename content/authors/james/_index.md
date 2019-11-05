@@ -20,9 +20,9 @@ email: ""
 # - Information Retrieval
 name: Jim Reigle
 organizations:
-- name: University of Cincinnati
+- name: 
   url: ""
-role: Graduate Student - 
+role: Graduate Research Assistant - 
       University of Cincinnati
 social:
 - icon: envelope

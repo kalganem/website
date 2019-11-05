@@ -1,0 +1,13 @@
+---
+title: "Purinergic signaling and energy homeostasis in psychiatric disorders"
+date: 2015-01-01
+publishDate: 2019-11-05T03:19:06.061133Z
+authors: ["D. Lindberg", "D. Shan", "J. Ayers-Ringler", "A. Oliveros", "J. Benitez", "M. Prieto", "R. McCullumsmith", "D. S. Choi"]
+publication_types: ["2"]
+abstract: "Purinergic signaling regulates numerous vital biological processes in the central nervous system (CNS). The two principle purines, ATP and adenosine act as excitatory and inhibitory neurotransmitters, respectively. Compared to other classical neurotransmitters, the role of purinergic signaling in psychiatric disorders is not well understood or appreciated. Because ATP exerts its main effect on energy homeostasis, neuronal function of ATP has been underestimated. Similarly, adenosine is primarily appreciated as a precursor of nucleotide synthesis during active cell growth and division. However, recent findings suggest that purinergic signaling may explain how neuronal activity is associated neuronal energy charge and energy homeostasis, especially in mental disorders. In this review, we provide an overview of the synaptic function of mitochondria and purines in neuromodulation, synaptic plasticity, and neuron-glia interactions. We summarize how mitochondrial and purinergic dysfunction contribute to mental illnesses such as schizophrenia, bipolar disorder, autism spectrum disorder (ASD), depression, and addiction. Finally, we discuss future implications regarding the pharmacological targeting of mitochondrial and purinergic function for the treatment of psychiatric disorders."
+featured: false
+publication: "*Curr Mol Med*"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/25950756"
+doi: "10.2174/1566524015666150330163724"
+---
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. M. Ho | CDRL</title>
+    <link>/authors/s.-m.-ho/</link>
+      <atom:link href="/authors/s.-m.-ho/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. M. Ho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. M. Ho</title>
+      <link>/authors/s.-m.-ho/</link>
+    </image>
+    
+    <item>
+      <title>Synergistic effects of common schizophrenia risk variants</title>
+      <link>/publication/rn-4894/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4894/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

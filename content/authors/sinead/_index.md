@@ -10,21 +10,23 @@ education:
   - course: Ph.D. Neuroscience, Institute of Neuroscience & Department of Psychiatry
     institution: Trinity College of Dublin, Ireland
     year: 2012
-  - course: Postdoctoral Fellow, Institute of Neuroscience & Department of Psychiatry
+
+
+experience:
+  jobs:
+  - job: Postdoctoral Fellow, Institute of Neuroscience & Department of Psychiatry
     institution: Trinity College of Dublin, Ireland
     year: 2014
-  - course: Postdoctoral Fellow, Department of Psychiatry & Behavioral Neuroscience
+  - job: Postdoctoral Fellow, Department of Psychiatry & Behavioral Neuroscience
     institution: University of Cincinnati
     year: 2018
-  - course: Research Assistant Professor
+  - job: Research Assistant Professor
     institution: University of Toledo
     year: 2018
-    
+
+   
 email: "sinead.odonovan@utoledo.edu"
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+
 name: Sinead O'donovan, PhD
 organizations:
 - name: University of Toledo
@@ -34,16 +36,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:Sinead.ODonovan@UToledo.Edu"
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
-# superuser: true
+
 user_groups:
 - Co-Directors
 ---

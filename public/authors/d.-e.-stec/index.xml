@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. E. Stec | CDRL</title>
+    <link>/authors/d.-e.-stec/</link>
+      <atom:link href="/authors/d.-e.-stec/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. E. Stec</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>D. E. Stec</title>
+      <link>/authors/d.-e.-stec/</link>
+    </image>
+    
+    <item>
+      <title>RNA sequencing in human HepG2 hepatocytes reveals PPAR-alpha mediates transcriptome responsiveness of bilirubin</title>
+      <link>/publication/rn-4897/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4897/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

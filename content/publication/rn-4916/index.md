@@ -1,0 +1,13 @@
+---
+title: "Tyrosine hydroxylase localization in the nucleus accumbens in schizophrenia"
+date: 2016-01-01
+publishDate: 2019-11-05T03:19:06.064462Z
+authors: ["L. A. McCollum", "R. E. McCullumsmith", "R. C. Roberts"]
+publication_types: ["2"]
+abstract: "The nucleus accumbens (NAcc) has been implicated in schizophrenia (SZ) pathology, based on antipsychotic action therein. However, recent imaging studies suggest that the NAcc may not be a locus of dopamine dysregulation in SZ. This study examined postmortem human tissue to determine if abnormalities are present in dopamine synthesis in the NAcc in SZ. We compared the immunohistochemical localization of tyrosine hydroxylase (TH), the rate-limiting synthesizing enzyme of dopamine, in postmortem tissue from SZ subjects and demographically matched controls. To study the effects of chronic antipsychotic drug (APD) treatment on TH immunolabeling in the NAcc, rats were treated for 6 months with haloperidol or olanzapine. In the NAcc, TH immunolabeling was similar in control and SZ subjects, in both the core and shell. Rats had similar TH optical density levels across treatment groups in both the core and shell. Similar levels of TH suggest DA synthesis may be normal. These findings provide further insight into the role of the NAcc in SZ."
+featured: false
+publication: "*Brain Struct Funct*"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/26740229"
+doi: "10.1007/s00429-015-1174-9"
+---
+

@@ -7,10 +7,14 @@ education:
   - course: BS in Neurobiology
     institution: University of Cincinnati
     year: 2016
-  - course: Lab Technician
+
+
+experience:
+  jobs:
+  - job: Laboratory Research Technician
     institution: University of Cincinnati
     year: 2016
-  - course: CDRL Lab Manager
+  - job: Research Associate & Lab Manager
     institution: University of Toledo
     year: 2018
     
