@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Tags | CDRL</title>
     <link>https://www.cdrl-ut.com/tags/</link>
       <atom:link href="https://www.cdrl-ut.com/tags/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <title>Tags | Cognitive Disorders Research Laboratory</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://www.cdrl-ut.com/tags/</link>
     </image>
+    
+    <item>
+      <title>SFN</title>
+      <link>/tags/sfn/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/sfn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Apps</title>

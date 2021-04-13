@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>S. Yates | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/s.-yates/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/s.-yates/index.xml" rel="self" type="application/rss+xml" />
@@ -10,21 +11,44 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>S. Yates</title>
       <link>https://www.cdrl-ut.com/authors/s.-yates/</link>
+=======
+    <title>S. Yates | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/s.-yates/</link>
+      <atom:link href="/authors/s.-yates/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Yates</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. Yates</title>
+      <link>/authors/s.-yates/</link>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Global signaling effects of a schizophrenia-associated missense mutation in neuregulin 1: an exploratory study using whole genome and novel kinome approaches</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2014-01-02_rn5188/</link>
       <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2014-01-02_rn5188/</guid>
+=======
+      <link>/publication/rn-4930/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4930/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Update on the neurobiology of schizophrenia: a role for extracellular microdomains</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2013-10-01_rn5190/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2013-10-01_rn5190/</guid>
+=======
+      <link>/publication/rn-4932/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4932/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

@@ -18,7 +18,7 @@ email: ""
 # - Artificial Intelligence
 # - Computational Linguistics
 # - Information Retrieval
-name: Evelyn Alden
+name: Evelyn Bates
 organizations:
 - name: University of Toledo
   url: ""

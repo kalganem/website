@@ -85,7 +85,13 @@ privacy_pack = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
+#<<<<<<< HEAD
 email = "cdrl@utoledo.edu"
+#=======
+#email = "emily.devine@utoledo.edu"
+#"419 383 6103"
+#phone = "419 383 6103"
+#>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
 
 # Address
 

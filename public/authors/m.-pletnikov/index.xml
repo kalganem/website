@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>M. Pletnikov | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/m.-pletnikov/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/m.-pletnikov/index.xml" rel="self" type="application/rss+xml" />
@@ -10,13 +11,30 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>M. Pletnikov</title>
       <link>https://www.cdrl-ut.com/authors/m.-pletnikov/</link>
+=======
+    <title>M. Pletnikov | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/m.-pletnikov/</link>
+      <atom:link href="/authors/m.-pletnikov/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Pletnikov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. Pletnikov</title>
+      <link>/authors/m.-pletnikov/</link>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2019-03-27_rn5156/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2019-03-27_rn5156/</guid>
+=======
+      <link>/publication/rn-4898/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4898/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

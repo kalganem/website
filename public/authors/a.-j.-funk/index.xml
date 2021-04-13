@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>A. J. Funk | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/a.-j.-funk/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/a.-j.-funk/index.xml" rel="self" type="application/rss+xml" />
     <description>A. J. Funk</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
+=======
+    <title>A. J. Funk | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/a.-j.-funk/</link>
+      <atom:link href="/authors/a.-j.-funk/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. J. Funk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     <image>
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>A. J. Funk</title>
@@ -46,73 +54,127 @@
     
     <item>
       <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2018-10-20_rn5157/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2018-10-20_rn5157/</guid>
+=======
+      <link>/publication/rn-4899/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4899/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Abnormalities of signal transduction networks in chronic schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2017-09-14_rn5166/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2017-09-14_rn5166/</guid>
+=======
+      <link>/publication/rn-4908/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4908/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Postsynaptic Density-95 Isoform Abnormalities in Schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2017-01-28_rn5168/</link>
       <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2017-01-28_rn5168/</guid>
+=======
+      <link>/publication/rn-4910/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4910/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Systematic evaluation of data-independent acquisition for sensitive and reproducible proteomics-a prototype design for a single injection assay</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2016-01-13_rn5173/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2016-01-13_rn5173/</guid>
+=======
+      <link>/publication/rn-4915/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4915/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Decreased chloride channel expression in the dorsolateral prefrontal cortex in schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2015-04-01_rn5181/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2015-04-01_rn5181/</guid>
+=======
+      <link>/publication/rn-4923/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4923/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Increased G protein-coupled receptor kinase (GRK) expression in the anterior cingulate cortex in schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2014-08-26_rn5184/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2014-08-26_rn5184/</guid>
+=======
+      <link>/publication/rn-4926/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4926/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Abnormal activity of the MAPK- and cAMP-associated signaling pathways in frontal cortical areas in postmortem brain in schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2011-11-04_rn5198/</link>
       <pubDate>Fri, 04 Nov 2011 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2011-11-04_rn5198/</guid>
+=======
+      <link>/publication/rn-4940/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4940/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Evidence for abnormal forward trafficking of AMPA receptors in frontal cortex of elderly patients with schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2010-06-24_rn5202/</link>
       <pubDate>Thu, 24 Jun 2010 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2010-06-24_rn5202/</guid>
+=======
+      <link>/publication/rn-4944/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4944/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Decreased expression of NMDA receptor-associated proteins in frontal cortex of elderly patients with schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2009-06-02_rn5205/</link>
       <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2009-06-02_rn5205/</guid>
+=======
+      <link>/publication/rn-4947/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4947/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

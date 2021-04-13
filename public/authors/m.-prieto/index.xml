@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>M. Prieto | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/m.-prieto/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/m.-prieto/index.xml" rel="self" type="application/rss+xml" />
@@ -10,13 +11,30 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>M. Prieto</title>
       <link>https://www.cdrl-ut.com/authors/m.-prieto/</link>
+=======
+    <title>M. Prieto | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/m.-prieto/</link>
+      <atom:link href="/authors/m.-prieto/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Prieto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. Prieto</title>
+      <link>/authors/m.-prieto/</link>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Purinergic signaling and energy homeostasis in psychiatric disorders</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2015-05-08_rn5179/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2015-05-08_rn5179/</guid>
+=======
+      <link>/publication/rn-4921/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4921/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>M. Simmons | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/m.-simmons/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/m.-simmons/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Simmons</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+=======
+    <title>M. Simmons | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/m.-simmons/</link>
+      <atom:link href="/authors/m.-simmons/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Simmons</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     <image>
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>M. Simmons</title>
@@ -14,41 +22,73 @@
     
     <item>
       <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2019-05-21_rn5154/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2019-05-21_rn5154/</guid>
+=======
+      <link>/publication/rn-4896/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4896/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Shaping plasticity: Alterations in glutamate transporter localization as a pathophysiological mechanism in severe mental illness</title>
       <link>https://www.cdrl-ut.com/publication/2016-05-21_rn5171/</link>
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2016-05-21_rn5171/</guid>
+=======
+      <title>Cell-specific abnormalities of glutamate transporters in schizophrenia: sick astrocytes and compensating relay neurons?</title>
+      <link>/publication/rn-4918/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4918/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Cell-specific abnormalities of glutamate transporters in schizophrenia: sick astrocytes and compensating relay neurons?</title>
       <link>https://www.cdrl-ut.com/publication/2015-09-30_rn5176/</link>
       <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2015-09-30_rn5176/</guid>
+=======
+      <title>Shaping plasticity: Alterations in glutamate transporter localization as a pathophysiological mechanism in severe mental illness</title>
+      <link>/publication/rn-4913/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4913/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Glutamate transporter splice variant expression in an enriched pyramidal cell population in schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2015-06-10_rn5177/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2015-06-10_rn5177/</guid>
+=======
+      <link>/publication/rn-4919/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4919/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Glutamatergic gene expression is specifically reduced in thalamocortical projecting relay neurons in schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2011-05-10_rn5200/</link>
       <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2011-05-10_rn5200/</guid>
+=======
+      <link>/publication/rn-4942/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4942/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

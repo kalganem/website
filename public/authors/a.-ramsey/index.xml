@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>A. Ramsey | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/a.-ramsey/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/a.-ramsey/index.xml" rel="self" type="application/rss+xml" />
@@ -10,21 +11,44 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>A. Ramsey</title>
       <link>https://www.cdrl-ut.com/authors/a.-ramsey/</link>
+=======
+    <title>A. Ramsey | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/a.-ramsey/</link>
+      <atom:link href="/authors/a.-ramsey/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Ramsey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. Ramsey</title>
+      <link>/authors/a.-ramsey/</link>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Neuron-specific deficits of bioenergetic processes in the dorsolateral prefrontal cortex in schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2018-03-03_rn5162/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2018-03-03_rn5162/</guid>
+=======
+      <link>/publication/rn-4904/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4904/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Defects in Bioenergetic Coupling in Schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2017-12-09_rn5164/</link>
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2017-12-09_rn5164/</guid>
+=======
+      <link>/publication/rn-4906/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4906/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>K. Alganem | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/k.-alganem/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/k.-alganem/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Alganem</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
+=======
+    <title>K. Alganem | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/k.-alganem/</link>
+      <atom:link href="/authors/k.-alganem/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Alganem</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     <image>
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>K. Alganem</title>
@@ -70,9 +78,23 @@
     
     <item>
       <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2018-10-20_rn5157/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2018-10-20_rn5157/</guid>
+=======
+      <link>/publication/rn-4899/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4899/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergistic effects of common schizophrenia risk variants</title>
+      <link>/publication/rn-4894/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4894/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

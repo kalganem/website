@@ -2,12 +2,16 @@
 <html lang="en-us">
 
 <head>
-
+  
+  
+  
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic 4.5.0">
+  
 
+  
   
 
   
@@ -31,8 +35,14 @@
   <meta name="description" content="COGNITIVE DISORDERS RESEARCH LABORATORY">
 
   
+<<<<<<< HEAD
   <link rel="alternate" hreflang="en-us" href="https://www.cdrl-ut.com/publication_types/2/">
 
+=======
+  <link rel="alternate" hreflang="en-us" href="/publication_types/2/">
+  
+  
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
   
 
 
@@ -91,11 +101,46 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
-  <link rel="alternate" href="/publication_types/2/index.xml" type="application/rss+xml" title="CDRL">
+  <link rel="alternate" href="/publication_types/2/index.xml" type="application/rss+xml" title="Cognitive Disorders Research Laboratory">
   
 
   <link rel="manifest" href="/index.webmanifest">
@@ -114,6 +159,7 @@
   
   <meta property="twitter:card" content="summary">
   
+<<<<<<< HEAD
   <meta property="og:site_name" content="CDRL">
   <meta property="og:url" content="https://www.cdrl-ut.com/publication_types/2/">
   <meta property="og:title" content="2 | CDRL">
@@ -121,6 +167,15 @@
   <meta property="twitter:image" content="https://www.cdrl-ut.com/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2021-03-11T00:00:00&#43;00:00">
+=======
+  <meta property="og:site_name" content="Cognitive Disorders Research Laboratory">
+  <meta property="og:url" content="/publication_types/2/">
+  <meta property="og:title" content="2 | Cognitive Disorders Research Laboratory">
+  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2019-01-01T00:00:00&#43;00:00">
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
   
 
   
@@ -137,7 +192,7 @@
 
 
 
-  <title>2 | CDRL</title>
+  <title>2 | Cognitive Disorders Research Laboratory</title>
 
 </head>
 
@@ -180,7 +235,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">CDRL</a>
+      <a class="navbar-brand" href="/">Cognitive Disorders Research Laboratory</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -327,6 +382,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/gallery"><span>Gallery</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -402,15 +479,23 @@
   
   
   <div>
+<<<<<<< HEAD
     <h2><a href="/publication/2021-03-11_rn5132/">Fluoxetine as an anti-inflammatory therapy in SARS-CoV-2 infection</a></h2>
     <div class="article-style">
       
       Hyperinflammatory response caused by infections such as Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) increases organ failure, intensive care unit admission, and mortality. Cytokine storm in patients with Coronavirus Disease 2019 …
+=======
+    <h2><a href="/publication/rn-4902/">Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</a></h2>
+    <div class="article-style">
+      
+      Traumatic brain injury (TBI) is a leading cause of death and long-term disability worldwide. Although chronic disability is common after TBI, effective treatments remain elusive and chronic TBI pathophysiology is not well understood. Early after TBI, …
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       
     </div>
   </div>
   
   <div>
+<<<<<<< HEAD
     <h2><a href="/publication/2021-02-26_rn5133/">Identification of candidate repurposable drugs to combat COVID-19 using a signature-based approach</a></h2>
     <div class="article-style">
       
@@ -430,6 +515,9 @@
   
   <div>
     <h2><a href="/publication/2021-01-29_rn5135/">Similarities and dissimilarities between psychiatric cluster disorders</a></h2>
+=======
+    <h2><a href="/publication/rn-4899/">Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</a></h2>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     <div class="article-style">
       
       The common molecular mechanisms underlying psychiatric disorders are not well understood. Prior attempts to assess the pathological mechanisms responsible for psychiatric disorders have been limited by biased selection of comparable disorders, …
@@ -438,55 +526,115 @@
   </div>
   
   <div>
+<<<<<<< HEAD
     <h2><a href="/publication/2021-01-08_rn5136/">Role of Astrocytes in Major Neuropsychiatric Disorders</a></h2>
     <div class="article-style">
       
       Astrocytes are the primary homeostatic cells of the central nervous system, essential for normal neuronal development and function, metabolism and response to injury and inflammation. Here, we review postmortem studies examining changes in astrocytes …
+=======
+    <h2><a href="/publication/rn-4896/">Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</a></h2>
+    <div class="article-style">
+      
+      Protein kinases orchestrate signal transduction pathways involved in central nervous system functions ranging from neurodevelopment to synaptic transmission and plasticity. Abnormalities in kinase-mediated signaling are involved in the …
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       
     </div>
   </div>
   
   <div>
+<<<<<<< HEAD
     <h2><a href="/publication/2020-11-26_rn5137/">Emerging Kinase Therapeutic Targets in Pancreatic Ductal Adenocarcinoma and Pancreatic Cancer Desmoplasia</a></h2>
     <div class="article-style">
       
       Kinase drug discovery represents an active area of therapeutic research, with previous pharmaceutical success improving patient outcomes across a wide variety of human diseases. In pancreatic ductal adenocarcinoma (PDAC), innovative pharmaceutical …
+=======
+    <h2><a href="/publication/rn-4898/">Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</a></h2>
+    <div class="article-style">
+      
+      Converging evidence suggests bioenergetic defects contribute to the pathophysiology of schizophrenia and may underlie cognitive dysfunction. The transport and metabolism of lactate energetically couples astrocytes and neurons and supports brain …
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       
     </div>
   </div>
   
   <div>
+<<<<<<< HEAD
     <h2><a href="/publication/2020-11-21_rn5138/">Kinome Array Profiling of Patient-Derived Pancreatic Ductal Adenocarcinoma Identifies Differentially Active Protein Tyrosine Kinases</a></h2>
     <div class="article-style">
       
       Pancreatic cancer remains one of the most difficult malignancies to treat. Minimal improvements in patient outcomes and persistently abysmal patient survival rates underscore the great need for new treatment strategies. Currently, there is intense …
+=======
+    <h2><a href="/publication/rn-4904/">Neuron-specific deficits of bioenergetic processes in the dorsolateral prefrontal cortex in schizophrenia</a></h2>
+    <div class="article-style">
+      
+      Schizophrenia is a devastating illness that affects over 2 million people in the United States and costs society billions of dollars annually. New insights into the pathophysiology of schizophrenia are needed to provide the conceptual framework to …
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       
     </div>
   </div>
   
   <div>
+<<<<<<< HEAD
     <h2><a href="/publication/2020-11-16_rn5139/">A role for endothelial NMDA receptors in the pathophysiology of schizophrenia</a></h2>
     <div class="article-style">
       
       Numerous genetic and postmortem studies link N-methyl-d-aspartate receptor (NMDAR) dysfunction with schizophrenia, forming the basis of the popular glutamate hypothesis. Neuronal NMDAR abnormalities are consistently reported from both basic and …
+=======
+    <h2><a href="/publication/rn-4901/">Neurotransmitter changes after traumatic brain injury: an update for new treatment strategies</a></h2>
+    <div class="article-style">
+      
+      Traumatic brain injury (TBI) is a pervasive problem in the United States and worldwide, as the number of diagnosed individuals is increasing yearly and there are no efficacious therapeutic interventions. A large number of patients suffer with …
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       
     </div>
   </div>
   
   <div>
+<<<<<<< HEAD
     <h2><a href="/publication/2020-09-12_rn5140/">KEOPS complex expression in the frontal cortex in major depression and schizophrenia</a></h2>
     <div class="article-style">
       
       OBJECTIVES: Recently, the presence of a complete five subunit Kinase, Endopeptidase and Other Proteins of small Size (KEOPS) complex was confirmed in humans. The highly conserved KEOPS protein complex has established roles in tRNA modification, …
+=======
+    <h2><a href="/publication/rn-4895/">Pioglitazone improves working memory performance when administered in chronic TBI</a></h2>
+    <div class="article-style">
+      
+      Traumatic brain injury (TBI) is a leading cause of long-term disability in the United States. Even in comparatively mild injuries, cognitive and behavioral symptoms can persist for years, and there are currently no established strategies for …
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       
     </div>
   </div>
   
   <div>
+<<<<<<< HEAD
     <h2><a href="/publication/2020-08-19_rn5142/">Consequences of NMDA receptor deficiency can be rescued in the adult brain</a></h2>
     <div class="article-style">
       
       N-methyl-D-aspartate receptors (NMDARs) are required to shape activity-dependent connections in the developing and adult brain. Impaired NMDAR signalling through genetic or environmental insults causes a constellation of neurodevelopmental disorders …
+=======
+    <h2><a href="/publication/rn-4897/">RNA sequencing in human HepG2 hepatocytes reveals PPAR-alpha mediates transcriptome responsiveness of bilirubin</a></h2>
+    <div class="article-style">
+      
+      Bilirubin is a potent antioxidant that reduces inflammation and the accumulation of fat. There have been reports of gene responses to bilirubin, which was mostly attributed to its antioxidant function. Using RNA sequencing, we found that biliverdin, …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/rn-4894/">Synergistic effects of common schizophrenia risk variants</a></h2>
+    <div class="article-style">
+      
+      The mechanisms by which common risk variants of small effect interact to contribute to complex genetic disorders are unclear. Here, we apply a genetic approach, using isogenic human induced pluripotent stem cells, to evaluate the effects of …
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/rn-4905/">Cell-subtype-specific changes in adenosine pathways in schizophrenia</a></h2>
+    <div class="article-style">
+      
+      Prior work in animal models implicates abnormalities of adenosine metabolism in astrocytes as a possible pathophysiological mechanism underlying the symptoms of schizophrenia. In the present study, we sought to reverse-translate these findings back …
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       
     </div>
   </div>

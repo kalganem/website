@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>S. M. Clinton | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/s.-m.-clinton/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/s.-m.-clinton/index.xml" rel="self" type="application/rss+xml" />
@@ -10,21 +11,44 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>S. M. Clinton</title>
       <link>https://www.cdrl-ut.com/authors/s.-m.-clinton/</link>
+=======
+    <title>S. M. Clinton | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/s.-m.-clinton/</link>
+      <atom:link href="/authors/s.-m.-clinton/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. M. Clinton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. M. Clinton</title>
+      <link>/authors/s.-m.-clinton/</link>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Schizophrenia as a disorder of neuroplasticity</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2004-03-10_rn5217/</link>
       <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2004-03-10_rn5217/</guid>
+=======
+      <link>/publication/rn-4959/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4959/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Molecular abnormalities of the glutamate synapse in the thalamus in schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2003-12-20_rn5221/</link>
       <pubDate>Sat, 20 Dec 2003 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2003-12-20_rn5221/</guid>
+=======
+      <link>/publication/rn-4963/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4963/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

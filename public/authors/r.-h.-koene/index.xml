@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>R. H. Koene | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/r.-h.-koene/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/r.-h.-koene/index.xml" rel="self" type="application/rss+xml" />
@@ -10,13 +11,30 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>R. H. Koene</title>
       <link>https://www.cdrl-ut.com/authors/r.-h.-koene/</link>
+=======
+    <title>R. H. Koene | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/r.-h.-koene/</link>
+      <atom:link href="/authors/r.-h.-koene/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. H. Koene</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>R. H. Koene</title>
+      <link>/authors/r.-h.-koene/</link>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Neuron-specific deficits of bioenergetic processes in the dorsolateral prefrontal cortex in schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2018-03-03_rn5162/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2018-03-03_rn5162/</guid>
+=======
+      <link>/publication/rn-4904/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4904/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

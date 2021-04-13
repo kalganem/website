@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>A. S. Gibbons | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/a.-s.-gibbons/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/a.-s.-gibbons/index.xml" rel="self" type="application/rss+xml" />
@@ -10,13 +11,30 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>A. S. Gibbons</title>
       <link>https://www.cdrl-ut.com/authors/a.-s.-gibbons/</link>
+=======
+    <title>A. S. Gibbons | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/a.-s.-gibbons/</link>
+      <atom:link href="/authors/a.-s.-gibbons/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. S. Gibbons</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. S. Gibbons</title>
+      <link>/authors/a.-s.-gibbons/</link>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Changes in cortical N-methyl-D-aspartate receptors and post-synaptic density protein 95 in schizophrenia, mood disorders and suicide</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2015-05-28_rn5178/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2015-05-28_rn5178/</guid>
+=======
+      <link>/publication/rn-4920/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4920/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

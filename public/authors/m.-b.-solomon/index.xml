@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>M. B. Solomon | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/m.-b.-solomon/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/m.-b.-solomon/index.xml" rel="self" type="application/rss+xml" />
@@ -10,13 +11,30 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>M. B. Solomon</title>
       <link>https://www.cdrl-ut.com/authors/m.-b.-solomon/</link>
+=======
+    <title>M. B. Solomon | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/m.-b.-solomon/</link>
+      <atom:link href="/authors/m.-b.-solomon/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. B. Solomon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. B. Solomon</title>
+      <link>/authors/m.-b.-solomon/</link>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Sex differences in DEK expression in the anterior cingulate cortex and its association with dementia severity in schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2018-07-19_rn5161/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2018-07-19_rn5161/</guid>
+=======
+      <link>/publication/rn-4903/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4903/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

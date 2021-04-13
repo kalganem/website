@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>J. Hammond | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/j.-hammond/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/j.-hammond/index.xml" rel="self" type="application/rss+xml" />
@@ -10,13 +11,30 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>J. Hammond</title>
       <link>https://www.cdrl-ut.com/authors/j.-hammond/</link>
+=======
+    <title>J. Hammond | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/j.-hammond/</link>
+      <atom:link href="/authors/j.-hammond/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Hammond</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>J. Hammond</title>
+      <link>/authors/j.-hammond/</link>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Recent advances in targeting the ionotropic glutamate receptors in treating schizophrenia</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2012-01-31_rn5196/</link>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2012-01-31_rn5196/</guid>
+=======
+      <link>/publication/rn-4938/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4938/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

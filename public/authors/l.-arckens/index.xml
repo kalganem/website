@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>L. Arckens | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/l.-arckens/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/l.-arckens/index.xml" rel="self" type="application/rss+xml" />
@@ -25,6 +26,24 @@
       <link>https://www.cdrl-ut.com/publication/2008-09-05_rn5207/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2008-09-05_rn5207/</guid>
+=======
+    <title>L. Arckens | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/l.-arckens/</link>
+      <atom:link href="/authors/l.-arckens/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Arckens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>L. Arckens</title>
+      <link>/authors/l.-arckens/</link>
+    </image>
+    
+    <item>
+      <title>High-affinity Na&#43;/K&#43;-dependent glutamate transporter EAAT4 is expressed throughout the rat fore- and midbrain</title>
+      <link>/publication/rn-4949/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4949/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

@@ -2,12 +2,16 @@
 <html lang="en-us">
 
 <head>
-
+  
+  
+  
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic 4.5.0">
+  
 
+  
   
 
   
@@ -31,8 +35,14 @@
   <meta name="description" content="COGNITIVE DISORDERS RESEARCH LABORATORY">
 
   
+<<<<<<< HEAD
   <link rel="alternate" hreflang="en-us" href="https://www.cdrl-ut.com/authors/rawan/">
 
+=======
+  <link rel="alternate" hreflang="en-us" href="/authors/rawan/">
+  
+  
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
   
 
 
@@ -91,11 +101,46 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
   
 
 
   
-  <link rel="alternate" href="/authors/rawan/index.xml" type="application/rss+xml" title="CDRL">
+  <link rel="alternate" href="/authors/rawan/index.xml" type="application/rss+xml" title="Cognitive Disorders Research Laboratory">
   
 
   <link rel="manifest" href="/index.webmanifest">
@@ -114,11 +159,19 @@
   
   <meta property="twitter:card" content="summary">
   
+<<<<<<< HEAD
   <meta property="og:site_name" content="CDRL">
   <meta property="og:url" content="https://www.cdrl-ut.com/authors/rawan/">
   <meta property="og:title" content=" | CDRL">
   <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="https://www.cdrl-ut.com/img/icon-192.png">
   <meta property="twitter:image" content="https://www.cdrl-ut.com/img/icon-192.png"><meta property="og:locale" content="en-us">
+=======
+  <meta property="og:site_name" content="Cognitive Disorders Research Laboratory">
+  <meta property="og:url" content="/authors/rawan/">
+  <meta property="og:title" content=" | Cognitive Disorders Research Laboratory">
+  <meta property="og:description" content="COGNITIVE DISORDERS RESEARCH LABORATORY"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
   
     
   
@@ -137,7 +190,7 @@
 
 
 
-  <title> | CDRL</title>
+  <title> | Cognitive Disorders Research Laboratory</title>
 
 </head>
 
@@ -180,7 +233,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">CDRL</a>
+      <a class="navbar-brand" href="/">Cognitive Disorders Research Laboratory</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -327,6 +380,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/gallery"><span>Gallery</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -397,7 +472,11 @@
 
       
       
+<<<<<<< HEAD
       <img class="portrait" src="/authors/rawan/avatar_hudfd4d1bcffeae1e0ad183751d387f06c_165764_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+=======
+      <img class="portrait" src="/authors/rawan/avatar_hua05e542941082bd249e5d32207a86b0a_94752_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       
 
       <div class="portrait-title">
@@ -424,19 +503,44 @@
     
     
 
-    
+    <p>I received my BS in Pharmaceutical Sciences in 2014 from King Saud University. In 2018, I earned my Master’s in Pharmacology and Toxicology at the University of Toledo where I studied the involvement of cytoskeletal protein drebrin in microglial activation and inflammation. In 2018, I started my doctoral studies in Neuroscience and Neurological Disorders and joined the Cognitive Disorders Research Laboratory (CDRL). Currently, I’m studying the effect of nitric oxide overexpression on synaptic proteome in schizophrenia pathophysiology.</p>
+
 
     <div class="row">
 
       
 
       
-      <div class="col-md-7">
+      <div class="col-md-12">
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
           
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BS in Pharmaceutical Sciences, 2014</p>
+              <p class="institution">King Saud University</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Master’s in Pharmacology and Toxicology, 2018</p>
+              <p class="institution">University of Toledo</p>
+            </div>
+          </li>
+          
         </ul>
       </div>
+      
+      
+      
+      
+      
+      
+      
+      
       
 
     </div>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>B. Dean | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/b.-dean/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/b.-dean/index.xml" rel="self" type="application/rss+xml" />
@@ -10,21 +11,44 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>B. Dean</title>
       <link>https://www.cdrl-ut.com/authors/b.-dean/</link>
+=======
+    <title>B. Dean | Cognitive Disorders Research Laboratory</title>
+    <link>/authors/b.-dean/</link>
+      <atom:link href="/authors/b.-dean/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Dean</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>B. Dean</title>
+      <link>/authors/b.-dean/</link>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Changes in cortical N-methyl-D-aspartate receptors and post-synaptic density protein 95 in schizophrenia, mood disorders and suicide</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2015-05-28_rn5178/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2015-05-28_rn5178/</guid>
+=======
+      <link>/publication/rn-4920/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4920/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Decreased NR1, NR2A, and SAP102 transcript expression in the hippocampus in bipolar disorder</title>
+<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2006-11-23_rn5213/</link>
       <pubDate>Thu, 23 Nov 2006 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2006-11-23_rn5213/</guid>
+=======
+      <link>/publication/rn-4955/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-4955/</guid>
+>>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
