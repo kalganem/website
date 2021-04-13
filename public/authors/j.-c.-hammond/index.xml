@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>J. C. Hammond | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/j.-c.-hammond/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/j.-c.-hammond/index.xml" rel="self" type="application/rss+xml" />
@@ -11,58 +10,29 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>J. C. Hammond</title>
       <link>https://www.cdrl-ut.com/authors/j.-c.-hammond/</link>
-=======
-    <title>J. C. Hammond | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/j.-c.-hammond/</link>
-      <atom:link href="/authors/j.-c.-hammond/index.xml" rel="self" type="application/rss+xml" />
-    <description>J. C. Hammond</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>J. C. Hammond</title>
-      <link>/authors/j.-c.-hammond/</link>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>AMPA receptor subunit expression in the endoplasmic reticulum in frontal cortex of elderly patients with schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2012-06-22_rn5194/</link>
       <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2012-06-22_rn5194/</guid>
-=======
-      <link>/publication/rn-4936/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4936/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Endosomal trafficking of AMPA receptors in frontal cortex of elderly patients with schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2011-05-18_rn5199/</link>
       <pubDate>Wed, 18 May 2011 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2011-05-18_rn5199/</guid>
-=======
-      <link>/publication/rn-4941/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4941/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Evidence for abnormal forward trafficking of AMPA receptors in frontal cortex of elderly patients with schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2010-06-24_rn5202/</link>
       <pubDate>Thu, 24 Jun 2010 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2010-06-24_rn5202/</guid>
-=======
-      <link>/publication/rn-4944/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4944/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>J. L. McGuire | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/j.-l.-mcguire/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/j.-l.-mcguire/index.xml" rel="self" type="application/rss+xml" />
@@ -18,111 +17,54 @@
       <link>https://www.cdrl-ut.com/publication/2019-09-13_rn5153/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2019-09-13_rn5153/</guid>
-=======
-    <title>J. L. McGuire | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/j.-l.-mcguire/</link>
-      <atom:link href="/authors/j.-l.-mcguire/index.xml" rel="self" type="application/rss+xml" />
-    <description>J. L. McGuire</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>J. L. McGuire</title>
-      <link>/authors/j.-l.-mcguire/</link>
-    </image>
-    
-    <item>
-      <title>Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</title>
-      <link>/publication/rn-4902/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4902/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Neurotransmitter changes after traumatic brain injury: an update for new treatment strategies</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2018-09-15_rn5159/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2018-09-15_rn5159/</guid>
-=======
-      <link>/publication/rn-4901/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4901/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</title>
       <link>https://www.cdrl-ut.com/publication/2018-08-03_rn5160/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2018-08-03_rn5160/</guid>
-=======
-      <title>Pioglitazone improves working memory performance when administered in chronic TBI</title>
-      <link>/publication/rn-4895/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4895/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Abnormalities of signal transduction networks in chronic schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2017-09-14_rn5166/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2017-09-14_rn5166/</guid>
-=======
-      <link>/publication/rn-4908/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4908/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Traumatic Brain Injury Induces Alterations in Cortical Glutamate Uptake without a Reduction in Glutamate Transporter-1 Protein Expression</title>
       <link>https://www.cdrl-ut.com/publication/2016-06-18_rn5169/</link>
       <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2016-06-18_rn5169/</guid>
-=======
-      <title>Glutamate Neurotransmission in Rodent Models of Traumatic Brain Injury</title>
-      <link>/publication/rn-4912/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4912/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Glutamate Neurotransmission in Rodent Models of Traumatic Brain Injury</title>
       <link>https://www.cdrl-ut.com/publication/2016-06-04_rn5170/</link>
       <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2016-06-04_rn5170/</guid>
-=======
-      <title>Traumatic Brain Injury Induces Alterations in Cortical Glutamate Uptake without a Reduction in Glutamate Transporter-1 Protein Expression</title>
-      <link>/publication/rn-4911/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4911/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Altered serine/threonine kinase activity in schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2014-05-02_rn5186/</link>
       <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2014-05-02_rn5186/</guid>
-=======
-      <link>/publication/rn-4928/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4928/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

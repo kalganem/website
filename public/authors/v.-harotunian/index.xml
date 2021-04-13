@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>V. Harotunian | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/v.-harotunian/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/v.-harotunian/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <title>V. Harotunian | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/v.-harotunian/</link>
-      <atom:link href="/authors/v.-harotunian/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     <description>V. Harotunian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2009 00:00:00 +0000</lastBuildDate>
     <image>
@@ -20,29 +14,17 @@
     
     <item>
       <title>Decreased expression of NMDA receptor-associated proteins in frontal cortex of elderly patients with schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2009-06-02_rn5205/</link>
       <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2009-06-02_rn5205/</guid>
-=======
-      <link>/publication/rn-4947/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4947/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Abnormal expression of glutamate transporter and transporter interacting molecules in prefrontal cortex in elderly patients with schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2008-08-06_rn5208/</link>
       <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2008-08-06_rn5208/</guid>
-=======
-      <link>/publication/rn-4950/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4950/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

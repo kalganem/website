@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>C. A. Mielnik | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/c.-a.-mielnik/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/c.-a.-mielnik/index.xml" rel="self" type="application/rss+xml" />
     <description>C. A. Mielnik</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
-=======
-    <title>C. A. Mielnik | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/c.-a.-mielnik/</link>
-      <atom:link href="/authors/c.-a.-mielnik/index.xml" rel="self" type="application/rss+xml" />
-    <description>C. A. Mielnik</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     <image>
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>C. A. Mielnik</title>
@@ -38,37 +30,17 @@
     
     <item>
       <title>Connectivity Analyses of Bioenergetic Changes in Schizophrenia: Identification of Novel Treatments</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2018-10-20_rn5157/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2018-10-20_rn5157/</guid>
-=======
-      <link>/publication/rn-4899/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4899/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</title>
-      <link>/publication/rn-4898/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4898/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Postsynaptic Density-95 Isoform Abnormalities in Schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2017-01-28_rn5168/</link>
       <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2017-01-28_rn5168/</guid>
-=======
-      <link>/publication/rn-4910/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4910/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

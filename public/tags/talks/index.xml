@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Talks | CDRL</title>
     <link>https://www.cdrl-ut.com/tags/talks/</link>
       <atom:link href="https://www.cdrl-ut.com/tags/talks/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <title>Talks | Cognitive Disorders Research Laboratory</title>
-    <link>/tags/talks/</link>
-      <atom:link href="/tags/talks/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     <description>Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Apr 2019 00:00:01 +0000</lastBuildDate>
     <image>

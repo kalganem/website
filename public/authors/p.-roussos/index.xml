@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>P. Roussos | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/p.-roussos/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/p.-roussos/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <title>P. Roussos | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/p.-roussos/</link>
-      <atom:link href="/authors/p.-roussos/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     <description>P. Roussos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
@@ -20,15 +14,9 @@
     
     <item>
       <title>Glutamate transporter splice variant expression in an enriched pyramidal cell population in schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2015-06-10_rn5177/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2015-06-10_rn5177/</guid>
-=======
-      <link>/publication/rn-4919/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4919/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

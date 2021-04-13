@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>M. J. Semins | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/m.-j.-semins/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/m.-j.-semins/index.xml" rel="self" type="application/rss+xml" />
@@ -11,30 +10,13 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>M. J. Semins</title>
       <link>https://www.cdrl-ut.com/authors/m.-j.-semins/</link>
-=======
-    <title>M. J. Semins | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/m.-j.-semins/</link>
-      <atom:link href="/authors/m.-j.-semins/index.xml" rel="self" type="application/rss+xml" />
-    <description>M. J. Semins</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>M. J. Semins</title>
-      <link>/authors/m.-j.-semins/</link>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Effects of 6-cyano-7-nitroquinoxaline-2,3-dione on nicotinic receptor subunit transcript expression in the rat brain</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2004-02-03_rn5218/</link>
       <pubDate>Tue, 03 Feb 2004 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2004-02-03_rn5218/</guid>
-=======
-      <link>/publication/rn-4960/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4960/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>M. S. Moehle | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/m.-s.-moehle/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/m.-s.-moehle/index.xml" rel="self" type="application/rss+xml" />
@@ -11,30 +10,13 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>M. S. Moehle</title>
       <link>https://www.cdrl-ut.com/authors/m.-s.-moehle/</link>
-=======
-    <title>M. S. Moehle | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/m.-s.-moehle/</link>
-      <atom:link href="/authors/m.-s.-moehle/index.xml" rel="self" type="application/rss+xml" />
-    <description>M. S. Moehle</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>M. S. Moehle</title>
-      <link>/authors/m.-s.-moehle/</link>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Regional differences in expression of beta-tubulin isoforms in schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2012-01-24_rn5197/</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2012-01-24_rn5197/</guid>
-=======
-      <link>/publication/rn-4939/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4939/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

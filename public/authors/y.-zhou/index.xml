@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Y. Zhou | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/y.-zhou/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/y.-zhou/index.xml" rel="self" type="application/rss+xml" />
@@ -11,30 +10,13 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>Y. Zhou</title>
       <link>https://www.cdrl-ut.com/authors/y.-zhou/</link>
-=======
-    <title>Y. Zhou | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/y.-zhou/</link>
-      <atom:link href="/authors/y.-zhou/index.xml" rel="self" type="application/rss+xml" />
-    <description>Y. Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>Y. Zhou</title>
-      <link>/authors/y.-zhou/</link>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2019-05-21_rn5154/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2019-05-21_rn5154/</guid>
-=======
-      <link>/publication/rn-4896/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4896/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

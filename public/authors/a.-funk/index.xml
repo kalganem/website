@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>A. Funk | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/a.-funk/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/a.-funk/index.xml" rel="self" type="application/rss+xml" />
@@ -11,44 +10,21 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>A. Funk</title>
       <link>https://www.cdrl-ut.com/authors/a.-funk/</link>
-=======
-    <title>A. Funk | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/a.-funk/</link>
-      <atom:link href="/authors/a.-funk/index.xml" rel="self" type="application/rss+xml" />
-    <description>A. Funk</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>A. Funk</title>
-      <link>/authors/a.-funk/</link>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Measurement of lactate levels in postmortem brain, iPSCs, and animal models of schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2019-03-27_rn5156/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2019-03-27_rn5156/</guid>
-=======
-      <link>/publication/rn-4898/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4898/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Recent advances in targeting the ionotropic glutamate receptors in treating schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2012-01-31_rn5196/</link>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2012-01-31_rn5196/</guid>
-=======
-      <link>/publication/rn-4938/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4938/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

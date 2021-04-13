@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>P. Sklar | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/p.-sklar/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/p.-sklar/index.xml" rel="self" type="application/rss+xml" />
@@ -11,30 +10,13 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>P. Sklar</title>
       <link>https://www.cdrl-ut.com/authors/p.-sklar/</link>
-=======
-    <title>P. Sklar | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/p.-sklar/</link>
-      <atom:link href="/authors/p.-sklar/index.xml" rel="self" type="application/rss+xml" />
-    <description>P. Sklar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>P. Sklar</title>
-      <link>/authors/p.-sklar/</link>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Synergistic effects of common schizophrenia risk variants</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2019-09-25_rn5152/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2019-09-25_rn5152/</guid>
-=======
-      <link>/publication/rn-4894/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4894/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

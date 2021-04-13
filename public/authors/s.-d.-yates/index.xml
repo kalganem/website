@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>S. D. Yates | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/s.-d.-yates/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/s.-d.-yates/index.xml" rel="self" type="application/rss+xml" />
@@ -11,30 +10,13 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>S. D. Yates</title>
       <link>https://www.cdrl-ut.com/authors/s.-d.-yates/</link>
-=======
-    <title>S. D. Yates | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/s.-d.-yates/</link>
-      <atom:link href="/authors/s.-d.-yates/index.xml" rel="self" type="application/rss+xml" />
-    <description>S. D. Yates</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>S. D. Yates</title>
-      <link>/authors/s.-d.-yates/</link>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Altered serine/threonine kinase activity in schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2014-05-02_rn5186/</link>
       <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2014-05-02_rn5186/</guid>
-=======
-      <link>/publication/rn-4928/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4928/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

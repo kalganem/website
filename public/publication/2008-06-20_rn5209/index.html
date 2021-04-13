@@ -2,12 +2,16 @@
 <html lang="en-us">
 
 <head>
-
+  
+  
+  
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic 4.5.0">
+  
 
+  
   
 
   
@@ -32,7 +36,8 @@
 
   
   <link rel="alternate" hreflang="en-us" href="https://www.cdrl-ut.com/publication/2008-06-20_rn5209/">
-
+  
+  
   
 
 
@@ -90,6 +95,41 @@
 
 
 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149864972-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-149864972-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
   
 
@@ -309,7 +349,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="/publication"><span>Publications</span></a>
+          <a class="nav-link " href="/publications"><span>Publications</span></a>
         </li>
 
         
@@ -354,6 +394,28 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/post"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/gallery"><span>Gallery</span></a>
         </li>
 
         

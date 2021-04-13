@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>J. Tucholski | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/j.-tucholski/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/j.-tucholski/index.xml" rel="self" type="application/rss+xml" />
@@ -11,44 +10,21 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>J. Tucholski</title>
       <link>https://www.cdrl-ut.com/authors/j.-tucholski/</link>
-=======
-    <title>J. Tucholski | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/j.-tucholski/</link>
-      <atom:link href="/authors/j.-tucholski/index.xml" rel="self" type="application/rss+xml" />
-    <description>J. Tucholski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>J. Tucholski</title>
-      <link>/authors/j.-tucholski/</link>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Decreased protein S-palmitoylation in dorsolateral prefrontal cortex in schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2016-02-16_rn5172/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2016-02-16_rn5172/</guid>
-=======
-      <link>/publication/rn-4914/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4914/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Abnormal N-linked glycosylation of cortical AMPA receptor subunits in schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2013-03-07_rn5191/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2013-03-07_rn5191/</guid>
-=======
-      <link>/publication/rn-4933/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4933/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Authors | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <title>Authors | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
@@ -347,32 +341,7 @@
     </item>
     
     <item>
-      <title>A. C. Lowery</title>
-      <link>/authors/a.-c.-lowery/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-c.-lowery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Dobbyn</title>
-      <link>/authors/a.-dobbyn/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-dobbyn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Funk</title>
-      <link>/authors/a.-funk/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-funk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A. J. Funk</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/a.-j.-funk/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/a.-j.-funk/</guid>
@@ -684,7 +653,7 @@
     </item>
     
     <item>
-      <title>E. A. K. Depasquale</title>
+      <title>E. A. K. DePasquale</title>
       <link>https://www.cdrl-ut.com/authors/e.-a.-k.-depasquale/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/e.-a.-k.-depasquale/</guid>
@@ -1624,1124 +1593,106 @@
       <link>https://www.cdrl-ut.com/authors/j.-l.-norris/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/j.-l.-norris/</guid>
-=======
-      <link>/authors/a.-j.-funk/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-j.-funk/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
-      <description></description>
-    </item>
-    
-    <item>
-<<<<<<< HEAD
-      <title>K. D. Greis</title>
-      <link>https://www.cdrl-ut.com/authors/k.-d.-greis/</link>
-      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.cdrl-ut.com/authors/k.-d.-greis/</guid>
-=======
-      <title>A. J. Ramsey</title>
-      <link>/authors/a.-j.-ramsey/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-j.-ramsey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Ramsey</title>
-      <link>/authors/a.-ramsey/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-ramsey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Topol</title>
-      <link>/authors/a.-topol/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-topol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>B. Aronow</title>
-      <link>/authors/b.-aronow/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/b.-aronow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>B. Bai</title>
-      <link>/authors/b.-bai/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/b.-bai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. A. Mielnik</title>
-      <link>/authors/c.-a.-mielnik/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-a.-mielnik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. R. Sullivan</title>
-      <link>/authors/c.-r.-sullivan/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-r.-sullivan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. Xu</title>
-      <link>/authors/c.-xu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. E. Stec</title>
-      <link>/authors/d.-e.-stec/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-e.-stec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. Girish</title>
-      <link>/authors/d.-girish/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-girish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. M. Gordon</title>
-      <link>/authors/d.-m.-gordon/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-m.-gordon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. A. Correll</title>
-      <link>/authors/e.-a.-correll/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-a.-correll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. A. DePasquale</title>
-      <link>/authors/e.-a.-depasquale/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-a.-depasquale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. A. K. Depasquale</title>
-      <link>/authors/e.-a.-k.-depasquale/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-a.-k.-depasquale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. A. Stahl</title>
-      <link>/authors/e.-a.-stahl/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-a.-stahl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Bentea</title>
-      <link>/authors/e.-bentea/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-bentea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Cheng</title>
-      <link>/authors/e.-cheng/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-cheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Flaherty</title>
-      <link>/authors/e.-flaherty/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-flaherty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Hoelzli</title>
-      <link>/authors/e.-hoelzli/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-hoelzli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F. Anwar</title>
-      <link>/authors/f.-anwar/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/f.-anwar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F. N. Anwar</title>
-      <link>/authors/f.-n.-anwar/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/f.-n.-anwar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. Atluri</title>
-      <link>/authors/g.-atluri/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/g.-atluri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. E. Hoffman</title>
-      <link>/authors/g.-e.-hoffman/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/g.-e.-hoffman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. L. Ming</title>
-      <link>/authors/g.-l.-ming/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/g.-l.-ming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H. Morishita</title>
-      <link>/authors/h.-morishita/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/h.-morishita/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H. Phatnani</title>
-      <link>/authors/h.-phatnani/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/h.-phatnani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H. Song</title>
-      <link>/authors/h.-song/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/h.-song/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Gregory</title>
-      <link>/authors/j.-gregory/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-gregory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. H. Meador-Woodruff</title>
-      <link>/authors/j.-h.-meador-woodruff/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-h.-meador-woodruff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. L. McGuire</title>
-      <link>/authors/j.-l.-mcguire/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-l.-mcguire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Meller</title>
-      <link>/authors/j.-meller/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-meller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Peng</title>
-      <link>/authors/j.-peng/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-peng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Alganem</title>
-      <link>/authors/k.-alganem/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-alganem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Hasselfeld</title>
-      <link>/authors/k.-hasselfeld/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-hasselfeld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. J. Brennand</title>
-      <link>/authors/k.-j.-brennand/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-j.-brennand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Rhame</title>
-      <link>/authors/k.-rhame/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-rhame/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Yamamuro</title>
-      <link>/authors/k.-yamamuro/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-yamamuro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. B. Ngwenya</title>
-      <link>/authors/l.-b.-ngwenya/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-b.-ngwenya/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. E. Romick-Rosendale</title>
-      <link>/authors/l.-e.-romick-rosendale/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-e.-romick-rosendale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. Huckins</title>
-      <link>/authors/l.-huckins/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-huckins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. M. Rowland</title>
-      <link>/authors/l.-m.-rowland/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-m.-rowland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Pletnikov</title>
-      <link>/authors/m.-pletnikov/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-pletnikov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. R. Matos</title>
-      <link>/authors/m.-r.-matos/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-r.-matos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Simmons</title>
-      <link>/authors/m.-simmons/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-simmons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Watanabe</title>
-      <link>/authors/m.-watanabe/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-watanabe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N. Barretto</title>
-      <link>/authors/n.-barretto/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/n.-barretto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N. K. Evanson</title>
-      <link>/authors/n.-k.-evanson/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/n.-k.-evanson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N. Schrode</title>
-      <link>/authors/n.-schrode/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/n.-schrode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P. J. M. Deans</title>
-      <link>/authors/p.-j.-m.-deans/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/p.-j.-m.-deans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P. Katsel</title>
-      <link>/authors/p.-katsel/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/p.-katsel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P. Sklar</title>
-      <link>/authors/p.-sklar/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/p.-sklar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. E. McCullumsmith</title>
-      <link>/authors/r.-e.-mccullumsmith/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-e.-mccullumsmith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. H. Koene</title>
-      <link>/authors/r.-h.-koene/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-h.-koene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. McCullumsmith</title>
-      <link>/authors/r.-mccullumsmith/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-mccullumsmith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. A. Miruzzi</title>
-      <link>/authors/s.-a.-miruzzi/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-a.-miruzzi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Abadali</title>
-      <link>/authors/s.-abadali/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-abadali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. M. Ho</title>
-      <link>/authors/s.-m.-ho/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-m.-ho/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. M. O&#39;Donovan</title>
-      <link>/authors/s.-m.-odonovan/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-m.-odonovan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. D., Jr. Hinds</title>
-      <link>/authors/t.-d.-jr.-hinds/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-d.-jr.-hinds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. M. Blomquist</title>
-      <link>/authors/t.-m.-blomquist/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-m.-blomquist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V. Haroutunian</title>
-      <link>/authors/v.-haroutunian/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/v.-haroutunian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V. Singh</title>
-      <link>/authors/v.-singh/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/v.-singh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y. Zhou</title>
-      <link>/authors/y.-zhou/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/y.-zhou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Z. Wen</title>
-      <link>/authors/z.-wen/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/z.-wen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Franco-Villanueva</title>
-      <link>/authors/a.-franco-villanueva/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-franco-villanueva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. L. Moody</title>
-      <link>/authors/c.-l.-moody/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-l.-moody/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. Sullivan</title>
-      <link>/authors/c.-sullivan/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-sullivan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Devine</title>
-      <link>/authors/e.-devine/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-devine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F. Alasmari</title>
-      <link>/authors/f.-alasmari/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/f.-alasmari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. L. Caldwell</title>
-      <link>/authors/j.-l.-caldwell/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-l.-caldwell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. M. Privette Vinnedge</title>
-      <link>/authors/l.-m.-privette-vinnedge/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-m.-privette-vinnedge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. B. Solomon</title>
-      <link>/authors/m.-b.-solomon/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-b.-solomon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. Koene</title>
-      <link>/authors/r.-koene/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-koene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Goodwani</title>
-      <link>/authors/s.-goodwani/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-goodwani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V. Ghisays</title>
-      <link>/authors/v.-ghisays/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/v.-ghisays/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y. Sari</title>
-      <link>/authors/y.-sari/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/y.-sari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. E. Gardner</title>
-      <link>/authors/a.-e.-gardner/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-e.-gardner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. L. LaCrosse</title>
-      <link>/authors/a.-l.-lacrosse/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-l.-lacrosse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>B. K. Lipska</title>
-      <link>/authors/b.-k.-lipska/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/b.-k.-lipska/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. L. Floyd</title>
-      <link>/authors/c.-l.-floyd/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-l.-floyd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. R. Dorsett</title>
-      <link>/authors/c.-r.-dorsett/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-r.-dorsett/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Newburn</title>
-      <link>/authors/e.-newburn/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-newburn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. H. Hammond</title>
-      <link>/authors/j.-h.-hammond/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-h.-hammond/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. J. Reissner</title>
-      <link>/authors/k.-j.-reissner/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-j.-reissner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. A. Knackstedt</title>
-      <link>/authors/l.-a.-knackstedt/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-a.-knackstedt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Schwendt</title>
-      <link>/authors/m.-schwendt/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-schwendt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. T. Sepulveda-Orengo</title>
-      <link>/authors/m.-t.-sepulveda-orengo/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-t.-sepulveda-orengo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. M. O&#39;Donnovan</title>
-      <link>/authors/s.-m.-odonnovan/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-m.-odonnovan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Marwaha</title>
-      <link>/authors/s.-marwaha/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-marwaha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. L. Niedzielko</title>
-      <link>/authors/t.-l.-niedzielko/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-l.-niedzielko/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V. Hartounian</title>
-      <link>/authors/v.-hartounian/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/v.-hartounian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. L. Cobbs</title>
-      <link>/authors/a.-l.-cobbs/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-l.-cobbs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. L. Pinner</title>
-      <link>/authors/a.-l.-pinner/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-l.-pinner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. S. Gibbons</title>
-      <link>/authors/a.-s.-gibbons/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-s.-gibbons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Uezato</title>
-      <link>/authors/a.-uezato/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-uezato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>B. Dean</title>
-      <link>/authors/b.-dean/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/b.-dean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. K. Lucas</title>
-      <link>/authors/e.-k.-lucas/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-k.-lucas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Scarr</title>
-      <link>/authors/e.-scarr/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-scarr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F. S. Benesh</title>
-      <link>/authors/f.-s.-benesh/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/f.-s.-benesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. B. Drummond</title>
-      <link>/authors/j.-b.-drummond/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-b.-drummond/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. L. Norris</title>
-      <link>/authors/j.-l.-norris/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-l.-norris/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Meador-Woodruff</title>
-      <link>/authors/j.-meador-woodruff/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-meador-woodruff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Tucholski</title>
-      <link>/authors/j.-tucholski/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-tucholski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. D. Greis</title>
-      <link>/authors/k.-d.-greis/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-d.-greis/</guid>
+      <link>https://www.cdrl-ut.com/authors/k.-d.-greis/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-d.-greis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>K. L. Gamble</title>
-      <link>/authors/k.-l.-gamble/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-l.-gamble/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. A. McCollum</title>
-      <link>/authors/l.-a.-mccollum/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-a.-mccollum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. J. McMeekin</title>
-      <link>/authors/l.-j.-mcmeekin/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-j.-mcmeekin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. R. Heaven</title>
-      <link>/authors/m.-r.-heaven/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-r.-heaven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. C. Hendrickson</title>
-      <link>/authors/r.-c.-hendrickson/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-c.-hendrickson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. C. Roberts</title>
-      <link>/authors/r.-c.-roberts/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-c.-roberts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. M. Cowell</title>
-      <link>/authors/r.-m.-cowell/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-m.-cowell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. Roberts</title>
-      <link>/authors/r.-roberts/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-roberts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Boer</title>
-      <link>/authors/s.-boer/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-boer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. Lauriat</title>
-      <link>/authors/t.-lauriat/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-lauriat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>W. D. Haffey</title>
-      <link>/authors/w.-d.-haffey/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/w.-d.-haffey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Oliveros</title>
-      <link>/authors/a.-oliveros/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-oliveros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. Bauer</title>
-      <link>/authors/d.-bauer/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-bauer/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
-      <description></description>
-    </item>
-    
-    <item>
-<<<<<<< HEAD
       <title>M. R. Heaven</title>
       <link>https://www.cdrl-ut.com/authors/m.-r.-heaven/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/m.-r.-heaven/</guid>
-=======
-      <title>D. Lindberg</title>
-      <link>/authors/d.-lindberg/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-lindberg/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>W. D. Haffey</title>
       <link>https://www.cdrl-ut.com/authors/w.-d.-haffey/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/w.-d.-haffey/</guid>
-=======
-      <title>D. S. Choi</title>
-      <link>/authors/d.-s.-choi/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-s.-choi/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>L. A. McCollum</title>
       <link>https://www.cdrl-ut.com/authors/l.-a.-mccollum/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/l.-a.-mccollum/</guid>
-=======
-      <title>D. Shan</title>
-      <link>/authors/d.-shan/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-shan/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>R. C. Roberts</title>
       <link>https://www.cdrl-ut.com/authors/r.-c.-roberts/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/r.-c.-roberts/</guid>
-=======
-      <title>G. Sanacora</title>
-      <link>/authors/g.-sanacora/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/g.-sanacora/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>E. K. Lucas</title>
       <link>https://www.cdrl-ut.com/authors/e.-k.-lucas/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/e.-k.-lucas/</guid>
-=======
-      <title>J. Ayers-Ringler</title>
-      <link>/authors/j.-ayers-ringler/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-ayers-ringler/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>K. L. Gamble</title>
       <link>https://www.cdrl-ut.com/authors/k.-l.-gamble/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/k.-l.-gamble/</guid>
-=======
-      <title>J. Benitez</title>
-      <link>/authors/j.-benitez/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-benitez/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>L. J. McMeekin</title>
       <link>https://www.cdrl-ut.com/authors/l.-j.-mcmeekin/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/l.-j.-mcmeekin/</guid>
-=======
-      <title>M. Prieto</title>
-      <link>/authors/m.-prieto/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-prieto/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>R. C. Hendrickson</title>
       <link>https://www.cdrl-ut.com/authors/r.-c.-hendrickson/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/r.-c.-hendrickson/</guid>
-=======
-      <title>P. Roussos</title>
-      <link>/authors/p.-roussos/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/p.-roussos/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>R. M. Cowell</title>
       <link>https://www.cdrl-ut.com/authors/r.-m.-cowell/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/r.-m.-cowell/</guid>
-=======
-      <title>C. Walss-Bass</title>
-      <link>/authors/c.-walss-bass/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-walss-bass/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>D. Bauer</title>
       <link>https://www.cdrl-ut.com/authors/d.-bauer/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/d.-bauer/</guid>
-=======
-      <title>D. Chen</title>
-      <link>/authors/d.-chen/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-chen/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>P. Roussos</title>
       <link>https://www.cdrl-ut.com/authors/p.-roussos/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/p.-roussos/</guid>
-=======
-      <title>D. Mount</title>
-      <link>/authors/d.-mount/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-mount/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>A. S. Gibbons</title>
       <link>https://www.cdrl-ut.com/authors/a.-s.-gibbons/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
@@ -2810,273 +1761,94 @@
       <link>https://www.cdrl-ut.com/authors/d.-s.-choi/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/d.-s.-choi/</guid>
-=======
-      <title>H. Raventos</title>
-      <link>/authors/h.-raventos/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/h.-raventos/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>D. Shan</title>
       <link>https://www.cdrl-ut.com/authors/d.-shan/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/d.-shan/</guid>
-=======
-      <title>J. K. Roche</title>
-      <link>/authors/j.-k.-roche/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-k.-roche/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>J. Ayers-Ringler</title>
       <link>https://www.cdrl-ut.com/authors/j.-ayers-ringler/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/j.-ayers-ringler/</guid>
-=======
-      <title>K. K. Marballi</title>
-      <link>/authors/k.-k.-marballi/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-k.-marballi/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>J. Benitez</title>
       <link>https://www.cdrl-ut.com/authors/j.-benitez/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/j.-benitez/</guid>
-=======
-      <title>M. A. Escamilla</title>
-      <link>/authors/m.-a.-escamilla/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-a.-escamilla/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>M. Prieto</title>
       <link>https://www.cdrl-ut.com/authors/m.-prieto/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/m.-prieto/</guid>
-=======
-      <title>R. J. Leach</title>
-      <link>/authors/r.-j.-leach/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-j.-leach/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>G. Sanacora</title>
       <link>https://www.cdrl-ut.com/authors/g.-sanacora/</link>
       <pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/g.-sanacora/</guid>
-=======
-      <title>S. D. Yates</title>
-      <link>/authors/s.-d.-yates/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-d.-yates/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>S. Moore</title>
-      <link>/authors/s.-moore/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-moore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Yates</title>
-      <link>/authors/s.-yates/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-yates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. D. Spencer</title>
-      <link>/authors/d.-d.-spencer/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-d.-spencer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Perez</title>
-      <link>/authors/e.-perez/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-perez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F. Lauritzen</title>
-      <link>/authors/f.-lauritzen/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/f.-lauritzen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Drummond</title>
-      <link>/authors/j.-drummond/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-drummond/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. H. Bergersen</title>
-      <link>/authors/l.-h.-bergersen/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-h.-bergersen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. S. Simmons</title>
-      <link>/authors/m.-s.-simmons/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-s.-simmons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N. C. de Lanerolle</title>
-      <link>/authors/n.-c.-de-lanerolle/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/n.-c.-de-lanerolle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. Eid</title>
-      <link>/authors/t.-eid/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-eid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. S. Lee</title>
-      <link>/authors/t.-s.-lee/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-s.-lee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y. Wang</title>
-      <link>/authors/y.-wang/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/y.-wang/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
-      <description></description>
-    </item>
-    
-    <item>
-<<<<<<< HEAD
       <title>J. K. Roche</title>
       <link>https://www.cdrl-ut.com/authors/j.-k.-roche/</link>
       <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/j.-k.-roche/</guid>
-=======
-      <title>J. C. Hammond</title>
-      <link>/authors/j.-c.-hammond/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-c.-hammond/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>D. Chen</title>
       <link>https://www.cdrl-ut.com/authors/d.-chen/</link>
       <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/d.-chen/</guid>
-=======
-      <title>J. Hammond</title>
-      <link>/authors/j.-hammond/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-hammond/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>S. D. Yates</title>
       <link>https://www.cdrl-ut.com/authors/s.-d.-yates/</link>
       <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/s.-d.-yates/</guid>
-=======
-      <title>M. S. Moehle</title>
-      <link>/authors/m.-s.-moehle/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-s.-moehle/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>D. Mount</title>
       <link>https://www.cdrl-ut.com/authors/d.-mount/</link>
       <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/d.-mount/</guid>
-=======
-      <title>R. F. Luduena</title>
-      <link>/authors/r.-f.-luduena/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-f.-luduena/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>S. Moore</title>
       <link>https://www.cdrl-ut.com/authors/s.-moore/</link>
       <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/s.-moore/</guid>
-=======
-      <title>M. S. Sodhi</title>
-      <link>/authors/m.-s.-sodhi/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-s.-sodhi/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>C. Walss-Bass</title>
       <link>https://www.cdrl-ut.com/authors/c.-walss-bass/</link>
       <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/c.-walss-bass/</guid>
-=======
-      <title>D. E. Bauer</title>
-      <link>/authors/d.-e.-bauer/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-e.-bauer/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
@@ -3225,217 +1997,119 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>R. F. Luduena</title>
       <link>https://www.cdrl-ut.com/authors/r.-f.-luduena/</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/r.-f.-luduena/</guid>
-=======
-      <title>V. Harotunian</title>
-      <link>/authors/v.-harotunian/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/v.-harotunian/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>M. S. Sodhi</title>
       <link>https://www.cdrl-ut.com/authors/m.-s.-sodhi/</link>
       <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/m.-s.-sodhi/</guid>
-=======
-      <title>A. E. Steffek</title>
-      <link>/authors/a.-e.-steffek/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-e.-steffek/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>G. Rumbaugh</title>
       <link>https://www.cdrl-ut.com/authors/g.-rumbaugh/</link>
       <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/g.-rumbaugh/</guid>
-=======
-      <title>A. Massie</title>
-      <link>/authors/a.-massie/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-massie/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>V. Harotunian</title>
       <link>https://www.cdrl-ut.com/authors/v.-harotunian/</link>
       <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/v.-harotunian/</guid>
-=======
-      <title>A. Oni-Orisan</title>
-      <link>/authors/a.-oni-orisan/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-oni-orisan/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>D. E. Bauer</title>
       <link>https://www.cdrl-ut.com/authors/d.-e.-bauer/</link>
       <pubDate>Wed, 14 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/d.-e.-bauer/</guid>
-=======
-      <title>D. Gupta</title>
-      <link>/authors/d.-gupta/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-gupta/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>I. Smolders</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/i.-smolders/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/i.-smolders/</guid>
-=======
-      <link>/authors/i.-smolders/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/i.-smolders/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>L. Cnops</title>
       <link>https://www.cdrl-ut.com/authors/l.-cnops/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/l.-cnops/</guid>
-=======
-      <title>L. Arckens</title>
-      <link>/authors/l.-arckens/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-arckens/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>R. Kooijman</title>
       <link>https://www.cdrl-ut.com/authors/r.-kooijman/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/r.-kooijman/</guid>
-=======
-      <title>L. Cnops</title>
-      <link>/authors/l.-cnops/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-cnops/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>S. Kwak</title>
       <link>https://www.cdrl-ut.com/authors/s.-kwak/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/s.-kwak/</guid>
-=======
-      <title>L. V. Kristiansen</title>
-      <link>/authors/l.-v.-kristiansen/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-v.-kristiansen/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Y. Michotte</title>
       <link>https://www.cdrl-ut.com/authors/y.-michotte/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/y.-michotte/</guid>
-=======
-      <title>R. Kooijman</title>
-      <link>/authors/r.-kooijman/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-kooijman/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>D. Gupta</title>
       <link>https://www.cdrl-ut.com/authors/d.-gupta/</link>
       <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/d.-gupta/</guid>
-=======
-      <title>S. Kwak</title>
-      <link>/authors/s.-kwak/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-kwak/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>A. E. Steffek</title>
       <link>https://www.cdrl-ut.com/authors/a.-e.-steffek/</link>
       <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/a.-e.-steffek/</guid>
-=======
-      <title>Y. Michotte</title>
-      <link>/authors/y.-michotte/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/y.-michotte/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>A. Oni-Orisan</title>
       <link>https://www.cdrl-ut.com/authors/a.-oni-orisan/</link>
       <pubDate>Tue, 25 Dec 2007 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/a.-oni-orisan/</guid>
-=======
-      <title>E. Kreger</title>
-      <link>/authors/e.-kreger/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-kreger/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>L. V. Kristiansen</title>
       <link>https://www.cdrl-ut.com/authors/l.-v.-kristiansen/</link>
       <pubDate>Tue, 25 Dec 2007 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/l.-v.-kristiansen/</guid>
-=======
-      <title>K. L. Davis</title>
-      <link>/authors/k.-l.-davis/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-l.-davis/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>M. Beneyto</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/m.-beneyto/</link>
       <pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/m.-beneyto/</guid>
@@ -3455,195 +2129,110 @@
       <link>https://www.cdrl-ut.com/authors/k.-l.-davis/</link>
       <pubDate>Tue, 16 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/k.-l.-davis/</guid>
-=======
-      <link>/authors/m.-beneyto/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-beneyto/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>I. Huerta</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/i.-huerta/</link>
       <pubDate>Sat, 18 Feb 2006 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/i.-huerta/</guid>
-=======
-      <link>/authors/i.-huerta/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/authors/i.-huerta/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>J. M. Gimenez-Amaya</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/j.-m.-gimenez-amaya/</link>
       <pubDate>Sat, 18 Feb 2006 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/j.-m.-gimenez-amaya/</guid>
-=======
-      <link>/authors/j.-m.-gimenez-amaya/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-m.-gimenez-amaya/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>D. S. Gupta</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/d.-s.-gupta/</link>
       <pubDate>Fri, 10 Jun 2005 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/d.-s.-gupta/</guid>
-=======
-      <link>/authors/d.-s.-gupta/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-s.-gupta/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>E. G. Bruneau</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/e.-g.-bruneau/</link>
       <pubDate>Tue, 12 Apr 2005 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/e.-g.-bruneau/</guid>
-=======
-      <link>/authors/e.-g.-bruneau/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-g.-bruneau/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>S. M. Clinton</title>
       <link>https://www.cdrl-ut.com/authors/s.-m.-clinton/</link>
       <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/s.-m.-clinton/</guid>
-=======
-      <title>M. J. Semins</title>
-      <link>/authors/m.-j.-semins/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-j.-semins/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>M. J. Semins</title>
       <link>https://www.cdrl-ut.com/authors/m.-j.-semins/</link>
       <pubDate>Tue, 03 Feb 2004 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/m.-j.-semins/</guid>
-=======
-      <title>S. M. Clinton</title>
-      <link>/authors/s.-m.-clinton/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-m.-clinton/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>G. Davidkova</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/g.-davidkova/</link>
       <pubDate>Sat, 20 Dec 2003 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/g.-davidkova/</guid>
-=======
-      <link>/authors/g.-davidkova/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/g.-davidkova/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>I. F. Charo</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/i.-f.-charo/</link>
       <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/i.-f.-charo/</guid>
-=======
-      <link>/authors/i.-f.-charo/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/i.-f.-charo/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>M. Gharaee-Kermani</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/m.-gharaee-kermani/</link>
       <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/m.-gharaee-kermani/</guid>
-=======
-      <link>/authors/m.-gharaee-kermani/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-gharaee-kermani/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>S. H. Phan</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/s.-h.-phan/</link>
       <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/s.-h.-phan/</guid>
-=======
-      <link>/authors/s.-h.-phan/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-h.-phan/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>S. L. Kunkel</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/s.-l.-kunkel/</link>
       <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/s.-l.-kunkel/</guid>
-=======
-      <link>/authors/s.-l.-kunkel/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-l.-kunkel/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>S. M. Agrawal</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/s.-m.-agrawal/</link>
       <pubDate>Thu, 02 Oct 2003 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/s.-m.-agrawal/</guid>
-=======
-      <link>/authors/s.-m.-agrawal/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-m.-agrawal/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>T. L. Stincic</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/t.-l.-stincic/</link>
       <pubDate>Thu, 02 Oct 2003 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/t.-l.-stincic/</guid>
-=======
-      <link>/authors/t.-l.-stincic/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-l.-stincic/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
@@ -3709,25 +2298,15 @@
     
     <item>
       <title></title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/evelyn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/evelyn/</guid>
-=======
-      <link>/authors/james/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/james/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title></title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/authors/hunter/</link>
-=======
-      <link>/authors/mackenzie/</link>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/hunter/</guid>
       <description></description>
@@ -3735,18 +2314,18 @@
     
     <item>
       <title></title>
+      <link>https://www.cdrl-ut.com/authors/james/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/james/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://www.cdrl-ut.com/authors/justin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
       <guid>https://www.cdrl-ut.com/authors/justin/</guid>
       <description></description>
-=======
-      <guid>/authors/nick/</guid>
-      <description>&lt;p&gt;Nicholas graduated from Miami University in 2016 where he worked under Dr. Lori Isaacson, Ph.D. as an Undergraduate Student and a Laboratory Technician. There, he studied the mechanism of glial plasticity in the intermediolateral cell column of spinal cord after sympathetic axotomy. He worked specifically on oligodendrocyte-astrocyte communication and glial proliferation after axotomy. Likewise, he studied the impact of attenuating microglial activation on long-term neuron and glial plasticity after injury.&lt;/p&gt;
-
-&lt;p&gt;He is a first-year Graduate Student in the MD-PhD Program at the University of Toledo College of Medicine and Life Sciences. In the Cognitive Disorders Research Laboratory, he is currently studying alterations in nutrient sensing by AMPK and AKT in Alzheimer’s Dementia.&lt;/p&gt;
-</description>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </item>
     
     <item>
@@ -3761,14 +2340,8 @@
       <title></title>
       <link>https://www.cdrl-ut.com/authors/ram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
       <guid>https://www.cdrl-ut.com/authors/ram/</guid>
       <description></description>
-=======
-      <guid>/authors/rawan/</guid>
-      <description>&lt;p&gt;I received my BS in Pharmaceutical Sciences in 2014 from King Saud University. In 2018, I earned my Master’s in Pharmacology and Toxicology at the University of Toledo where I studied the involvement of cytoskeletal protein drebrin in microglial activation and inflammation. In 2018, I started my doctoral studies in Neuroscience and Neurological Disorders and joined the Cognitive Disorders Research Laboratory (CDRL). Currently, I’m studying the effect of nitric oxide overexpression on synaptic proteome in schizophrenia pathophysiology.&lt;/p&gt;
-</description>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </item>
     
     <item>
@@ -3818,6 +2391,14 @@
       <link>https://www.cdrl-ut.com/authors/sophie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/authors/sophie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.cdrl-ut.com/authors/vineet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/vineet/</guid>
       <description></description>
     </item>
     

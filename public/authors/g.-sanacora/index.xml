@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>G. Sanacora | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/g.-sanacora/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/g.-sanacora/index.xml" rel="self" type="application/rss+xml" />
@@ -11,30 +10,13 @@
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>G. Sanacora</title>
       <link>https://www.cdrl-ut.com/authors/g.-sanacora/</link>
-=======
-    <title>G. Sanacora | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/g.-sanacora/</link>
-      <atom:link href="/authors/g.-sanacora/index.xml" rel="self" type="application/rss+xml" />
-    <description>G. Sanacora</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>G. Sanacora</title>
-      <link>/authors/g.-sanacora/</link>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     </image>
     
     <item>
       <title>Regulation of extrasynaptic glutamate levels as a pathophysiological mechanism in disorders of motivation and addiction</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2014-12-09_rn5183/</link>
       <pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2014-12-09_rn5183/</guid>
-=======
-      <link>/publication/rn-4925/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4925/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

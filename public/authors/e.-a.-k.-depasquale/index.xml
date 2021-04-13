@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
-    <title>E. A. K. Depasquale | CDRL</title>
+    <title>E. A. K. DePasquale | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/e.-a.-k.-depasquale/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/e.-a.-k.-depasquale/index.xml" rel="self" type="application/rss+xml" />
-    <description>E. A. K. Depasquale</description>
+    <description>E. A. K. DePasquale</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.cdrl-ut.com/img/icon-192.png</url>
-      <title>E. A. K. Depasquale</title>
+      <title>E. A. K. DePasquale</title>
       <link>https://www.cdrl-ut.com/authors/e.-a.-k.-depasquale/</link>
     </image>
     
@@ -18,30 +17,11 @@
       <link>https://www.cdrl-ut.com/publication/2020-05-06_rn5147/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2020-05-06_rn5147/</guid>
-=======
-    <title>E. A. K. Depasquale | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/e.-a.-k.-depasquale/</link>
-      <atom:link href="/authors/e.-a.-k.-depasquale/index.xml" rel="self" type="application/rss+xml" />
-    <description>E. A. K. Depasquale</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>E. A. K. Depasquale</title>
-      <link>/authors/e.-a.-k.-depasquale/</link>
-    </image>
-    
-    <item>
-      <title>Chronic Dysregulation of Cortical and Subcortical Metabolism After Experimental Traumatic Brain Injury</title>
-      <link>/publication/rn-4902/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4902/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Kinase network dysregulation in a human induced pluripotent stem cell model of DISC1 schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2019-05-21_rn5154/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2019-05-21_rn5154/</guid>
@@ -53,11 +33,6 @@
       <link>https://www.cdrl-ut.com/publication/2018-08-03_rn5160/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2018-08-03_rn5160/</guid>
-=======
-      <link>/publication/rn-4896/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4896/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

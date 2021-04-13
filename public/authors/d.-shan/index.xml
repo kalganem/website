@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>D. Shan | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/d.-shan/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/d.-shan/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <title>D. Shan | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/d.-shan/</link>
-      <atom:link href="/authors/d.-shan/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     <description>D. Shan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2015 00:00:00 +0000</lastBuildDate>
     <image>
@@ -28,110 +22,57 @@
     
     <item>
       <title>Decreased chloride channel expression in the dorsolateral prefrontal cortex in schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2015-04-01_rn5181/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2015-04-01_rn5181/</guid>
-=======
-      <link>/publication/rn-4923/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4923/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Postmortem brain: an underutilized substrate for studying severe mental illness</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2015-03-15_rn5182/</link>
       <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2015-03-15_rn5182/</guid>
-=======
-      <link>/publication/rn-4924/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4924/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Abnormal partitioning of hexokinase 1 suggests disruption of a glutamate transport protein complex in schizophrenia</title>
       <link>https://www.cdrl-ut.com/publication/2014-02-25_rn5187/</link>
       <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2014-02-25_rn5187/</guid>
-=======
-      <title>Purinergic signaling and energy homeostasis in psychiatric disorders</title>
-      <link>/publication/rn-4921/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4921/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Postmortem brain: an underutilized substrate for studying severe mental illness</title>
       <link>https://www.cdrl-ut.com/publication/2013-10-05_rn5189/</link>
       <pubDate>Sat, 05 Oct 2013 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2013-10-05_rn5189/</guid>
-=======
-      <title>Abnormal partitioning of hexokinase 1 suggests disruption of a glutamate transport protein complex in schizophrenia</title>
-      <link>/publication/rn-4929/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4929/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Update on the neurobiology of schizophrenia: a role for extracellular microdomains</title>
       <link>https://www.cdrl-ut.com/publication/2013-10-01_rn5190/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2013-10-01_rn5190/</guid>
-=======
-      <title>Postmortem brain: an underutilized substrate for studying severe mental illness</title>
-      <link>/publication/rn-4931/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4931/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Abnormal expression of glutamate transporters in temporal lobe areas in elderly patients with schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2013-01-30_rn5193/</link>
       <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2013-01-30_rn5193/</guid>
-=======
-      <link>/publication/rn-4935/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4935/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Expression of equilibrative nucleoside transporter type 1 protein in elderly patients with schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2012-02-09_rn5195/</link>
       <pubDate>Thu, 09 Feb 2012 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2012-02-09_rn5195/</guid>
-=======
-      <link>/publication/rn-4937/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4937/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Update on the neurobiology of schizophrenia: a role for extracellular microdomains</title>
-      <link>/publication/rn-4932/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4932/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>D. Bauer | CDRL</title>
     <link>https://www.cdrl-ut.com/authors/d.-bauer/</link>
       <atom:link href="https://www.cdrl-ut.com/authors/d.-bauer/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <title>D. Bauer | Cognitive Disorders Research Laboratory</title>
-    <link>/authors/d.-bauer/</link>
-      <atom:link href="/authors/d.-bauer/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
     <description>D. Bauer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
@@ -20,43 +14,25 @@
     
     <item>
       <title>Glutamate transporter splice variant expression in an enriched pyramidal cell population in schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2015-06-10_rn5177/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2015-06-10_rn5177/</guid>
-=======
-      <link>/publication/rn-4919/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4919/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Abnormal glycosylation of EAAT1 and EAAT2 in prefrontal cortex of elderly patients with schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2009-09-01_rn5204/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2009-09-01_rn5204/</guid>
-=======
-      <link>/publication/rn-4946/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4946/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
     <item>
       <title>Abnormal expression of glutamate transporter and transporter interacting molecules in prefrontal cortex in elderly patients with schizophrenia</title>
-<<<<<<< HEAD
       <link>https://www.cdrl-ut.com/publication/2008-08-06_rn5208/</link>
       <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/publication/2008-08-06_rn5208/</guid>
-=======
-      <link>/publication/rn-4950/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-4950/</guid>
->>>>>>> 2e9598e68b6b912778643474f012bedaea7ad86f
       <description></description>
     </item>
     
