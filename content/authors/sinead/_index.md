@@ -31,9 +31,9 @@ organizations:
   url: ""
 role: Director of Translational Studies
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:Sinead.ODonovan@UToledo.Edu"
+# - icon: envelope
+#   icon_pack: fas
+#   link: "mailto:Sinead.ODonovan@UToledo.Edu"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

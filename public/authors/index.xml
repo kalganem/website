@@ -2,277 +2,2253 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | CDRL</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.cdrl-ut.com/authors/</link>
+      <atom:link href="https://www.cdrl-ut.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://www.cdrl-ut.com/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/khaled/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/khaled/</guid>
+      <link>https://www.cdrl-ut.com/authors/khaled/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/khaled/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A. J. Funk</title>
-      <link>/authors/a.-j.-funk/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-j.-funk/</guid>
+      <title>A. S. Imami</title>
+      <link>https://www.cdrl-ut.com/authors/a.-s.-imami/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-s.-imami/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A. J. Ramsey</title>
-      <link>/authors/a.-j.-ramsey/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-j.-ramsey/</guid>
+      <title>C. B. McCullumsmith</title>
+      <link>https://www.cdrl-ut.com/authors/c.-b.-mccullumsmith/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-b.-mccullumsmith/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>C. A. Mielnik</title>
-      <link>/authors/c.-a.-mielnik/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-a.-mielnik/</guid>
+      <title>C. Gillman</title>
+      <link>https://www.cdrl-ut.com/authors/c.-gillman/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-gillman/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>C. R. Sullivan</title>
-      <link>/authors/c.-r.-sullivan/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-r.-sullivan/</guid>
+      <title>E. Andari</title>
+      <link>https://www.cdrl-ut.com/authors/e.-andari/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-andari/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>E. A. DePasquale</title>
-      <link>/authors/e.-a.-depasquale/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-a.-depasquale/</guid>
+      <title>H. M. Eby</title>
+      <link>https://www.cdrl-ut.com/authors/h.-m.-eby/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/h.-m.-eby/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>E. Bentea</title>
-      <link>/authors/e.-bentea/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-bentea/</guid>
+      <title>J. F. Creeden</title>
+      <link>https://www.cdrl-ut.com/authors/j.-f.-creeden/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-f.-creeden/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>J. Meller</title>
-      <link>/authors/j.-meller/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-meller/</guid>
+      <title>J. Reigle</title>
+      <link>https://www.cdrl-ut.com/authors/j.-reigle/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-reigle/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>K. Alganem</title>
-      <link>/authors/k.-alganem/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-alganem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P. Katsel</title>
-      <link>/authors/p.-katsel/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/p.-katsel/</guid>
+      <title>K. N. Becker</title>
+      <link>https://www.cdrl-ut.com/authors/k.-n.-becker/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-n.-becker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. E. McCullumsmith</title>
-      <link>/authors/r.-e.-mccullumsmith/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-e.-mccullumsmith/</guid>
+      <link>https://www.cdrl-ut.com/authors/r.-e.-mccullumsmith/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-e.-mccullumsmith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. M. O&#39;Donovan</title>
-      <link>/authors/s.-m.-odonovan/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-m.-odonovan/</guid>
+      <link>https://www.cdrl-ut.com/authors/s.-m.-odonovan/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-m.-odonovan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>V. Haroutunian</title>
-      <link>/authors/v.-haroutunian/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/v.-haroutunian/</guid>
+      <title>Z. K. Pan</title>
+      <link>https://www.cdrl-ut.com/authors/z.-k.-pan/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/z.-k.-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Imami</title>
+      <link>https://www.cdrl-ut.com/authors/a.-imami/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-imami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Thorman</title>
+      <link>https://www.cdrl-ut.com/authors/a.-thorman/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-thorman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Shamsaei</title>
+      <link>https://www.cdrl-ut.com/authors/b.-shamsaei/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/b.-shamsaei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Eby</title>
+      <link>https://www.cdrl-ut.com/authors/h.-eby/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/h.-eby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Meller</title>
+      <link>https://www.cdrl-ut.com/authors/j.-meller/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-meller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. D. Henkel</title>
+      <link>https://www.cdrl-ut.com/authors/n.-d.-henkel/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/n.-d.-henkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Alnafisah</title>
+      <link>https://www.cdrl-ut.com/authors/r.-alnafisah/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-alnafisah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. T. Taylor</title>
+      <link>https://www.cdrl-ut.com/authors/r.-t.-taylor/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-t.-taylor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Asah</title>
+      <link>https://www.cdrl-ut.com/authors/s.-asah/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-asah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. Wu</title>
+      <link>https://www.cdrl-ut.com/authors/x.-wu/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/x.-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. Zhang</title>
+      <link>https://www.cdrl-ut.com/authors/x.-zhang/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/x.-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. K. Reigle</title>
+      <link>https://www.cdrl-ut.com/authors/j.-k.-reigle/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-k.-reigle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. A. Smail</title>
+      <link>https://www.cdrl-ut.com/authors/m.-a.-smail/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-a.-smail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. P. Herman</title>
+      <link>https://www.cdrl-ut.com/authors/j.-p.-herman/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-p.-herman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Shukla</title>
+      <link>https://www.cdrl-ut.com/authors/r.-shukla/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-shukla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. A. Hamoud</title>
+      <link>https://www.cdrl-ut.com/authors/a.-a.-hamoud/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-a.-hamoud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. S. Alnafisah</title>
+      <link>https://www.cdrl-ut.com/authors/r.-s.-alnafisah/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-s.-alnafisah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Z. Wen</title>
-      <link>/authors/z.-wen/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/z.-wen/</guid>
+      <link>https://www.cdrl-ut.com/authors/z.-wen/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/z.-wen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>D. Bauer</title>
-      <link>/authors/d.-bauer/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-bauer/</guid>
+      <title>F. C. Brunicardi</title>
+      <link>https://www.cdrl-ut.com/authors/f.-c.-brunicardi/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/f.-c.-brunicardi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>D. Shan</title>
-      <link>/authors/d.-shan/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-shan/</guid>
+      <title>F. Naji</title>
+      <link>https://www.cdrl-ut.com/authors/f.-naji/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/f.-naji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Alganem</title>
+      <link>https://www.cdrl-ut.com/authors/k.-alganem/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-alganem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. H. Liu</title>
+      <link>https://www.cdrl-ut.com/authors/s.-h.-liu/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-h.-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Tomar</title>
+      <link>https://www.cdrl-ut.com/authors/t.-tomar/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/t.-tomar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. J. Ramsey</title>
+      <link>https://www.cdrl-ut.com/authors/a.-j.-ramsey/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-j.-ramsey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Intson</title>
+      <link>https://www.cdrl-ut.com/authors/k.-intson/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-intson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Geissah</title>
+      <link>https://www.cdrl-ut.com/authors/s.-geissah/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-geissah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Wolfinger</title>
+      <link>https://www.cdrl-ut.com/authors/a.-wolfinger/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-wolfinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. E. Abel</title>
+      <link>https://www.cdrl-ut.com/authors/m.-e.-abel/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-e.-abel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. M. Asah</title>
+      <link>https://www.cdrl-ut.com/authors/s.-m.-asah/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-m.-asah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. J. Funk</title>
+      <link>https://www.cdrl-ut.com/authors/a.-j.-funk/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-j.-funk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Salahpour</title>
+      <link>https://www.cdrl-ut.com/authors/a.-salahpour/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-salahpour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. A. Mielnik</title>
+      <link>https://www.cdrl-ut.com/authors/c.-a.-mielnik/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-a.-mielnik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. K. Lambe</title>
+      <link>https://www.cdrl-ut.com/authors/e.-k.-lambe/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-k.-lambe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. M. Johansson</title>
+      <link>https://www.cdrl-ut.com/authors/e.-m.-johansson/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-m.-johansson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Uvnas-Moberg</title>
+      <link>https://www.cdrl-ut.com/authors/k.-uvnas-moberg/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-uvnas-moberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Groc</title>
+      <link>https://www.cdrl-ut.com/authors/l.-groc/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-groc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. A. Binko</title>
+      <link>https://www.cdrl-ut.com/authors/m.-a.-binko/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-a.-binko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Milenkovic</title>
+      <link>https://www.cdrl-ut.com/authors/m.-milenkovic/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-milenkovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Sivananthan</title>
+      <link>https://www.cdrl-ut.com/authors/n.-sivananthan/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/n.-sivananthan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. A. Ross</title>
+      <link>https://www.cdrl-ut.com/authors/r.-a.-ross/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-a.-ross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Islam</title>
+      <link>https://www.cdrl-ut.com/authors/r.-islam/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Tripathy</title>
+      <link>https://www.cdrl-ut.com/authors/s.-tripathy/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-tripathy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. Horsfall</title>
+      <link>https://www.cdrl-ut.com/authors/w.-horsfall/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/w.-horsfall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Chen</title>
+      <link>https://www.cdrl-ut.com/authors/y.-chen/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/y.-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Horton</title>
+      <link>https://www.cdrl-ut.com/authors/a.-horton/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-horton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Wisner</title>
+      <link>https://www.cdrl-ut.com/authors/a.-wisner/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-wisner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Tackie-Yarboi</title>
+      <link>https://www.cdrl-ut.com/authors/e.-tackie-yarboi/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-tackie-yarboi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. E. Williams</title>
+      <link>https://www.cdrl-ut.com/authors/f.-e.-williams/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/f.-e.-williams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. S. Hall</title>
+      <link>https://www.cdrl-ut.com/authors/f.-s.-hall/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/f.-s.-hall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. T. Schiefer</title>
+      <link>https://www.cdrl-ut.com/authors/i.-t.-schiefer/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/i.-t.-schiefer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Q. T. Chau</title>
+      <link>https://www.cdrl-ut.com/authors/t.-q.-t.-chau/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/t.-q.-t.-chau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Creeden</title>
+      <link>https://www.cdrl-ut.com/authors/j.-creeden/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-creeden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. R. Hamoud</title>
+      <link>https://www.cdrl-ut.com/authors/a.-r.-hamoud/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-r.-hamoud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. A. Miruzzi</title>
+      <link>https://www.cdrl-ut.com/authors/s.-a.-miruzzi/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-a.-miruzzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. L. Nestor-Kalinoski</title>
+      <link>https://www.cdrl-ut.com/authors/a.-l.-nestor-kalinoski/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-l.-nestor-kalinoski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. F. Hawk</title>
+      <link>https://www.cdrl-ut.com/authors/c.-f.-hawk/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-f.-hawk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. E. Stec</title>
+      <link>https://www.cdrl-ut.com/authors/d.-e.-stec/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-e.-stec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. M. Gordon</title>
+      <link>https://www.cdrl-ut.com/authors/d.-m.-gordon/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-m.-gordon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. G. Sarver</title>
+      <link>https://www.cdrl-ut.com/authors/j.-g.-sarver/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-g.-sarver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jr. {Hinds T. D.}</title>
+      <link>https://www.cdrl-ut.com/authors/jr.-hinds-t.-d./</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/jr.-hinds-t.-d./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. L. Neifer</title>
+      <link>https://www.cdrl-ut.com/authors/k.-l.-neifer/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-l.-neifer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. P. Morran</title>
+      <link>https://www.cdrl-ut.com/authors/m.-p.-morran/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-p.-morran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. W. Erhardt</title>
+      <link>https://www.cdrl-ut.com/authors/p.-w.-erhardt/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/p.-w.-erhardt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. O. Adeosun</title>
+      <link>https://www.cdrl-ut.com/authors/s.-o.-adeosun/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-o.-adeosun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Massie</title>
+      <link>https://www.cdrl-ut.com/authors/a.-massie/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-massie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Villers</title>
+      <link>https://www.cdrl-ut.com/authors/a.-villers/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-villers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. K. Meshul</title>
+      <link>https://www.cdrl-ut.com/authors/c.-k.-meshul/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-k.-meshul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Moore</title>
+      <link>https://www.cdrl-ut.com/authors/c.-moore/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-moore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. A. K. Depasquale</title>
+      <link>https://www.cdrl-ut.com/authors/e.-a.-k.-depasquale/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-a.-k.-depasquale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Bentea</title>
+      <link>https://www.cdrl-ut.com/authors/e.-bentea/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-bentea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Hermans</title>
+      <link>https://www.cdrl-ut.com/authors/e.-hermans/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-hermans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Sato</title>
+      <link>https://www.cdrl-ut.com/authors/h.-sato/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/h.-sato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Arckens</title>
+      <link>https://www.cdrl-ut.com/authors/l.-arckens/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-arckens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Ris</title>
+      <link>https://www.cdrl-ut.com/authors/l.-ris/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-ris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Verbruggen</title>
+      <link>https://www.cdrl-ut.com/authors/l.-verbruggen/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-verbruggen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. {De Pauw}</title>
+      <link>https://www.cdrl-ut.com/authors/l.-de-pauw/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-de-pauw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. J. Churchill</title>
+      <link>https://www.cdrl-ut.com/authors/m.-j.-churchill/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-j.-churchill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. B. Declerck</title>
+      <link>https://www.cdrl-ut.com/authors/n.-b.-declerck/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/n.-b.-declerck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. Lara</title>
+      <link>https://www.cdrl-ut.com/authors/o.-lara/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/o.-lara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Janssen</title>
+      <link>https://www.cdrl-ut.com/authors/p.-janssen/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/p.-janssen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. L. Moody</title>
+      <link>https://www.cdrl-ut.com/authors/c.-l.-moody/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-l.-moody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Boison</title>
+      <link>https://www.cdrl-ut.com/authors/d.-boison/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-boison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Devine</title>
+      <link>https://www.cdrl-ut.com/authors/e.-devine/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-devine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. C. {Devore Homan}</title>
+      <link>https://www.cdrl-ut.com/authors/r.-c.-devore-homan/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-c.-devore-homan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. L. Pinner</title>
+      <link>https://www.cdrl-ut.com/authors/a.-l.-pinner/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-l.-pinner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. H. Meador-Woodruff</title>
-      <link>/authors/j.-h.-meador-woodruff/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-h.-meador-woodruff/</guid>
+      <link>https://www.cdrl-ut.com/authors/j.-h.-meador-woodruff/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-h.-meador-woodruff/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>K. Hasselfeld</title>
-      <link>/authors/k.-hasselfeld/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-hasselfeld/</guid>
+      <title>R. McCullumsmith</title>
+      <link>https://www.cdrl-ut.com/authors/r.-mccullumsmith/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-mccullumsmith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. M. Mueller</title>
+      <link>https://www.cdrl-ut.com/authors/t.-m.-mueller/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/t.-m.-mueller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Antoine</title>
+      <link>https://www.cdrl-ut.com/authors/a.-antoine/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-antoine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Cheng</title>
+      <link>https://www.cdrl-ut.com/authors/e.-cheng/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-cheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Flaherty</title>
+      <link>https://www.cdrl-ut.com/authors/e.-flaherty/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-flaherty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Deikus</title>
+      <link>https://www.cdrl-ut.com/authors/g.-deikus/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/g.-deikus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. E. Hoffman</title>
+      <link>https://www.cdrl-ut.com/authors/g.-e.-hoffman/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/g.-e.-hoffman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Fang</title>
+      <link>https://www.cdrl-ut.com/authors/g.-fang/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/g.-fang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Shah</title>
+      <link>https://www.cdrl-ut.com/authors/h.-shah/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/h.-shah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Ladran</title>
+      <link>https://www.cdrl-ut.com/authors/i.-ladran/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/i.-ladran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Rapoport</title>
+      <link>https://www.cdrl-ut.com/authors/j.-rapoport/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-rapoport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. J. Brennand</title>
+      <link>https://www.cdrl-ut.com/authors/k.-j.-brennand/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-j.-brennand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. B. Fernando</title>
+      <link>https://www.cdrl-ut.com/authors/m.-b.-fernando/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-b.-fernando/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Fitzgerald</title>
+      <link>https://www.cdrl-ut.com/authors/m.-fitzgerald/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-fitzgerald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Halpern</title>
+      <link>https://www.cdrl-ut.com/authors/m.-halpern/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-halpern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Barretto</title>
+      <link>https://www.cdrl-ut.com/authors/n.-barretto/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/n.-barretto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Francoeur</title>
+      <link>https://www.cdrl-ut.com/authors/n.-francoeur/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/n.-francoeur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. M. Tsankova</title>
+      <link>https://www.cdrl-ut.com/authors/n.-m.-tsankova/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/n.-m.-tsankova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Schrode</title>
+      <link>https://www.cdrl-ut.com/authors/n.-schrode/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/n.-schrode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Gochman</title>
+      <link>https://www.cdrl-ut.com/authors/p.-gochman/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/p.-gochman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. J. M. Deans</title>
+      <link>https://www.cdrl-ut.com/authors/p.-j.-m.-deans/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/p.-j.-m.-deans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Sebra</title>
+      <link>https://www.cdrl-ut.com/authors/r.-sebra/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-sebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Zhu</title>
+      <link>https://www.cdrl-ut.com/authors/s.-zhu/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Dobbyn</title>
+      <link>https://www.cdrl-ut.com/authors/a.-dobbyn/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-dobbyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Topol</title>
+      <link>https://www.cdrl-ut.com/authors/a.-topol/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-topol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Aronow</title>
+      <link>https://www.cdrl-ut.com/authors/b.-aronow/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/b.-aronow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Girish</title>
+      <link>https://www.cdrl-ut.com/authors/d.-girish/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-girish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. A. Stahl</title>
+      <link>https://www.cdrl-ut.com/authors/e.-a.-stahl/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-a.-stahl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Hoelzli</title>
+      <link>https://www.cdrl-ut.com/authors/e.-hoelzli/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-hoelzli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Morishita</title>
+      <link>https://www.cdrl-ut.com/authors/h.-morishita/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/h.-morishita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Phatnani</title>
+      <link>https://www.cdrl-ut.com/authors/h.-phatnani/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/h.-phatnani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Gregory</title>
+      <link>https://www.cdrl-ut.com/authors/j.-gregory/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-gregory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Yamamuro</title>
+      <link>https://www.cdrl-ut.com/authors/k.-yamamuro/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-yamamuro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Huckins</title>
+      <link>https://www.cdrl-ut.com/authors/l.-huckins/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-huckins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. R. Matos</title>
+      <link>https://www.cdrl-ut.com/authors/m.-r.-matos/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-r.-matos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Sklar</title>
+      <link>https://www.cdrl-ut.com/authors/p.-sklar/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/p.-sklar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Abadali</title>
+      <link>https://www.cdrl-ut.com/authors/s.-abadali/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-abadali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. M. Ho</title>
+      <link>https://www.cdrl-ut.com/authors/s.-m.-ho/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-m.-ho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Singh</title>
+      <link>https://www.cdrl-ut.com/authors/v.-singh/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/v.-singh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. C. Lowery</title>
+      <link>https://www.cdrl-ut.com/authors/a.-c.-lowery/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-c.-lowery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. A. Correll</title>
+      <link>https://www.cdrl-ut.com/authors/e.-a.-correll/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-a.-correll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. N. Anwar</title>
+      <link>https://www.cdrl-ut.com/authors/f.-n.-anwar/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/f.-n.-anwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. L. McGuire</title>
+      <link>https://www.cdrl-ut.com/authors/j.-l.-mcguire/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-l.-mcguire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Rhame</title>
+      <link>https://www.cdrl-ut.com/authors/k.-rhame/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-rhame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. B. Ngwenya</title>
+      <link>https://www.cdrl-ut.com/authors/l.-b.-ngwenya/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-b.-ngwenya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Bai</title>
+      <link>https://www.cdrl-ut.com/authors/b.-bai/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/b.-bai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. R. Sullivan</title>
+      <link>https://www.cdrl-ut.com/authors/c.-r.-sullivan/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-r.-sullivan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Xu</title>
+      <link>https://www.cdrl-ut.com/authors/c.-xu/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. L. Ming</title>
+      <link>https://www.cdrl-ut.com/authors/g.-l.-ming/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/g.-l.-ming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Song</title>
+      <link>https://www.cdrl-ut.com/authors/h.-song/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/h.-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Peng</title>
+      <link>https://www.cdrl-ut.com/authors/j.-peng/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-peng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Simmons</title>
-      <link>/authors/m.-simmons/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-simmons/</guid>
+      <link>https://www.cdrl-ut.com/authors/m.-simmons/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-simmons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Zhou</title>
+      <link>https://www.cdrl-ut.com/authors/y.-zhou/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/y.-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. M. Blomquist</title>
+      <link>https://www.cdrl-ut.com/authors/t.-m.-blomquist/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/t.-m.-blomquist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Funk</title>
+      <link>https://www.cdrl-ut.com/authors/a.-funk/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-funk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. M. Rowland</title>
+      <link>https://www.cdrl-ut.com/authors/l.-m.-rowland/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-m.-rowland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Pletnikov</title>
+      <link>https://www.cdrl-ut.com/authors/m.-pletnikov/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-pletnikov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. A. DePasquale</title>
+      <link>https://www.cdrl-ut.com/authors/e.-a.-depasquale/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-a.-depasquale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Katsel</title>
+      <link>https://www.cdrl-ut.com/authors/p.-katsel/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/p.-katsel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Haroutunian</title>
+      <link>https://www.cdrl-ut.com/authors/v.-haroutunian/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/v.-haroutunian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Alasmari</title>
+      <link>https://www.cdrl-ut.com/authors/f.-alasmari/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/f.-alasmari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Goodwani</title>
+      <link>https://www.cdrl-ut.com/authors/s.-goodwani/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-goodwani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Sari</title>
+      <link>https://www.cdrl-ut.com/authors/y.-sari/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/y.-sari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Anwar</title>
+      <link>https://www.cdrl-ut.com/authors/f.-anwar/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/f.-anwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Atluri</title>
+      <link>https://www.cdrl-ut.com/authors/g.-atluri/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/g.-atluri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. E. Romick-Rosendale</title>
+      <link>https://www.cdrl-ut.com/authors/l.-e.-romick-rosendale/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-e.-romick-rosendale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Watanabe</title>
+      <link>https://www.cdrl-ut.com/authors/m.-watanabe/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-watanabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. K. Evanson</title>
+      <link>https://www.cdrl-ut.com/authors/n.-k.-evanson/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/n.-k.-evanson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Franco-Villanueva</title>
+      <link>https://www.cdrl-ut.com/authors/a.-franco-villanueva/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-franco-villanueva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. L. Caldwell</title>
+      <link>https://www.cdrl-ut.com/authors/j.-l.-caldwell/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-l.-caldwell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. M. {Privette Vinnedge}</title>
+      <link>https://www.cdrl-ut.com/authors/l.-m.-privette-vinnedge/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-m.-privette-vinnedge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. B. Solomon</title>
+      <link>https://www.cdrl-ut.com/authors/m.-b.-solomon/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-b.-solomon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Ghisays</title>
+      <link>https://www.cdrl-ut.com/authors/v.-ghisays/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/v.-ghisays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Ramsey</title>
+      <link>https://www.cdrl-ut.com/authors/a.-ramsey/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-ramsey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Hasselfeld</title>
+      <link>https://www.cdrl-ut.com/authors/k.-hasselfeld/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-hasselfeld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. H. Koene</title>
+      <link>https://www.cdrl-ut.com/authors/r.-h.-koene/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-h.-koene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Sullivan</title>
+      <link>https://www.cdrl-ut.com/authors/c.-sullivan/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-sullivan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Koene</title>
+      <link>https://www.cdrl-ut.com/authors/r.-koene/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-koene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. H. Hammond</title>
+      <link>https://www.cdrl-ut.com/authors/j.-h.-hammond/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-h.-hammond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. M. O&#39;Donnovan</title>
+      <link>https://www.cdrl-ut.com/authors/s.-m.-odonnovan/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-m.-odonnovan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Marwaha</title>
+      <link>https://www.cdrl-ut.com/authors/s.-marwaha/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-marwaha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Hartounian</title>
+      <link>https://www.cdrl-ut.com/authors/v.-hartounian/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/v.-hartounian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. L. LaCrosse</title>
+      <link>https://www.cdrl-ut.com/authors/a.-l.-lacrosse/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-l.-lacrosse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. J. Reissner</title>
+      <link>https://www.cdrl-ut.com/authors/k.-j.-reissner/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-j.-reissner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. A. Knackstedt</title>
+      <link>https://www.cdrl-ut.com/authors/l.-a.-knackstedt/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-a.-knackstedt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Schwendt</title>
+      <link>https://www.cdrl-ut.com/authors/m.-schwendt/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-schwendt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. T. Sepulveda-Orengo</title>
+      <link>https://www.cdrl-ut.com/authors/m.-t.-sepulveda-orengo/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-t.-sepulveda-orengo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. K. Lipska</title>
+      <link>https://www.cdrl-ut.com/authors/b.-k.-lipska/</link>
+      <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/b.-k.-lipska/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Newburn</title>
+      <link>https://www.cdrl-ut.com/authors/e.-newburn/</link>
+      <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-newburn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. L. Floyd</title>
+      <link>https://www.cdrl-ut.com/authors/c.-l.-floyd/</link>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-l.-floyd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. R. Dorsett</title>
+      <link>https://www.cdrl-ut.com/authors/c.-r.-dorsett/</link>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-r.-dorsett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. L. Niedzielko</title>
+      <link>https://www.cdrl-ut.com/authors/t.-l.-niedzielko/</link>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/t.-l.-niedzielko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. E. Gardner</title>
+      <link>https://www.cdrl-ut.com/authors/a.-e.-gardner/</link>
+      <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-e.-gardner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. S. Benesh</title>
+      <link>https://www.cdrl-ut.com/authors/f.-s.-benesh/</link>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/f.-s.-benesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. B. Drummond</title>
+      <link>https://www.cdrl-ut.com/authors/j.-b.-drummond/</link>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-b.-drummond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Roberts</title>
+      <link>https://www.cdrl-ut.com/authors/r.-roberts/</link>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-roberts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Lauriat</title>
+      <link>https://www.cdrl-ut.com/authors/t.-lauriat/</link>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/t.-lauriat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Tucholski</title>
+      <link>https://www.cdrl-ut.com/authors/j.-tucholski/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-tucholski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. L. Cobbs</title>
+      <link>https://www.cdrl-ut.com/authors/a.-l.-cobbs/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-l.-cobbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. L. Norris</title>
+      <link>https://www.cdrl-ut.com/authors/j.-l.-norris/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-l.-norris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. D. Greis</title>
+      <link>https://www.cdrl-ut.com/authors/k.-d.-greis/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-d.-greis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. R. Heaven</title>
+      <link>https://www.cdrl-ut.com/authors/m.-r.-heaven/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-r.-heaven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. D. Haffey</title>
+      <link>https://www.cdrl-ut.com/authors/w.-d.-haffey/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/w.-d.-haffey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. A. McCollum</title>
+      <link>https://www.cdrl-ut.com/authors/l.-a.-mccollum/</link>
+      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-a.-mccollum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. C. Roberts</title>
+      <link>https://www.cdrl-ut.com/authors/r.-c.-roberts/</link>
+      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-c.-roberts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. K. Lucas</title>
+      <link>https://www.cdrl-ut.com/authors/e.-k.-lucas/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-k.-lucas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. L. Gamble</title>
+      <link>https://www.cdrl-ut.com/authors/k.-l.-gamble/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-l.-gamble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. J. McMeekin</title>
+      <link>https://www.cdrl-ut.com/authors/l.-j.-mcmeekin/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-j.-mcmeekin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. C. Hendrickson</title>
+      <link>https://www.cdrl-ut.com/authors/r.-c.-hendrickson/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-c.-hendrickson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. M. Cowell</title>
+      <link>https://www.cdrl-ut.com/authors/r.-m.-cowell/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-m.-cowell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Bauer</title>
+      <link>https://www.cdrl-ut.com/authors/d.-bauer/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-bauer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. Roussos</title>
-      <link>/authors/p.-roussos/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/p.-roussos/</guid>
+      <link>https://www.cdrl-ut.com/authors/p.-roussos/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/p.-roussos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adam Funk</title>
-      <link>/authors/adam-funk/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/adam-funk/</guid>
+      <title>A. S. Gibbons</title>
+      <link>https://www.cdrl-ut.com/authors/a.-s.-gibbons/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-s.-gibbons/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>James H. Meador-Woodruff</title>
-      <link>/authors/james-h.-meador-woodruff/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/james-h.-meador-woodruff/</guid>
+      <title>A. Uezato</title>
+      <link>https://www.cdrl-ut.com/authors/a.-uezato/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-uezato/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>John Hammond</title>
-      <link>/authors/john-hammond/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/john-hammond/</guid>
+      <title>B. Dean</title>
+      <link>https://www.cdrl-ut.com/authors/b.-dean/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/b.-dean/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robert E. McCullumsmith</title>
-      <link>/authors/robert-e.-mccullumsmith/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-e.-mccullumsmith/</guid>
+      <title>E. Scarr</title>
+      <link>https://www.cdrl-ut.com/authors/e.-scarr/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-scarr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>AJ Funk</title>
-      <link>/authors/aj-funk/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/aj-funk/</guid>
+      <title>J. Meador-Woodruff</title>
+      <link>https://www.cdrl-ut.com/authors/j.-meador-woodruff/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-meador-woodruff/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>G Rumbaugh</title>
-      <link>/authors/g-rumbaugh/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/g-rumbaugh/</guid>
+      <title>S. Boer</title>
+      <link>https://www.cdrl-ut.com/authors/s.-boer/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-boer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Oliveros</title>
+      <link>https://www.cdrl-ut.com/authors/a.-oliveros/</link>
+      <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-oliveros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Lindberg</title>
+      <link>https://www.cdrl-ut.com/authors/d.-lindberg/</link>
+      <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-lindberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. S. Choi</title>
+      <link>https://www.cdrl-ut.com/authors/d.-s.-choi/</link>
+      <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-s.-choi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Shan</title>
+      <link>https://www.cdrl-ut.com/authors/d.-shan/</link>
+      <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-shan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Ayers-Ringler</title>
+      <link>https://www.cdrl-ut.com/authors/j.-ayers-ringler/</link>
+      <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-ayers-ringler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Benitez</title>
+      <link>https://www.cdrl-ut.com/authors/j.-benitez/</link>
+      <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-benitez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Prieto</title>
+      <link>https://www.cdrl-ut.com/authors/m.-prieto/</link>
+      <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-prieto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Sanacora</title>
+      <link>https://www.cdrl-ut.com/authors/g.-sanacora/</link>
+      <pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/g.-sanacora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. K. Roche</title>
+      <link>https://www.cdrl-ut.com/authors/j.-k.-roche/</link>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-k.-roche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Chen</title>
+      <link>https://www.cdrl-ut.com/authors/d.-chen/</link>
+      <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. D. Yates</title>
+      <link>https://www.cdrl-ut.com/authors/s.-d.-yates/</link>
+      <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-d.-yates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Mount</title>
+      <link>https://www.cdrl-ut.com/authors/d.-mount/</link>
+      <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-mount/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Moore</title>
+      <link>https://www.cdrl-ut.com/authors/s.-moore/</link>
+      <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-moore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Walss-Bass</title>
+      <link>https://www.cdrl-ut.com/authors/c.-walss-bass/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/c.-walss-bass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Raventos</title>
+      <link>https://www.cdrl-ut.com/authors/h.-raventos/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/h.-raventos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. K. Marballi</title>
+      <link>https://www.cdrl-ut.com/authors/k.-k.-marballi/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-k.-marballi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. A. Escamilla</title>
+      <link>https://www.cdrl-ut.com/authors/m.-a.-escamilla/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-a.-escamilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. J. Leach</title>
+      <link>https://www.cdrl-ut.com/authors/r.-j.-leach/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-j.-leach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Yates</title>
+      <link>https://www.cdrl-ut.com/authors/s.-yates/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-yates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. S. Simmons</title>
+      <link>https://www.cdrl-ut.com/authors/m.-s.-simmons/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-s.-simmons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. D. Spencer</title>
+      <link>https://www.cdrl-ut.com/authors/d.-d.-spencer/</link>
+      <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-d.-spencer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Perez</title>
+      <link>https://www.cdrl-ut.com/authors/e.-perez/</link>
+      <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-perez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Lauritzen</title>
+      <link>https://www.cdrl-ut.com/authors/f.-lauritzen/</link>
+      <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/f.-lauritzen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Drummond</title>
+      <link>https://www.cdrl-ut.com/authors/j.-drummond/</link>
+      <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-drummond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. H. Bergersen</title>
+      <link>https://www.cdrl-ut.com/authors/l.-h.-bergersen/</link>
+      <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-h.-bergersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. C. {de Lanerolle}</title>
+      <link>https://www.cdrl-ut.com/authors/n.-c.-de-lanerolle/</link>
+      <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/n.-c.-de-lanerolle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Eid</title>
+      <link>https://www.cdrl-ut.com/authors/t.-eid/</link>
+      <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/t.-eid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. S. Lee</title>
+      <link>https://www.cdrl-ut.com/authors/t.-s.-lee/</link>
+      <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/t.-s.-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Wang</title>
+      <link>https://www.cdrl-ut.com/authors/y.-wang/</link>
+      <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/y.-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. C. Hammond</title>
+      <link>https://www.cdrl-ut.com/authors/j.-c.-hammond/</link>
+      <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-c.-hammond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Hammond</title>
+      <link>https://www.cdrl-ut.com/authors/j.-hammond/</link>
+      <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-hammond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. S. Moehle</title>
+      <link>https://www.cdrl-ut.com/authors/m.-s.-moehle/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-s.-moehle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. F. Luduena</title>
+      <link>https://www.cdrl-ut.com/authors/r.-f.-luduena/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-f.-luduena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. S. Sodhi</title>
+      <link>https://www.cdrl-ut.com/authors/m.-s.-sodhi/</link>
+      <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-s.-sodhi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Rumbaugh</title>
-      <link>/authors/g.-rumbaugh/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/g.-rumbaugh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JH Meador-Woodruff</title>
-      <link>/authors/jh-meador-woodruff/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/jh-meador-woodruff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RE McCullumsmith</title>
-      <link>/authors/re-mccullumsmith/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/re-mccullumsmith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V Harotunian</title>
-      <link>/authors/v-harotunian/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/v-harotunian/</guid>
+      <link>https://www.cdrl-ut.com/authors/g.-rumbaugh/</link>
+      <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/g.-rumbaugh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. Harotunian</title>
-      <link>/authors/v.-harotunian/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/v.-harotunian/</guid>
+      <link>https://www.cdrl-ut.com/authors/v.-harotunian/</link>
+      <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/v.-harotunian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. E. Bauer</title>
+      <link>https://www.cdrl-ut.com/authors/d.-e.-bauer/</link>
+      <pubDate>Wed, 14 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-e.-bauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Smolders</title>
+      <link>https://www.cdrl-ut.com/authors/i.-smolders/</link>
+      <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/i.-smolders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Cnops</title>
+      <link>https://www.cdrl-ut.com/authors/l.-cnops/</link>
+      <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-cnops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Kooijman</title>
+      <link>https://www.cdrl-ut.com/authors/r.-kooijman/</link>
+      <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/r.-kooijman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Kwak</title>
+      <link>https://www.cdrl-ut.com/authors/s.-kwak/</link>
+      <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-kwak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Michotte</title>
+      <link>https://www.cdrl-ut.com/authors/y.-michotte/</link>
+      <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/y.-michotte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Gupta</title>
+      <link>https://www.cdrl-ut.com/authors/d.-gupta/</link>
+      <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-gupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. E. Steffek</title>
+      <link>https://www.cdrl-ut.com/authors/a.-e.-steffek/</link>
+      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-e.-steffek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Oni-Orisan</title>
+      <link>https://www.cdrl-ut.com/authors/a.-oni-orisan/</link>
+      <pubDate>Tue, 25 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/a.-oni-orisan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. V. Kristiansen</title>
+      <link>https://www.cdrl-ut.com/authors/l.-v.-kristiansen/</link>
+      <pubDate>Tue, 25 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/l.-v.-kristiansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Beneyto</title>
+      <link>https://www.cdrl-ut.com/authors/m.-beneyto/</link>
+      <pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-beneyto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Kreger</title>
+      <link>https://www.cdrl-ut.com/authors/e.-kreger/</link>
+      <pubDate>Tue, 16 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-kreger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. L. Davis</title>
+      <link>https://www.cdrl-ut.com/authors/k.-l.-davis/</link>
+      <pubDate>Tue, 16 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/k.-l.-davis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Huerta</title>
+      <link>https://www.cdrl-ut.com/authors/i.-huerta/</link>
+      <pubDate>Sat, 18 Feb 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/i.-huerta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. M. Gimenez-Amaya</title>
+      <link>https://www.cdrl-ut.com/authors/j.-m.-gimenez-amaya/</link>
+      <pubDate>Sat, 18 Feb 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/j.-m.-gimenez-amaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. S. Gupta</title>
+      <link>https://www.cdrl-ut.com/authors/d.-s.-gupta/</link>
+      <pubDate>Fri, 10 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/d.-s.-gupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. G. Bruneau</title>
+      <link>https://www.cdrl-ut.com/authors/e.-g.-bruneau/</link>
+      <pubDate>Tue, 12 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/e.-g.-bruneau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. M. Clinton</title>
+      <link>https://www.cdrl-ut.com/authors/s.-m.-clinton/</link>
+      <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-m.-clinton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. J. Semins</title>
+      <link>https://www.cdrl-ut.com/authors/m.-j.-semins/</link>
+      <pubDate>Tue, 03 Feb 2004 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-j.-semins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Davidkova</title>
+      <link>https://www.cdrl-ut.com/authors/g.-davidkova/</link>
+      <pubDate>Sat, 20 Dec 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/g.-davidkova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. F. Charo</title>
+      <link>https://www.cdrl-ut.com/authors/i.-f.-charo/</link>
+      <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/i.-f.-charo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Gharaee-Kermani</title>
+      <link>https://www.cdrl-ut.com/authors/m.-gharaee-kermani/</link>
+      <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/m.-gharaee-kermani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. H. Phan</title>
+      <link>https://www.cdrl-ut.com/authors/s.-h.-phan/</link>
+      <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-h.-phan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. L. Kunkel</title>
+      <link>https://www.cdrl-ut.com/authors/s.-l.-kunkel/</link>
+      <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-l.-kunkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. M. Agrawal</title>
+      <link>https://www.cdrl-ut.com/authors/s.-m.-agrawal/</link>
+      <pubDate>Thu, 02 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/s.-m.-agrawal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. L. Stincic</title>
+      <link>https://www.cdrl-ut.com/authors/t.-l.-stincic/</link>
+      <pubDate>Thu, 02 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/t.-l.-stincic/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/abdul/</link>
+      <link>https://www.cdrl-ut.com/authors/abdul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/abdul/</guid>
+      <guid>https://www.cdrl-ut.com/authors/abdul/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/adam/</link>
+      <link>https://www.cdrl-ut.com/authors/adam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/adam/</guid>
+      <guid>https://www.cdrl-ut.com/authors/adam/</guid>
       <description>&lt;p&gt;Adam received his undergraduate degree in Biology from the University of Nevada Reno (2004). After graduation he accepted a research assistant position with a local biotech company, Sierra Sciences, where he performed research related to telomere biology and telomerase activation. Adam was then accepted into the Neurobiology graduate program at the University of Alabama Birmingham (2006) where he joined the lab of Drs. McCullumsmith and Meador-Woodruff studying the neurobiology of schizophrenia. For his dissertation work, Adam found abnormalities in multiple intracellular signaling cascades in postmortem brain tissue from patients with schizophrenia.&lt;/p&gt;
 
 &lt;p&gt;Upon receiving his PhD (2011), Adam joined the lab of Dr. DeSilva as a postdoctoral fellow studying the role of glutamate in oligodendrocyte development and demyelinating disease. Adam joined Dr. McCullumsmith in Cincinnati in 2014 as a postdoctoral fellow to perform proteomic analyses of postsynaptic density proteins. Dr. Funk joined the faculty at the University of Toledo Medical Center as a Research Assistant Professor in August of 2018 to continue studying the protein-protein interactions of PSD-95 (a major scaffolding and trafficking protein in the postsynaptic density) in postmortem human tissue. The goal of his research is to employ proteomic approaches to hypotheses of synaptic abnormalities in patients with schizophrenia.&lt;/p&gt;
@@ -281,66 +2257,98 @@
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://www.cdrl-ut.com/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://www.cdrl-ut.com/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/emily/</link>
+      <link>https://www.cdrl-ut.com/authors/alex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/emily/</guid>
+      <guid>https://www.cdrl-ut.com/authors/alex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.cdrl-ut.com/authors/ali/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/ali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.cdrl-ut.com/authors/billy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/billy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.cdrl-ut.com/authors/emily/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/emily/</guid>
       <description>&lt;p&gt;Emily earned a BS in neurobiology from the University of Cincinnati in 2016.  During her undergraduate career, she spent two years researching Parkinson&amp;rsquo;s disease where she analyzed ultrasonic vocalizations in rat models as a way to study dysarthria and cognitive function during disease progression.  Emily joined the Cognitive Disorders Research Laboratory in September 2016 and quickly became the lead laser capture microdissection technician, using this technique along with QPCR to explore glutamate transported expression in schizophrenia.  In the summer of 2018, Emily will relocate to the University of Toledo Medical Center in August of 2018 where she continue her work with the laboratory.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/mackenzie/</link>
+      <link>https://www.cdrl-ut.com/authors/evelyn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/mackenzie/</guid>
+      <guid>https://www.cdrl-ut.com/authors/evelyn/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/nick/</link>
+      <link>https://www.cdrl-ut.com/authors/hunter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/nick/</guid>
+      <guid>https://www.cdrl-ut.com/authors/hunter/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/ram/</link>
+      <link>https://www.cdrl-ut.com/authors/justin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/ram/</guid>
+      <guid>https://www.cdrl-ut.com/authors/justin/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/rawan/</link>
+      <link>https://www.cdrl-ut.com/authors/nick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/rawan/</guid>
+      <guid>https://www.cdrl-ut.com/authors/nick/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/rayan/</link>
+      <link>https://www.cdrl-ut.com/authors/ram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/rayan/</guid>
+      <guid>https://www.cdrl-ut.com/authors/ram/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/rob/</link>
+      <link>https://www.cdrl-ut.com/authors/rawan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/rob/</guid>
+      <guid>https://www.cdrl-ut.com/authors/rawan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.cdrl-ut.com/authors/rob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/rob/</guid>
       <description>&lt;p&gt;Dr. McCullumsmith studied biochemistry (BS) at Indiana University, then pursued joint MD, PhD degrees at the University of Michigan. Following a research-track residency in Psychiatry at the University of Michigan, he joined the faculty and began to study abnormalities of glutamate transporter expression in severe mental illness. Dr. McCullumsmith was promoted to Associate Professor with Tenure while at the Department of Psychiatry and Neurobiology at the University of Alabama-Birmingham.&lt;/p&gt;
 
 &lt;p&gt;He relocated to the University of Cincinnati in 2013 where he served as the Associate Vice Chair for Translational Research at UC and the Medical Director of the Outpatient Mental health Division at the Cincinnati VAMC. In 2017 he was promoted to full Professor with tenure.&lt;/p&gt;
@@ -351,17 +2359,17 @@
     
     <item>
       <title></title>
-      <link>/authors/scott/</link>
+      <link>https://www.cdrl-ut.com/authors/scott/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/scott/</guid>
+      <guid>https://www.cdrl-ut.com/authors/scott/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/sinead/</link>
+      <link>https://www.cdrl-ut.com/authors/sinead/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/sinead/</guid>
+      <guid>https://www.cdrl-ut.com/authors/sinead/</guid>
       <description>&lt;p&gt;Sinead received her undergraduate degree in Neurosciences from Trinity College, the University of Dublin, Ireland.  She conducted her PhD thesis, &amp;ldquo;The Molecular, Cellular and Behavioral Effects of Electroconvulsive Stimulation in the Rodent,&amp;rdquo; with the Neurobiology of Depression research group in the Depat. of Psychiatry, Trinity College Dublin.  This project examined the effects of electroconvulsive stimulation on rat hippocampal and frontal cortex proteomes.  It also established a novel animal model of ECS administration, ultra-brief pulse stimulation, to aid in studying the parameters of this treatment for severe depression.&lt;/p&gt;
 
 &lt;p&gt;In 2014, Sinead joined the McCullumsmith laboratory in the Dept. of Psychiatry at the University of Cincinnati as a postdoctoral fellow, continuing her work in translational neuroscience.  This research focused on abnormalities of glutamate transporters (EAAT2) in schizophrenia, using postmortem tissue. It also highlighted the necessity of examining cell-specific and subcellular-level alterations in molecular systems in severe mental illness.  Using methods such as laser capture microdissection, significant, cell-subtype specific changes in EAAT2 and it&amp;rsquo;s splice variants, particularly EAAT2b, were identified in corticothalamic regions in schizophrenia.  In addition, she is interested in the aberrant metabolism of the adenosine system in disease.  Adenosine modulates the glutamate and dopamine neurotransmitter systems which are dysregulated in schizophrenia and contribute to the positive, negative and cognitive symptoms of schizophrenia.&lt;/p&gt;
@@ -372,17 +2380,25 @@
     
     <item>
       <title></title>
-      <link>/authors/sophie/</link>
+      <link>https://www.cdrl-ut.com/authors/sophie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/sophie/</guid>
+      <guid>https://www.cdrl-ut.com/authors/sophie/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/wilma/</link>
+      <link>https://www.cdrl-ut.com/authors/wilma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/wilma/</guid>
+      <guid>https://www.cdrl-ut.com/authors/wilma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.cdrl-ut.com/authors/xiaolu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/authors/xiaolu/</guid>
       <description></description>
     </item>
     

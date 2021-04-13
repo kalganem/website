@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | CDRL</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.cdrl-ut.com/tags/</link>
+      <atom:link href="https://www.cdrl-ut.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://www.cdrl-ut.com/tags/</link>
     </image>
     
     <item>
       <title>Apps</title>
-      <link>/tags/apps/</link>
+      <link>https://www.cdrl-ut.com/tags/apps/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/apps/</guid>
+      <guid>https://www.cdrl-ut.com/tags/apps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bioinformatics</title>
-      <link>/tags/bioinformatics/</link>
+      <link>https://www.cdrl-ut.com/tags/bioinformatics/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/bioinformatics/</guid>
+      <guid>https://www.cdrl-ut.com/tags/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Shiny</title>
-      <link>/tags/r-shiny/</link>
+      <link>https://www.cdrl-ut.com/tags/r-shiny/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/r-shiny/</guid>
+      <guid>https://www.cdrl-ut.com/tags/r-shiny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Application</title>
-      <link>/tags/web-application/</link>
+      <link>https://www.cdrl-ut.com/tags/web-application/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/web-application/</guid>
+      <guid>https://www.cdrl-ut.com/tags/web-application/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coding</title>
-      <link>/tags/coding/</link>
+      <link>https://www.cdrl-ut.com/tags/coding/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/coding/</guid>
+      <guid>https://www.cdrl-ut.com/tags/coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>/tags/courses/</link>
+      <link>https://www.cdrl-ut.com/tags/courses/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/courses/</guid>
+      <guid>https://www.cdrl-ut.com/tags/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>https://www.cdrl-ut.com/tags/r/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/r/</guid>
+      <guid>https://www.cdrl-ut.com/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshops</title>
-      <link>/tags/workshops/</link>
+      <link>https://www.cdrl-ut.com/tags/workshops/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/workshops/</guid>
+      <guid>https://www.cdrl-ut.com/tags/workshops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>course</title>
-      <link>/tags/course/</link>
+      <link>https://www.cdrl-ut.com/tags/course/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
-      <guid>/tags/course/</guid>
+      <guid>https://www.cdrl-ut.com/tags/course/</guid>
       <description></description>
     </item>
     
     <item>
       <title>intro-to-coding</title>
-      <link>/tags/intro-to-coding/</link>
+      <link>https://www.cdrl-ut.com/tags/intro-to-coding/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
-      <guid>/tags/intro-to-coding/</guid>
+      <guid>https://www.cdrl-ut.com/tags/intro-to-coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>workshop</title>
-      <link>/tags/workshop/</link>
+      <link>https://www.cdrl-ut.com/tags/workshop/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
-      <guid>/tags/workshop/</guid>
+      <guid>https://www.cdrl-ut.com/tags/workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posters</title>
-      <link>/tags/posters/</link>
+      <link>https://www.cdrl-ut.com/tags/posters/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/posters/</guid>
+      <guid>https://www.cdrl-ut.com/tags/posters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demonstration</title>
-      <link>/tags/demonstration/</link>
+      <link>https://www.cdrl-ut.com/tags/demonstration/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:01 +0000</pubDate>
-      <guid>/tags/demonstration/</guid>
+      <guid>https://www.cdrl-ut.com/tags/demonstration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drug Discovery</title>
-      <link>/tags/drug-discovery/</link>
+      <link>https://www.cdrl-ut.com/tags/drug-discovery/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:01 +0000</pubDate>
-      <guid>/tags/drug-discovery/</guid>
+      <guid>https://www.cdrl-ut.com/tags/drug-discovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Symposium</title>
-      <link>/tags/symposium/</link>
+      <link>https://www.cdrl-ut.com/tags/symposium/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:01 +0000</pubDate>
-      <guid>/tags/symposium/</guid>
+      <guid>https://www.cdrl-ut.com/tags/symposium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>/tags/talks/</link>
+      <link>https://www.cdrl-ut.com/tags/talks/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:01 +0000</pubDate>
-      <guid>/tags/talks/</guid>
+      <guid>https://www.cdrl-ut.com/tags/talks/</guid>
       <description></description>
     </item>
     

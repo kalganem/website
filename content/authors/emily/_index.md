@@ -22,9 +22,9 @@ organizations:
   url: ""
 role: Lab Manager
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:emily.devine@utoledo.edu"
+# - icon: envelope
+#   icon_pack: fas
+#   link: "mailto:emily.devine@utoledo.edu"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

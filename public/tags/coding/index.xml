@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding | CDRL</title>
-    <link>/tags/coding/</link>
-      <atom:link href="/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.cdrl-ut.com/tags/coding/</link>
+      <atom:link href="https://www.cdrl-ut.com/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <description>Coding</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>Coding</title>
-      <link>/tags/coding/</link>
+      <link>https://www.cdrl-ut.com/tags/coding/</link>
     </image>
     
     <item>
       <title>Intro to Coding Course Summer 2019</title>
-      <link>/project/intro-to-coding/</link>
+      <link>https://www.cdrl-ut.com/project/intro-to-coding/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/intro-to-coding/</guid>
+      <guid>https://www.cdrl-ut.com/project/intro-to-coding/</guid>
       <description>
 
 &lt;h1 id=&#34;intro-to-coding-course-summer-2019&#34;&gt;Intro to Coding Course - Summer 2019&lt;/h1&gt;
@@ -90,19 +90,19 @@
 &lt;tr&gt;
 &lt;td&gt;8/21/19&lt;/td&gt;
 &lt;td&gt;Statistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.cdrl-ut.com/authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;8/28/19&lt;/td&gt;
 &lt;td&gt;Visualization&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt; &amp;amp; Jim Reigle&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.cdrl-ut.com/authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt; &amp;amp; Jim Reigle&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;9/04/19&lt;/td&gt;
 &lt;td&gt;Applying What We Have Learned&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt; &amp;amp; Jim Reigle &amp;amp; Marissa Smail&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.cdrl-ut.com/authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt; &amp;amp; Jim Reigle &amp;amp; Marissa Smail&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -126,7 +126,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;/authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.cdrl-ut.com/authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;khaled.alganem@rockets.utoledo.edu&lt;/td&gt;
 &lt;td&gt;University of Toledo&lt;/td&gt;
 &lt;/tr&gt;
@@ -138,7 +138,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;/authors/ram&#34;&gt;Rammohan Shukla, PhD&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.cdrl-ut.com/authors/ram&#34;&gt;Rammohan Shukla, PhD&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;rammohanshukla@gmail.com&lt;/td&gt;
 &lt;td&gt;University of Toledo&lt;/td&gt;
 &lt;/tr&gt;
@@ -149,25 +149,25 @@
     
     <item>
       <title>Lesson 8</title>
-      <link>/talk/intro-to-coding8/</link>
+      <link>https://www.cdrl-ut.com/talk/intro-to-coding8/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
-      <guid>/talk/intro-to-coding8/</guid>
+      <guid>https://www.cdrl-ut.com/talk/intro-to-coding8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lesson 7</title>
-      <link>/talk/intro-to-coding7/</link>
+      <link>https://www.cdrl-ut.com/talk/intro-to-coding7/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0100</pubDate>
-      <guid>/talk/intro-to-coding7/</guid>
+      <guid>https://www.cdrl-ut.com/talk/intro-to-coding7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lesson 6</title>
-      <link>/talk/intro-to-coding6/</link>
+      <link>https://www.cdrl-ut.com/talk/intro-to-coding6/</link>
       <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/intro-to-coding6/</guid>
+      <guid>https://www.cdrl-ut.com/talk/intro-to-coding6/</guid>
       <description>
 
 &lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
@@ -185,41 +185,41 @@
     
     <item>
       <title>Lesson 5</title>
-      <link>/talk/intro-to-coding5/</link>
+      <link>https://www.cdrl-ut.com/talk/intro-to-coding5/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0100</pubDate>
-      <guid>/talk/intro-to-coding5/</guid>
+      <guid>https://www.cdrl-ut.com/talk/intro-to-coding5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lesson 4</title>
-      <link>/talk/intro-to-coding4/</link>
+      <link>https://www.cdrl-ut.com/talk/intro-to-coding4/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0100</pubDate>
-      <guid>/talk/intro-to-coding4/</guid>
+      <guid>https://www.cdrl-ut.com/talk/intro-to-coding4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lesson 3</title>
-      <link>/talk/intro-to-coding3/</link>
+      <link>https://www.cdrl-ut.com/talk/intro-to-coding3/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>/talk/intro-to-coding3/</guid>
+      <guid>https://www.cdrl-ut.com/talk/intro-to-coding3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lesson 2</title>
-      <link>/talk/intro-to-coding2/</link>
+      <link>https://www.cdrl-ut.com/talk/intro-to-coding2/</link>
       <pubDate>Wed, 17 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>/talk/intro-to-coding2/</guid>
+      <guid>https://www.cdrl-ut.com/talk/intro-to-coding2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lesson 1</title>
-      <link>/talk/intro-to-coding1/</link>
+      <link>https://www.cdrl-ut.com/talk/intro-to-coding1/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>/talk/intro-to-coding1/</guid>
+      <guid>https://www.cdrl-ut.com/talk/intro-to-coding1/</guid>
       <description></description>
     </item>
     

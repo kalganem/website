@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adam Funk | CDRL</title>
-    <link>/authors/adam-funk/</link>
-      <atom:link href="/authors/adam-funk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.cdrl-ut.com/authors/adam-funk/</link>
+      <atom:link href="https://www.cdrl-ut.com/authors/adam-funk/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam Funk</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.cdrl-ut.com/img/icon-192.png</url>
       <title>Adam Funk</title>
-      <link>/authors/adam-funk/</link>
+      <link>https://www.cdrl-ut.com/authors/adam-funk/</link>
     </image>
     
     <item>
       <title>Recent Advances in Targeting the Ionotropic Glutamate Receptors in Treating Schizophrenia</title>
-      <link>/publication/rn-90/</link>
+      <link>https://www.cdrl-ut.com/publication/rn-90/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-90/</guid>
+      <guid>https://www.cdrl-ut.com/publication/rn-90/</guid>
       <description></description>
     </item>
     

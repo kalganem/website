@@ -24,9 +24,9 @@ organizations:
   url: ""
 role: Postdoc
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:Xiaojun.Wu@utoledo.edu"
+# - icon: envelope
+#   icon_pack: fas
+#   link: "mailto:Xiaojun.Wu@utoledo.edu"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

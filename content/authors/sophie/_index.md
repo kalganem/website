@@ -24,9 +24,9 @@ organizations:
   url: ""
 role: Laboratory Research Technician
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:sophie.asah@utoledo.edu"
+# - icon: envelope
+#   icon_pack: fas
+#   link: "mailto:sophie.asah@utoledo.edu"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

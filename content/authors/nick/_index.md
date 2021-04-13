@@ -24,9 +24,9 @@ organizations:
   url: ""
 role: Graduate Research Assistant
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:nicholas.henkel@rockets.utoledo.edu"
+# - icon: envelope
+#   icon_pack: fas
+#   link: "mailto:nicholas.henkel@rockets.utoledo.edu"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

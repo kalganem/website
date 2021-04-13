@@ -12,9 +12,9 @@ subtitle = ""
 autolink = true
 
 [design.background]
-  color = "#D7BDA0"
+  #color = "#D7BDA0"
   
-  text_color_light = false
+  #text_color_light = false
 
 # Email form provider
 #   0: Disable email form

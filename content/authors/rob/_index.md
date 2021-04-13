@@ -24,9 +24,9 @@ organizations:
   url: ""
 role: CDRL Director, Chair of the Department of Neurosciences
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:robert.mccullumsmith@utoledo.edu'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:robert.mccullumsmith@utoledo.edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
