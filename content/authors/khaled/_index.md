@@ -2,17 +2,17 @@
 authors:
 - khaled
 # bio: 
-education:
-  courses:
-  - course: BS in Biology, minor in Chemistry
-    institution: University of Findaly
-    year: 2017
-  - course: Graduate Research Assistant, Bioinformatics
-    institution: University of Toledo
-    year: 2017
-  - course: Graduate Research Assistant, Neuroscience
-    institution: University of Toledo
-    year: 2018
+# education:
+#   courses:
+#   - course: BS in Biology, minor in Chemistry
+#     institution: University of Findaly
+#     year: 2017
+#   - course: Graduate Research Assistant, Bioinformatics
+#     institution: University of Toledo
+#     year: 2017
+#   - course: Graduate Research Assistant, Neuroscience
+#     institution: University of Toledo
+#     year: 2018
 
 email: "khaled.alganem@rockets.utoledo.edu"
 interests:

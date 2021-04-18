@@ -1,6 +1,6 @@
 ---
 title: CDRL Bioinformatics Hackathon 2021
-authors: [khaled]
+authors: [ali]
 summary: CDRL Bioinformatics Hackathon 2021 Landing Page
 date: '2021-04-11'
 output: 
@@ -19,7 +19,7 @@ editor_options:
 featured: true
 ---
 
-<img src="Hackathon-ABCB-Graphic.png" style="width:50.0%;height:50.0%" />
+<img src="featured.png" style="width:65.0%;height:65.0%" />
 
 The CDRL Annual Bioinformatics Hackathon is an event that brings the
 best and brightest together to focus on solving a standing problem in

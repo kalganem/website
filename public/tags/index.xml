@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>https://www.cdrl-ut.com/tags/projects/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R Shiny</title>
       <link>https://www.cdrl-ut.com/tags/r-shiny/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
@@ -77,34 +85,18 @@
     </item>
     
     <item>
+      <title>Talks</title>
+      <link>https://www.cdrl-ut.com/tags/talks/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cdrl-ut.com/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Workshops</title>
       <link>https://www.cdrl-ut.com/tags/workshops/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.cdrl-ut.com/tags/workshops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>course</title>
-      <link>https://www.cdrl-ut.com/tags/course/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.cdrl-ut.com/tags/course/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>intro-to-coding</title>
-      <link>https://www.cdrl-ut.com/tags/intro-to-coding/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.cdrl-ut.com/tags/intro-to-coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>workshop</title>
-      <link>https://www.cdrl-ut.com/tags/workshop/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.cdrl-ut.com/tags/workshop/</guid>
       <description></description>
     </item>
     
@@ -141,10 +133,10 @@
     </item>
     
     <item>
-      <title>Talks</title>
-      <link>https://www.cdrl-ut.com/tags/talks/</link>
+      <title>Webinars</title>
+      <link>https://www.cdrl-ut.com/tags/webinars/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:01 +0000</pubDate>
-      <guid>https://www.cdrl-ut.com/tags/talks/</guid>
+      <guid>https://www.cdrl-ut.com/tags/webinars/</guid>
       <description></description>
     </item>
     

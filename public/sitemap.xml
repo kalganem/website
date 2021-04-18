@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://www.cdrl-ut.com/project/intro-to-coding/</loc>
+    <loc>https://www.cdrl-ut.com/project/webinars_and_workshops/intro-to-coding/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cdrl-ut.com/authors/khaled/</loc>
+    <loc>https://www.cdrl-ut.com/authors/ali/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -768,6 +768,11 @@
   </url>
   
   <url>
+    <loc>https://www.cdrl-ut.com/authors/khaled/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.cdrl-ut.com/tags/apps/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url>
@@ -778,7 +783,12 @@
   </url>
   
   <url>
-    <loc>https://www.cdrl-ut.com/project/kaleidoscope/</loc>
+    <loc>https://www.cdrl-ut.com/project/projects_and_posters/kaleidoscope/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/tags/projects/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -933,92 +943,17 @@
   </url>
   
   <url>
+    <loc>https://www.cdrl-ut.com/tags/talks/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.cdrl-ut.com/tags/workshops/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cdrl-ut.com/categories/</loc>
-    <lastmod>2019-09-04T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/tags/course/</loc>
-    <lastmod>2019-09-04T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/categories/courses/</loc>
-    <lastmod>2019-09-04T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/tags/intro-to-coding/</loc>
-    <lastmod>2019-09-04T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/categories/intro-to-coding/</loc>
-    <lastmod>2019-09-04T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/talk/intro-to-coding8/</loc>
-    <lastmod>2019-09-04T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/talk/</loc>
-    <lastmod>2019-09-04T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/tags/workshop/</loc>
-    <lastmod>2019-09-04T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/categories/workshop/</loc>
-    <lastmod>2019-09-04T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/talk/intro-to-coding7/</loc>
-    <lastmod>2019-08-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/talk/intro-to-coding6/</loc>
-    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/talk/intro-to-coding5/</loc>
-    <lastmod>2019-08-14T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/talk/intro-to-coding4/</loc>
-    <lastmod>2019-08-07T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/talk/intro-to-coding3/</loc>
-    <lastmod>2019-07-31T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/talk/intro-to-coding2/</loc>
-    <lastmod>2019-07-17T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/talk/intro-to-coding1/</loc>
-    <lastmod>2019-07-10T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/project/khaled_sobp2019/</loc>
+    <loc>https://www.cdrl-ut.com/project/projects_and_posters/khaled_sobp2019/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1093,7 +1028,7 @@
   </url>
   
   <url>
-    <loc>https://www.cdrl-ut.com/project/mini_symposium_2019/</loc>
+    <loc>https://www.cdrl-ut.com/project/webinars_and_workshops/mini_symposium_2019/</loc>
     <lastmod>2019-04-19T00:00:01+00:00</lastmod>
   </url>
   
@@ -1103,7 +1038,7 @@
   </url>
   
   <url>
-    <loc>https://www.cdrl-ut.com/tags/talks/</loc>
+    <loc>https://www.cdrl-ut.com/tags/webinars/</loc>
     <lastmod>2019-04-19T00:00:01+00:00</lastmod>
   </url>
   
@@ -1139,6 +1074,11 @@
   
   <url>
     <loc>https://www.cdrl-ut.com/publications/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/talks/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -2119,11 +2059,11 @@
   </url>
   
   <url>
-    <loc>https://www.cdrl-ut.com/authors/ali/</loc>
+    <loc>https://www.cdrl-ut.com/authors/billy/</loc>
   </url>
   
   <url>
-    <loc>https://www.cdrl-ut.com/authors/billy/</loc>
+    <loc>https://www.cdrl-ut.com/authors/elizabeth/</loc>
   </url>
   
   <url>
@@ -2198,6 +2138,10 @@
   <url>
     <loc>https://www.cdrl-ut.com/slides/intro_lesson1/lesson_6_stats/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/categories/</loc>
   </url>
   
   <url>

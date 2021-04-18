@@ -18,7 +18,7 @@ email: ""
 # - Artificial Intelligence
 # - Computational Linguistics
 # - Information Retrieval
-name: Nick Henkel
+name: Nicholas Henkel
 organizations:
 - name: University of Toledo
   url: ""

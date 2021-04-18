@@ -23,7 +23,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "All"
-    tag = "*"
+    tag = "Projects"
     
   [[content.filter_button]]
     name = "Apps"
@@ -33,13 +33,6 @@ subtitle = ""
     name = "Posters"
     tag = "Posters"
   
-  [[content.filter_button]]
-    name = "Workshops"
-    tag = "Workshops"
-  
-  [[content.filter_button]]
-    name = "Talks"
-    tag = "Talks"
   
 
 [design]
