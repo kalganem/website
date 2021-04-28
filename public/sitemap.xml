@@ -278,6 +278,51 @@
   </url>
   
   <url>
+    <loc>https://www.cdrl-ut.com/authors/khaled/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/tags/apps/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/tags/bioinformatics/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/project/projects_and_posters/krsa/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/project/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/tags/projects/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/tags/r-shiny/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/tags/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/tags/web-application/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.cdrl-ut.com/authors/a.-wolfinger/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url>
@@ -588,6 +633,36 @@
   </url>
   
   <url>
+    <loc>https://www.cdrl-ut.com/project/webinars_and_workshops/2020_spring_cdrl_webinars/</loc>
+    <lastmod>2020-04-28T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/tags/demonstration/</loc>
+    <lastmod>2020-04-28T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/tags/drug-discovery/</loc>
+    <lastmod>2020-04-28T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/tags/symposium/</loc>
+    <lastmod>2020-04-28T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/tags/talks/</loc>
+    <lastmod>2020-04-28T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cdrl-ut.com/tags/webinars/</loc>
+    <lastmod>2020-04-28T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.cdrl-ut.com/publication/2020-04-11_rn5148/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url>
@@ -763,47 +838,7 @@
   </url>
   
   <url>
-    <loc>https://www.cdrl-ut.com/tags/</loc>
-    <lastmod>2019-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/authors/khaled/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/tags/apps/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/tags/bioinformatics/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.cdrl-ut.com/project/projects_and_posters/kaleidoscope/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/tags/projects/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/project/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/tags/r-shiny/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/tags/web-application/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -943,11 +978,6 @@
   </url>
   
   <url>
-    <loc>https://www.cdrl-ut.com/tags/talks/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.cdrl-ut.com/tags/workshops/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url>
@@ -1018,27 +1048,7 @@
   </url>
   
   <url>
-    <loc>https://www.cdrl-ut.com/tags/demonstration/</loc>
-    <lastmod>2019-04-19T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/tags/drug-discovery/</loc>
-    <lastmod>2019-04-19T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.cdrl-ut.com/project/webinars_and_workshops/mini_symposium_2019/</loc>
-    <lastmod>2019-04-19T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/tags/symposium/</loc>
-    <lastmod>2019-04-19T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cdrl-ut.com/tags/webinars/</loc>
     <lastmod>2019-04-19T00:00:01+00:00</lastmod>
   </url>
   
