@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Wolfinger | CDRL</title>
-    <link>https://www.cdrl-ut.com/authors/a.-wolfinger/</link>
-      <atom:link href="https://www.cdrl-ut.com/authors/a.-wolfinger/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/a.-wolfinger/</link>
+      <atom:link href="/authors/a.-wolfinger/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Wolfinger</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cdrl-ut.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>A. Wolfinger</title>
-      <link>https://www.cdrl-ut.com/authors/a.-wolfinger/</link>
+      <link>/authors/a.-wolfinger/</link>
     </image>
     
     <item>
       <title>KEOPS complex expression in the frontal cortex in major depression and schizophrenia</title>
-      <link>https://www.cdrl-ut.com/publication/2020-09-12_rn5140/</link>
+      <link>/publication/2020-09-12_rn5140/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cdrl-ut.com/publication/2020-09-12_rn5140/</guid>
+      <guid>/publication/2020-09-12_rn5140/</guid>
       <description></description>
     </item>
     

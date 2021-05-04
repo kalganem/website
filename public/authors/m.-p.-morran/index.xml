@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. P. Morran | CDRL</title>
-    <link>https://www.cdrl-ut.com/authors/m.-p.-morran/</link>
-      <atom:link href="https://www.cdrl-ut.com/authors/m.-p.-morran/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/m.-p.-morran/</link>
+      <atom:link href="/authors/m.-p.-morran/index.xml" rel="self" type="application/rss+xml" />
     <description>M. P. Morran</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cdrl-ut.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>M. P. Morran</title>
-      <link>https://www.cdrl-ut.com/authors/m.-p.-morran/</link>
+      <link>/authors/m.-p.-morran/</link>
     </image>
     
     <item>
       <title>Bilirubin remodels murine white adipose tissue by reshaping mitochondrial activity and the coregulator profile of peroxisome proliferator-activated receptor alpha</title>
-      <link>https://www.cdrl-ut.com/publication/2020-05-15_rn5146/</link>
+      <link>/publication/2020-05-15_rn5146/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cdrl-ut.com/publication/2020-05-15_rn5146/</guid>
+      <guid>/publication/2020-05-15_rn5146/</guid>
       <description></description>
     </item>
     
