@@ -2,2261 +2,2261 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | CDRL</title>
-    <link>website/authors/</link>
-      <atom:link href="website/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>website/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>website/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>website/authors/ali/</link>
+      <link>/authors/ali/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/ali/</guid>
+      <guid>/authors/ali/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. S. Imami</title>
-      <link>website/authors/a.-s.-imami/</link>
+      <link>/authors/a.-s.-imami/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-s.-imami/</guid>
+      <guid>/authors/a.-s.-imami/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. B. McCullumsmith</title>
-      <link>website/authors/c.-b.-mccullumsmith/</link>
+      <link>/authors/c.-b.-mccullumsmith/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-b.-mccullumsmith/</guid>
+      <guid>/authors/c.-b.-mccullumsmith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Gillman</title>
-      <link>website/authors/c.-gillman/</link>
+      <link>/authors/c.-gillman/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-gillman/</guid>
+      <guid>/authors/c.-gillman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Andari</title>
-      <link>website/authors/e.-andari/</link>
+      <link>/authors/e.-andari/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-andari/</guid>
+      <guid>/authors/e.-andari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. M. Eby</title>
-      <link>website/authors/h.-m.-eby/</link>
+      <link>/authors/h.-m.-eby/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/h.-m.-eby/</guid>
+      <guid>/authors/h.-m.-eby/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. F. Creeden</title>
-      <link>website/authors/j.-f.-creeden/</link>
+      <link>/authors/j.-f.-creeden/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-f.-creeden/</guid>
+      <guid>/authors/j.-f.-creeden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Reigle</title>
-      <link>website/authors/j.-reigle/</link>
+      <link>/authors/j.-reigle/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-reigle/</guid>
+      <guid>/authors/j.-reigle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. N. Becker</title>
-      <link>website/authors/k.-n.-becker/</link>
+      <link>/authors/k.-n.-becker/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-n.-becker/</guid>
+      <guid>/authors/k.-n.-becker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. E. McCullumsmith</title>
-      <link>website/authors/r.-e.-mccullumsmith/</link>
+      <link>/authors/r.-e.-mccullumsmith/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-e.-mccullumsmith/</guid>
+      <guid>/authors/r.-e.-mccullumsmith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. M. O&#39;Donovan</title>
-      <link>website/authors/s.-m.-odonovan/</link>
+      <link>/authors/s.-m.-odonovan/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-m.-odonovan/</guid>
+      <guid>/authors/s.-m.-odonovan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Z. K. Pan</title>
-      <link>website/authors/z.-k.-pan/</link>
+      <link>/authors/z.-k.-pan/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/z.-k.-pan/</guid>
+      <guid>/authors/z.-k.-pan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Imami</title>
-      <link>website/authors/a.-imami/</link>
+      <link>/authors/a.-imami/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-imami/</guid>
+      <guid>/authors/a.-imami/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Thorman</title>
-      <link>website/authors/a.-thorman/</link>
+      <link>/authors/a.-thorman/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-thorman/</guid>
+      <guid>/authors/a.-thorman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Shamsaei</title>
-      <link>website/authors/b.-shamsaei/</link>
+      <link>/authors/b.-shamsaei/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/b.-shamsaei/</guid>
+      <guid>/authors/b.-shamsaei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Eby</title>
-      <link>website/authors/h.-eby/</link>
+      <link>/authors/h.-eby/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/h.-eby/</guid>
+      <guid>/authors/h.-eby/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Meller</title>
-      <link>website/authors/j.-meller/</link>
+      <link>/authors/j.-meller/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-meller/</guid>
+      <guid>/authors/j.-meller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. D. Henkel</title>
-      <link>website/authors/n.-d.-henkel/</link>
+      <link>/authors/n.-d.-henkel/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/n.-d.-henkel/</guid>
+      <guid>/authors/n.-d.-henkel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Alnafisah</title>
-      <link>website/authors/r.-alnafisah/</link>
+      <link>/authors/r.-alnafisah/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-alnafisah/</guid>
+      <guid>/authors/r.-alnafisah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. T. Taylor</title>
-      <link>website/authors/r.-t.-taylor/</link>
+      <link>/authors/r.-t.-taylor/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-t.-taylor/</guid>
+      <guid>/authors/r.-t.-taylor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Asah</title>
-      <link>website/authors/s.-asah/</link>
+      <link>/authors/s.-asah/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-asah/</guid>
+      <guid>/authors/s.-asah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>X. Wu</title>
-      <link>website/authors/x.-wu/</link>
+      <link>/authors/x.-wu/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/x.-wu/</guid>
+      <guid>/authors/x.-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>X. Zhang</title>
-      <link>website/authors/x.-zhang/</link>
+      <link>/authors/x.-zhang/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/x.-zhang/</guid>
+      <guid>/authors/x.-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. K. Reigle</title>
-      <link>website/authors/j.-k.-reigle/</link>
+      <link>/authors/j.-k.-reigle/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-k.-reigle/</guid>
+      <guid>/authors/j.-k.-reigle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. A. Smail</title>
-      <link>website/authors/m.-a.-smail/</link>
+      <link>/authors/m.-a.-smail/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-a.-smail/</guid>
+      <guid>/authors/m.-a.-smail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. P. Herman</title>
-      <link>website/authors/j.-p.-herman/</link>
+      <link>/authors/j.-p.-herman/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-p.-herman/</guid>
+      <guid>/authors/j.-p.-herman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Shukla</title>
-      <link>website/authors/r.-shukla/</link>
+      <link>/authors/r.-shukla/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-shukla/</guid>
+      <guid>/authors/r.-shukla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. A. Hamoud</title>
-      <link>website/authors/a.-a.-hamoud/</link>
+      <link>/authors/a.-a.-hamoud/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-a.-hamoud/</guid>
+      <guid>/authors/a.-a.-hamoud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. S. Alnafisah</title>
-      <link>website/authors/r.-s.-alnafisah/</link>
+      <link>/authors/r.-s.-alnafisah/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-s.-alnafisah/</guid>
+      <guid>/authors/r.-s.-alnafisah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Z. Wen</title>
-      <link>website/authors/z.-wen/</link>
+      <link>/authors/z.-wen/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>website/authors/z.-wen/</guid>
+      <guid>/authors/z.-wen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. C. Brunicardi</title>
-      <link>website/authors/f.-c.-brunicardi/</link>
+      <link>/authors/f.-c.-brunicardi/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/f.-c.-brunicardi/</guid>
+      <guid>/authors/f.-c.-brunicardi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. Naji</title>
-      <link>website/authors/f.-naji/</link>
+      <link>/authors/f.-naji/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/f.-naji/</guid>
+      <guid>/authors/f.-naji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Alganem</title>
-      <link>website/authors/k.-alganem/</link>
+      <link>/authors/k.-alganem/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-alganem/</guid>
+      <guid>/authors/k.-alganem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. H. Liu</title>
-      <link>website/authors/s.-h.-liu/</link>
+      <link>/authors/s.-h.-liu/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-h.-liu/</guid>
+      <guid>/authors/s.-h.-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Tomar</title>
-      <link>website/authors/t.-tomar/</link>
+      <link>/authors/t.-tomar/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/t.-tomar/</guid>
+      <guid>/authors/t.-tomar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. J. Ramsey</title>
-      <link>website/authors/a.-j.-ramsey/</link>
+      <link>/authors/a.-j.-ramsey/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-j.-ramsey/</guid>
+      <guid>/authors/a.-j.-ramsey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Intson</title>
-      <link>website/authors/k.-intson/</link>
+      <link>/authors/k.-intson/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-intson/</guid>
+      <guid>/authors/k.-intson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Geissah</title>
-      <link>website/authors/s.-geissah/</link>
+      <link>/authors/s.-geissah/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-geissah/</guid>
+      <guid>/authors/s.-geissah/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/khaled/</link>
+      <link>/authors/khaled/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/khaled/</guid>
+      <guid>/authors/khaled/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Wolfinger</title>
-      <link>website/authors/a.-wolfinger/</link>
+      <link>/authors/a.-wolfinger/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-wolfinger/</guid>
+      <guid>/authors/a.-wolfinger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. E. Abel</title>
-      <link>website/authors/m.-e.-abel/</link>
+      <link>/authors/m.-e.-abel/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-e.-abel/</guid>
+      <guid>/authors/m.-e.-abel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. M. Asah</title>
-      <link>website/authors/s.-m.-asah/</link>
+      <link>/authors/s.-m.-asah/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-m.-asah/</guid>
+      <guid>/authors/s.-m.-asah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. J. Funk</title>
-      <link>website/authors/a.-j.-funk/</link>
+      <link>/authors/a.-j.-funk/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-j.-funk/</guid>
+      <guid>/authors/a.-j.-funk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Salahpour</title>
-      <link>website/authors/a.-salahpour/</link>
+      <link>/authors/a.-salahpour/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-salahpour/</guid>
+      <guid>/authors/a.-salahpour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. A. Mielnik</title>
-      <link>website/authors/c.-a.-mielnik/</link>
+      <link>/authors/c.-a.-mielnik/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-a.-mielnik/</guid>
+      <guid>/authors/c.-a.-mielnik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. K. Lambe</title>
-      <link>website/authors/e.-k.-lambe/</link>
+      <link>/authors/e.-k.-lambe/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-k.-lambe/</guid>
+      <guid>/authors/e.-k.-lambe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. M. Johansson</title>
-      <link>website/authors/e.-m.-johansson/</link>
+      <link>/authors/e.-m.-johansson/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-m.-johansson/</guid>
+      <guid>/authors/e.-m.-johansson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Uvnas-Moberg</title>
-      <link>website/authors/k.-uvnas-moberg/</link>
+      <link>/authors/k.-uvnas-moberg/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-uvnas-moberg/</guid>
+      <guid>/authors/k.-uvnas-moberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Groc</title>
-      <link>website/authors/l.-groc/</link>
+      <link>/authors/l.-groc/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-groc/</guid>
+      <guid>/authors/l.-groc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. A. Binko</title>
-      <link>website/authors/m.-a.-binko/</link>
+      <link>/authors/m.-a.-binko/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-a.-binko/</guid>
+      <guid>/authors/m.-a.-binko/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Milenkovic</title>
-      <link>website/authors/m.-milenkovic/</link>
+      <link>/authors/m.-milenkovic/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-milenkovic/</guid>
+      <guid>/authors/m.-milenkovic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. Sivananthan</title>
-      <link>website/authors/n.-sivananthan/</link>
+      <link>/authors/n.-sivananthan/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/n.-sivananthan/</guid>
+      <guid>/authors/n.-sivananthan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. A. Ross</title>
-      <link>website/authors/r.-a.-ross/</link>
+      <link>/authors/r.-a.-ross/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-a.-ross/</guid>
+      <guid>/authors/r.-a.-ross/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Islam</title>
-      <link>website/authors/r.-islam/</link>
+      <link>/authors/r.-islam/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-islam/</guid>
+      <guid>/authors/r.-islam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Tripathy</title>
-      <link>website/authors/s.-tripathy/</link>
+      <link>/authors/s.-tripathy/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-tripathy/</guid>
+      <guid>/authors/s.-tripathy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>W. Horsfall</title>
-      <link>website/authors/w.-horsfall/</link>
+      <link>/authors/w.-horsfall/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/w.-horsfall/</guid>
+      <guid>/authors/w.-horsfall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y. Chen</title>
-      <link>website/authors/y.-chen/</link>
+      <link>/authors/y.-chen/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/y.-chen/</guid>
+      <guid>/authors/y.-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Horton</title>
-      <link>website/authors/a.-horton/</link>
+      <link>/authors/a.-horton/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-horton/</guid>
+      <guid>/authors/a.-horton/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Wisner</title>
-      <link>website/authors/a.-wisner/</link>
+      <link>/authors/a.-wisner/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-wisner/</guid>
+      <guid>/authors/a.-wisner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Tackie-Yarboi</title>
-      <link>website/authors/e.-tackie-yarboi/</link>
+      <link>/authors/e.-tackie-yarboi/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-tackie-yarboi/</guid>
+      <guid>/authors/e.-tackie-yarboi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. E. Williams</title>
-      <link>website/authors/f.-e.-williams/</link>
+      <link>/authors/f.-e.-williams/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/f.-e.-williams/</guid>
+      <guid>/authors/f.-e.-williams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. S. Hall</title>
-      <link>website/authors/f.-s.-hall/</link>
+      <link>/authors/f.-s.-hall/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/f.-s.-hall/</guid>
+      <guid>/authors/f.-s.-hall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I. T. Schiefer</title>
-      <link>website/authors/i.-t.-schiefer/</link>
+      <link>/authors/i.-t.-schiefer/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/i.-t.-schiefer/</guid>
+      <guid>/authors/i.-t.-schiefer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Q. T. Chau</title>
-      <link>website/authors/t.-q.-t.-chau/</link>
+      <link>/authors/t.-q.-t.-chau/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/t.-q.-t.-chau/</guid>
+      <guid>/authors/t.-q.-t.-chau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Creeden</title>
-      <link>website/authors/j.-creeden/</link>
+      <link>/authors/j.-creeden/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-creeden/</guid>
+      <guid>/authors/j.-creeden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. R. Hamoud</title>
-      <link>website/authors/a.-r.-hamoud/</link>
+      <link>/authors/a.-r.-hamoud/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-r.-hamoud/</guid>
+      <guid>/authors/a.-r.-hamoud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. A. Miruzzi</title>
-      <link>website/authors/s.-a.-miruzzi/</link>
+      <link>/authors/s.-a.-miruzzi/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-a.-miruzzi/</guid>
+      <guid>/authors/s.-a.-miruzzi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. L. Nestor-Kalinoski</title>
-      <link>website/authors/a.-l.-nestor-kalinoski/</link>
+      <link>/authors/a.-l.-nestor-kalinoski/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-l.-nestor-kalinoski/</guid>
+      <guid>/authors/a.-l.-nestor-kalinoski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. F. Hawk</title>
-      <link>website/authors/c.-f.-hawk/</link>
+      <link>/authors/c.-f.-hawk/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-f.-hawk/</guid>
+      <guid>/authors/c.-f.-hawk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. E. Stec</title>
-      <link>website/authors/d.-e.-stec/</link>
+      <link>/authors/d.-e.-stec/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-e.-stec/</guid>
+      <guid>/authors/d.-e.-stec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. M. Gordon</title>
-      <link>website/authors/d.-m.-gordon/</link>
+      <link>/authors/d.-m.-gordon/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-m.-gordon/</guid>
+      <guid>/authors/d.-m.-gordon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. G. Sarver</title>
-      <link>website/authors/j.-g.-sarver/</link>
+      <link>/authors/j.-g.-sarver/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-g.-sarver/</guid>
+      <guid>/authors/j.-g.-sarver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jr. {Hinds T. D.}</title>
-      <link>website/authors/jr.-hinds-t.-d./</link>
+      <link>/authors/jr.-hinds-t.-d./</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/jr.-hinds-t.-d./</guid>
+      <guid>/authors/jr.-hinds-t.-d./</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. L. Neifer</title>
-      <link>website/authors/k.-l.-neifer/</link>
+      <link>/authors/k.-l.-neifer/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-l.-neifer/</guid>
+      <guid>/authors/k.-l.-neifer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. P. Morran</title>
-      <link>website/authors/m.-p.-morran/</link>
+      <link>/authors/m.-p.-morran/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-p.-morran/</guid>
+      <guid>/authors/m.-p.-morran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. W. Erhardt</title>
-      <link>website/authors/p.-w.-erhardt/</link>
+      <link>/authors/p.-w.-erhardt/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/p.-w.-erhardt/</guid>
+      <guid>/authors/p.-w.-erhardt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. O. Adeosun</title>
-      <link>website/authors/s.-o.-adeosun/</link>
+      <link>/authors/s.-o.-adeosun/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-o.-adeosun/</guid>
+      <guid>/authors/s.-o.-adeosun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Massie</title>
-      <link>website/authors/a.-massie/</link>
+      <link>/authors/a.-massie/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-massie/</guid>
+      <guid>/authors/a.-massie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Villers</title>
-      <link>website/authors/a.-villers/</link>
+      <link>/authors/a.-villers/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-villers/</guid>
+      <guid>/authors/a.-villers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. K. Meshul</title>
-      <link>website/authors/c.-k.-meshul/</link>
+      <link>/authors/c.-k.-meshul/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-k.-meshul/</guid>
+      <guid>/authors/c.-k.-meshul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Moore</title>
-      <link>website/authors/c.-moore/</link>
+      <link>/authors/c.-moore/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-moore/</guid>
+      <guid>/authors/c.-moore/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. A. K. DePasquale</title>
-      <link>website/authors/e.-a.-k.-depasquale/</link>
+      <link>/authors/e.-a.-k.-depasquale/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-a.-k.-depasquale/</guid>
+      <guid>/authors/e.-a.-k.-depasquale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Bentea</title>
-      <link>website/authors/e.-bentea/</link>
+      <link>/authors/e.-bentea/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-bentea/</guid>
+      <guid>/authors/e.-bentea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Hermans</title>
-      <link>website/authors/e.-hermans/</link>
+      <link>/authors/e.-hermans/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-hermans/</guid>
+      <guid>/authors/e.-hermans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Sato</title>
-      <link>website/authors/h.-sato/</link>
+      <link>/authors/h.-sato/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/h.-sato/</guid>
+      <guid>/authors/h.-sato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Arckens</title>
-      <link>website/authors/l.-arckens/</link>
+      <link>/authors/l.-arckens/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-arckens/</guid>
+      <guid>/authors/l.-arckens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Ris</title>
-      <link>website/authors/l.-ris/</link>
+      <link>/authors/l.-ris/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-ris/</guid>
+      <guid>/authors/l.-ris/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Verbruggen</title>
-      <link>website/authors/l.-verbruggen/</link>
+      <link>/authors/l.-verbruggen/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-verbruggen/</guid>
+      <guid>/authors/l.-verbruggen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. {De Pauw}</title>
-      <link>website/authors/l.-de-pauw/</link>
+      <link>/authors/l.-de-pauw/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-de-pauw/</guid>
+      <guid>/authors/l.-de-pauw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. J. Churchill</title>
-      <link>website/authors/m.-j.-churchill/</link>
+      <link>/authors/m.-j.-churchill/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-j.-churchill/</guid>
+      <guid>/authors/m.-j.-churchill/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. B. Declerck</title>
-      <link>website/authors/n.-b.-declerck/</link>
+      <link>/authors/n.-b.-declerck/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/n.-b.-declerck/</guid>
+      <guid>/authors/n.-b.-declerck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>O. Lara</title>
-      <link>website/authors/o.-lara/</link>
+      <link>/authors/o.-lara/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/o.-lara/</guid>
+      <guid>/authors/o.-lara/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. Janssen</title>
-      <link>website/authors/p.-janssen/</link>
+      <link>/authors/p.-janssen/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/p.-janssen/</guid>
+      <guid>/authors/p.-janssen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. L. Moody</title>
-      <link>website/authors/c.-l.-moody/</link>
+      <link>/authors/c.-l.-moody/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-l.-moody/</guid>
+      <guid>/authors/c.-l.-moody/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Boison</title>
-      <link>website/authors/d.-boison/</link>
+      <link>/authors/d.-boison/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-boison/</guid>
+      <guid>/authors/d.-boison/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Devine</title>
-      <link>website/authors/e.-devine/</link>
+      <link>/authors/e.-devine/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-devine/</guid>
+      <guid>/authors/e.-devine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. C. {Devore Homan}</title>
-      <link>website/authors/r.-c.-devore-homan/</link>
+      <link>/authors/r.-c.-devore-homan/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-c.-devore-homan/</guid>
+      <guid>/authors/r.-c.-devore-homan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. L. Pinner</title>
-      <link>website/authors/a.-l.-pinner/</link>
+      <link>/authors/a.-l.-pinner/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-l.-pinner/</guid>
+      <guid>/authors/a.-l.-pinner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. H. Meador-Woodruff</title>
-      <link>website/authors/j.-h.-meador-woodruff/</link>
+      <link>/authors/j.-h.-meador-woodruff/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-h.-meador-woodruff/</guid>
+      <guid>/authors/j.-h.-meador-woodruff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. McCullumsmith</title>
-      <link>website/authors/r.-mccullumsmith/</link>
+      <link>/authors/r.-mccullumsmith/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-mccullumsmith/</guid>
+      <guid>/authors/r.-mccullumsmith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. M. Mueller</title>
-      <link>website/authors/t.-m.-mueller/</link>
+      <link>/authors/t.-m.-mueller/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>website/authors/t.-m.-mueller/</guid>
+      <guid>/authors/t.-m.-mueller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Antoine</title>
-      <link>website/authors/a.-antoine/</link>
+      <link>/authors/a.-antoine/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-antoine/</guid>
+      <guid>/authors/a.-antoine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Cheng</title>
-      <link>website/authors/e.-cheng/</link>
+      <link>/authors/e.-cheng/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-cheng/</guid>
+      <guid>/authors/e.-cheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Flaherty</title>
-      <link>website/authors/e.-flaherty/</link>
+      <link>/authors/e.-flaherty/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-flaherty/</guid>
+      <guid>/authors/e.-flaherty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Deikus</title>
-      <link>website/authors/g.-deikus/</link>
+      <link>/authors/g.-deikus/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/g.-deikus/</guid>
+      <guid>/authors/g.-deikus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. E. Hoffman</title>
-      <link>website/authors/g.-e.-hoffman/</link>
+      <link>/authors/g.-e.-hoffman/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/g.-e.-hoffman/</guid>
+      <guid>/authors/g.-e.-hoffman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Fang</title>
-      <link>website/authors/g.-fang/</link>
+      <link>/authors/g.-fang/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/g.-fang/</guid>
+      <guid>/authors/g.-fang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Shah</title>
-      <link>website/authors/h.-shah/</link>
+      <link>/authors/h.-shah/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/h.-shah/</guid>
+      <guid>/authors/h.-shah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I. Ladran</title>
-      <link>website/authors/i.-ladran/</link>
+      <link>/authors/i.-ladran/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/i.-ladran/</guid>
+      <guid>/authors/i.-ladran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Rapoport</title>
-      <link>website/authors/j.-rapoport/</link>
+      <link>/authors/j.-rapoport/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-rapoport/</guid>
+      <guid>/authors/j.-rapoport/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. J. Brennand</title>
-      <link>website/authors/k.-j.-brennand/</link>
+      <link>/authors/k.-j.-brennand/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-j.-brennand/</guid>
+      <guid>/authors/k.-j.-brennand/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. B. Fernando</title>
-      <link>website/authors/m.-b.-fernando/</link>
+      <link>/authors/m.-b.-fernando/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-b.-fernando/</guid>
+      <guid>/authors/m.-b.-fernando/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Fitzgerald</title>
-      <link>website/authors/m.-fitzgerald/</link>
+      <link>/authors/m.-fitzgerald/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-fitzgerald/</guid>
+      <guid>/authors/m.-fitzgerald/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Halpern</title>
-      <link>website/authors/m.-halpern/</link>
+      <link>/authors/m.-halpern/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-halpern/</guid>
+      <guid>/authors/m.-halpern/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. Barretto</title>
-      <link>website/authors/n.-barretto/</link>
+      <link>/authors/n.-barretto/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/n.-barretto/</guid>
+      <guid>/authors/n.-barretto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. Francoeur</title>
-      <link>website/authors/n.-francoeur/</link>
+      <link>/authors/n.-francoeur/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/n.-francoeur/</guid>
+      <guid>/authors/n.-francoeur/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. M. Tsankova</title>
-      <link>website/authors/n.-m.-tsankova/</link>
+      <link>/authors/n.-m.-tsankova/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/n.-m.-tsankova/</guid>
+      <guid>/authors/n.-m.-tsankova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. Schrode</title>
-      <link>website/authors/n.-schrode/</link>
+      <link>/authors/n.-schrode/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/n.-schrode/</guid>
+      <guid>/authors/n.-schrode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. Gochman</title>
-      <link>website/authors/p.-gochman/</link>
+      <link>/authors/p.-gochman/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/p.-gochman/</guid>
+      <guid>/authors/p.-gochman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. J. M. Deans</title>
-      <link>website/authors/p.-j.-m.-deans/</link>
+      <link>/authors/p.-j.-m.-deans/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/p.-j.-m.-deans/</guid>
+      <guid>/authors/p.-j.-m.-deans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Sebra</title>
-      <link>website/authors/r.-sebra/</link>
+      <link>/authors/r.-sebra/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-sebra/</guid>
+      <guid>/authors/r.-sebra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Zhu</title>
-      <link>website/authors/s.-zhu/</link>
+      <link>/authors/s.-zhu/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-zhu/</guid>
+      <guid>/authors/s.-zhu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Dobbyn</title>
-      <link>website/authors/a.-dobbyn/</link>
+      <link>/authors/a.-dobbyn/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-dobbyn/</guid>
+      <guid>/authors/a.-dobbyn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Topol</title>
-      <link>website/authors/a.-topol/</link>
+      <link>/authors/a.-topol/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-topol/</guid>
+      <guid>/authors/a.-topol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Aronow</title>
-      <link>website/authors/b.-aronow/</link>
+      <link>/authors/b.-aronow/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/b.-aronow/</guid>
+      <guid>/authors/b.-aronow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Girish</title>
-      <link>website/authors/d.-girish/</link>
+      <link>/authors/d.-girish/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-girish/</guid>
+      <guid>/authors/d.-girish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. A. Stahl</title>
-      <link>website/authors/e.-a.-stahl/</link>
+      <link>/authors/e.-a.-stahl/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-a.-stahl/</guid>
+      <guid>/authors/e.-a.-stahl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Hoelzli</title>
-      <link>website/authors/e.-hoelzli/</link>
+      <link>/authors/e.-hoelzli/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-hoelzli/</guid>
+      <guid>/authors/e.-hoelzli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Morishita</title>
-      <link>website/authors/h.-morishita/</link>
+      <link>/authors/h.-morishita/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/h.-morishita/</guid>
+      <guid>/authors/h.-morishita/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Phatnani</title>
-      <link>website/authors/h.-phatnani/</link>
+      <link>/authors/h.-phatnani/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/h.-phatnani/</guid>
+      <guid>/authors/h.-phatnani/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Gregory</title>
-      <link>website/authors/j.-gregory/</link>
+      <link>/authors/j.-gregory/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-gregory/</guid>
+      <guid>/authors/j.-gregory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Yamamuro</title>
-      <link>website/authors/k.-yamamuro/</link>
+      <link>/authors/k.-yamamuro/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-yamamuro/</guid>
+      <guid>/authors/k.-yamamuro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Huckins</title>
-      <link>website/authors/l.-huckins/</link>
+      <link>/authors/l.-huckins/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-huckins/</guid>
+      <guid>/authors/l.-huckins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. R. Matos</title>
-      <link>website/authors/m.-r.-matos/</link>
+      <link>/authors/m.-r.-matos/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-r.-matos/</guid>
+      <guid>/authors/m.-r.-matos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. Sklar</title>
-      <link>website/authors/p.-sklar/</link>
+      <link>/authors/p.-sklar/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/p.-sklar/</guid>
+      <guid>/authors/p.-sklar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Abadali</title>
-      <link>website/authors/s.-abadali/</link>
+      <link>/authors/s.-abadali/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-abadali/</guid>
+      <guid>/authors/s.-abadali/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. M. Ho</title>
-      <link>website/authors/s.-m.-ho/</link>
+      <link>/authors/s.-m.-ho/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-m.-ho/</guid>
+      <guid>/authors/s.-m.-ho/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. Singh</title>
-      <link>website/authors/v.-singh/</link>
+      <link>/authors/v.-singh/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/v.-singh/</guid>
+      <guid>/authors/v.-singh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. C. Lowery</title>
-      <link>website/authors/a.-c.-lowery/</link>
+      <link>/authors/a.-c.-lowery/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-c.-lowery/</guid>
+      <guid>/authors/a.-c.-lowery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. A. Correll</title>
-      <link>website/authors/e.-a.-correll/</link>
+      <link>/authors/e.-a.-correll/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-a.-correll/</guid>
+      <guid>/authors/e.-a.-correll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. N. Anwar</title>
-      <link>website/authors/f.-n.-anwar/</link>
+      <link>/authors/f.-n.-anwar/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/f.-n.-anwar/</guid>
+      <guid>/authors/f.-n.-anwar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. L. McGuire</title>
-      <link>website/authors/j.-l.-mcguire/</link>
+      <link>/authors/j.-l.-mcguire/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-l.-mcguire/</guid>
+      <guid>/authors/j.-l.-mcguire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Rhame</title>
-      <link>website/authors/k.-rhame/</link>
+      <link>/authors/k.-rhame/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-rhame/</guid>
+      <guid>/authors/k.-rhame/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. B. Ngwenya</title>
-      <link>website/authors/l.-b.-ngwenya/</link>
+      <link>/authors/l.-b.-ngwenya/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-b.-ngwenya/</guid>
+      <guid>/authors/l.-b.-ngwenya/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Bai</title>
-      <link>website/authors/b.-bai/</link>
+      <link>/authors/b.-bai/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/b.-bai/</guid>
+      <guid>/authors/b.-bai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. R. Sullivan</title>
-      <link>website/authors/c.-r.-sullivan/</link>
+      <link>/authors/c.-r.-sullivan/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-r.-sullivan/</guid>
+      <guid>/authors/c.-r.-sullivan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Xu</title>
-      <link>website/authors/c.-xu/</link>
+      <link>/authors/c.-xu/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-xu/</guid>
+      <guid>/authors/c.-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. L. Ming</title>
-      <link>website/authors/g.-l.-ming/</link>
+      <link>/authors/g.-l.-ming/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/g.-l.-ming/</guid>
+      <guid>/authors/g.-l.-ming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Song</title>
-      <link>website/authors/h.-song/</link>
+      <link>/authors/h.-song/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/h.-song/</guid>
+      <guid>/authors/h.-song/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Peng</title>
-      <link>website/authors/j.-peng/</link>
+      <link>/authors/j.-peng/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-peng/</guid>
+      <guid>/authors/j.-peng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Simmons</title>
-      <link>website/authors/m.-simmons/</link>
+      <link>/authors/m.-simmons/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-simmons/</guid>
+      <guid>/authors/m.-simmons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y. Zhou</title>
-      <link>website/authors/y.-zhou/</link>
+      <link>/authors/y.-zhou/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/y.-zhou/</guid>
+      <guid>/authors/y.-zhou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. M. Blomquist</title>
-      <link>website/authors/t.-m.-blomquist/</link>
+      <link>/authors/t.-m.-blomquist/</link>
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/t.-m.-blomquist/</guid>
+      <guid>/authors/t.-m.-blomquist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Funk</title>
-      <link>website/authors/a.-funk/</link>
+      <link>/authors/a.-funk/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-funk/</guid>
+      <guid>/authors/a.-funk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. M. Rowland</title>
-      <link>website/authors/l.-m.-rowland/</link>
+      <link>/authors/l.-m.-rowland/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-m.-rowland/</guid>
+      <guid>/authors/l.-m.-rowland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Pletnikov</title>
-      <link>website/authors/m.-pletnikov/</link>
+      <link>/authors/m.-pletnikov/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-pletnikov/</guid>
+      <guid>/authors/m.-pletnikov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. A. DePasquale</title>
-      <link>website/authors/e.-a.-depasquale/</link>
+      <link>/authors/e.-a.-depasquale/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-a.-depasquale/</guid>
+      <guid>/authors/e.-a.-depasquale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. Katsel</title>
-      <link>website/authors/p.-katsel/</link>
+      <link>/authors/p.-katsel/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/p.-katsel/</guid>
+      <guid>/authors/p.-katsel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. Haroutunian</title>
-      <link>website/authors/v.-haroutunian/</link>
+      <link>/authors/v.-haroutunian/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/v.-haroutunian/</guid>
+      <guid>/authors/v.-haroutunian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. Alasmari</title>
-      <link>website/authors/f.-alasmari/</link>
+      <link>/authors/f.-alasmari/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/f.-alasmari/</guid>
+      <guid>/authors/f.-alasmari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Goodwani</title>
-      <link>website/authors/s.-goodwani/</link>
+      <link>/authors/s.-goodwani/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-goodwani/</guid>
+      <guid>/authors/s.-goodwani/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y. Sari</title>
-      <link>website/authors/y.-sari/</link>
+      <link>/authors/y.-sari/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/y.-sari/</guid>
+      <guid>/authors/y.-sari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. Anwar</title>
-      <link>website/authors/f.-anwar/</link>
+      <link>/authors/f.-anwar/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/f.-anwar/</guid>
+      <guid>/authors/f.-anwar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Atluri</title>
-      <link>website/authors/g.-atluri/</link>
+      <link>/authors/g.-atluri/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/g.-atluri/</guid>
+      <guid>/authors/g.-atluri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. E. Romick-Rosendale</title>
-      <link>website/authors/l.-e.-romick-rosendale/</link>
+      <link>/authors/l.-e.-romick-rosendale/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-e.-romick-rosendale/</guid>
+      <guid>/authors/l.-e.-romick-rosendale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Watanabe</title>
-      <link>website/authors/m.-watanabe/</link>
+      <link>/authors/m.-watanabe/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-watanabe/</guid>
+      <guid>/authors/m.-watanabe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. K. Evanson</title>
-      <link>website/authors/n.-k.-evanson/</link>
+      <link>/authors/n.-k.-evanson/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/n.-k.-evanson/</guid>
+      <guid>/authors/n.-k.-evanson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Franco-Villanueva</title>
-      <link>website/authors/a.-franco-villanueva/</link>
+      <link>/authors/a.-franco-villanueva/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-franco-villanueva/</guid>
+      <guid>/authors/a.-franco-villanueva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. L. Caldwell</title>
-      <link>website/authors/j.-l.-caldwell/</link>
+      <link>/authors/j.-l.-caldwell/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-l.-caldwell/</guid>
+      <guid>/authors/j.-l.-caldwell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. M. {Privette Vinnedge}</title>
-      <link>website/authors/l.-m.-privette-vinnedge/</link>
+      <link>/authors/l.-m.-privette-vinnedge/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-m.-privette-vinnedge/</guid>
+      <guid>/authors/l.-m.-privette-vinnedge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. B. Solomon</title>
-      <link>website/authors/m.-b.-solomon/</link>
+      <link>/authors/m.-b.-solomon/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-b.-solomon/</guid>
+      <guid>/authors/m.-b.-solomon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. Ghisays</title>
-      <link>website/authors/v.-ghisays/</link>
+      <link>/authors/v.-ghisays/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/v.-ghisays/</guid>
+      <guid>/authors/v.-ghisays/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Ramsey</title>
-      <link>website/authors/a.-ramsey/</link>
+      <link>/authors/a.-ramsey/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-ramsey/</guid>
+      <guid>/authors/a.-ramsey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Hasselfeld</title>
-      <link>website/authors/k.-hasselfeld/</link>
+      <link>/authors/k.-hasselfeld/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-hasselfeld/</guid>
+      <guid>/authors/k.-hasselfeld/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. H. Koene</title>
-      <link>website/authors/r.-h.-koene/</link>
+      <link>/authors/r.-h.-koene/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-h.-koene/</guid>
+      <guid>/authors/r.-h.-koene/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Sullivan</title>
-      <link>website/authors/c.-sullivan/</link>
+      <link>/authors/c.-sullivan/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-sullivan/</guid>
+      <guid>/authors/c.-sullivan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Koene</title>
-      <link>website/authors/r.-koene/</link>
+      <link>/authors/r.-koene/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-koene/</guid>
+      <guid>/authors/r.-koene/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. H. Hammond</title>
-      <link>website/authors/j.-h.-hammond/</link>
+      <link>/authors/j.-h.-hammond/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-h.-hammond/</guid>
+      <guid>/authors/j.-h.-hammond/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. M. O&#39;Donnovan</title>
-      <link>website/authors/s.-m.-odonnovan/</link>
+      <link>/authors/s.-m.-odonnovan/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-m.-odonnovan/</guid>
+      <guid>/authors/s.-m.-odonnovan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Marwaha</title>
-      <link>website/authors/s.-marwaha/</link>
+      <link>/authors/s.-marwaha/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-marwaha/</guid>
+      <guid>/authors/s.-marwaha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. Hartounian</title>
-      <link>website/authors/v.-hartounian/</link>
+      <link>/authors/v.-hartounian/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>website/authors/v.-hartounian/</guid>
+      <guid>/authors/v.-hartounian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. L. LaCrosse</title>
-      <link>website/authors/a.-l.-lacrosse/</link>
+      <link>/authors/a.-l.-lacrosse/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-l.-lacrosse/</guid>
+      <guid>/authors/a.-l.-lacrosse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. J. Reissner</title>
-      <link>website/authors/k.-j.-reissner/</link>
+      <link>/authors/k.-j.-reissner/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-j.-reissner/</guid>
+      <guid>/authors/k.-j.-reissner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. A. Knackstedt</title>
-      <link>website/authors/l.-a.-knackstedt/</link>
+      <link>/authors/l.-a.-knackstedt/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-a.-knackstedt/</guid>
+      <guid>/authors/l.-a.-knackstedt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Schwendt</title>
-      <link>website/authors/m.-schwendt/</link>
+      <link>/authors/m.-schwendt/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-schwendt/</guid>
+      <guid>/authors/m.-schwendt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. T. Sepulveda-Orengo</title>
-      <link>website/authors/m.-t.-sepulveda-orengo/</link>
+      <link>/authors/m.-t.-sepulveda-orengo/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-t.-sepulveda-orengo/</guid>
+      <guid>/authors/m.-t.-sepulveda-orengo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. K. Lipska</title>
-      <link>website/authors/b.-k.-lipska/</link>
+      <link>/authors/b.-k.-lipska/</link>
       <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>website/authors/b.-k.-lipska/</guid>
+      <guid>/authors/b.-k.-lipska/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Newburn</title>
-      <link>website/authors/e.-newburn/</link>
+      <link>/authors/e.-newburn/</link>
       <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-newburn/</guid>
+      <guid>/authors/e.-newburn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. L. Floyd</title>
-      <link>website/authors/c.-l.-floyd/</link>
+      <link>/authors/c.-l.-floyd/</link>
       <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-l.-floyd/</guid>
+      <guid>/authors/c.-l.-floyd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. R. Dorsett</title>
-      <link>website/authors/c.-r.-dorsett/</link>
+      <link>/authors/c.-r.-dorsett/</link>
       <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-r.-dorsett/</guid>
+      <guid>/authors/c.-r.-dorsett/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. L. Niedzielko</title>
-      <link>website/authors/t.-l.-niedzielko/</link>
+      <link>/authors/t.-l.-niedzielko/</link>
       <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/t.-l.-niedzielko/</guid>
+      <guid>/authors/t.-l.-niedzielko/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. E. Gardner</title>
-      <link>website/authors/a.-e.-gardner/</link>
+      <link>/authors/a.-e.-gardner/</link>
       <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-e.-gardner/</guid>
+      <guid>/authors/a.-e.-gardner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. S. Benesh</title>
-      <link>website/authors/f.-s.-benesh/</link>
+      <link>/authors/f.-s.-benesh/</link>
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/f.-s.-benesh/</guid>
+      <guid>/authors/f.-s.-benesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. B. Drummond</title>
-      <link>website/authors/j.-b.-drummond/</link>
+      <link>/authors/j.-b.-drummond/</link>
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-b.-drummond/</guid>
+      <guid>/authors/j.-b.-drummond/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Roberts</title>
-      <link>website/authors/r.-roberts/</link>
+      <link>/authors/r.-roberts/</link>
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-roberts/</guid>
+      <guid>/authors/r.-roberts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Lauriat</title>
-      <link>website/authors/t.-lauriat/</link>
+      <link>/authors/t.-lauriat/</link>
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/t.-lauriat/</guid>
+      <guid>/authors/t.-lauriat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Tucholski</title>
-      <link>website/authors/j.-tucholski/</link>
+      <link>/authors/j.-tucholski/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-tucholski/</guid>
+      <guid>/authors/j.-tucholski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. L. Cobbs</title>
-      <link>website/authors/a.-l.-cobbs/</link>
+      <link>/authors/a.-l.-cobbs/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-l.-cobbs/</guid>
+      <guid>/authors/a.-l.-cobbs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. L. Norris</title>
-      <link>website/authors/j.-l.-norris/</link>
+      <link>/authors/j.-l.-norris/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-l.-norris/</guid>
+      <guid>/authors/j.-l.-norris/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. D. Greis</title>
-      <link>website/authors/k.-d.-greis/</link>
+      <link>/authors/k.-d.-greis/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-d.-greis/</guid>
+      <guid>/authors/k.-d.-greis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. R. Heaven</title>
-      <link>website/authors/m.-r.-heaven/</link>
+      <link>/authors/m.-r.-heaven/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-r.-heaven/</guid>
+      <guid>/authors/m.-r.-heaven/</guid>
       <description></description>
     </item>
     
     <item>
       <title>W. D. Haffey</title>
-      <link>website/authors/w.-d.-haffey/</link>
+      <link>/authors/w.-d.-haffey/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/w.-d.-haffey/</guid>
+      <guid>/authors/w.-d.-haffey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. A. McCollum</title>
-      <link>website/authors/l.-a.-mccollum/</link>
+      <link>/authors/l.-a.-mccollum/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-a.-mccollum/</guid>
+      <guid>/authors/l.-a.-mccollum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. C. Roberts</title>
-      <link>website/authors/r.-c.-roberts/</link>
+      <link>/authors/r.-c.-roberts/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-c.-roberts/</guid>
+      <guid>/authors/r.-c.-roberts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. K. Lucas</title>
-      <link>website/authors/e.-k.-lucas/</link>
+      <link>/authors/e.-k.-lucas/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-k.-lucas/</guid>
+      <guid>/authors/e.-k.-lucas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. L. Gamble</title>
-      <link>website/authors/k.-l.-gamble/</link>
+      <link>/authors/k.-l.-gamble/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-l.-gamble/</guid>
+      <guid>/authors/k.-l.-gamble/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. J. McMeekin</title>
-      <link>website/authors/l.-j.-mcmeekin/</link>
+      <link>/authors/l.-j.-mcmeekin/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-j.-mcmeekin/</guid>
+      <guid>/authors/l.-j.-mcmeekin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. C. Hendrickson</title>
-      <link>website/authors/r.-c.-hendrickson/</link>
+      <link>/authors/r.-c.-hendrickson/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-c.-hendrickson/</guid>
+      <guid>/authors/r.-c.-hendrickson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. M. Cowell</title>
-      <link>website/authors/r.-m.-cowell/</link>
+      <link>/authors/r.-m.-cowell/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-m.-cowell/</guid>
+      <guid>/authors/r.-m.-cowell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Bauer</title>
-      <link>website/authors/d.-bauer/</link>
+      <link>/authors/d.-bauer/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-bauer/</guid>
+      <guid>/authors/d.-bauer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. Roussos</title>
-      <link>website/authors/p.-roussos/</link>
+      <link>/authors/p.-roussos/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/p.-roussos/</guid>
+      <guid>/authors/p.-roussos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. S. Gibbons</title>
-      <link>website/authors/a.-s.-gibbons/</link>
+      <link>/authors/a.-s.-gibbons/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-s.-gibbons/</guid>
+      <guid>/authors/a.-s.-gibbons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Uezato</title>
-      <link>website/authors/a.-uezato/</link>
+      <link>/authors/a.-uezato/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-uezato/</guid>
+      <guid>/authors/a.-uezato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Dean</title>
-      <link>website/authors/b.-dean/</link>
+      <link>/authors/b.-dean/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/b.-dean/</guid>
+      <guid>/authors/b.-dean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Scarr</title>
-      <link>website/authors/e.-scarr/</link>
+      <link>/authors/e.-scarr/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-scarr/</guid>
+      <guid>/authors/e.-scarr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Meador-Woodruff</title>
-      <link>website/authors/j.-meador-woodruff/</link>
+      <link>/authors/j.-meador-woodruff/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-meador-woodruff/</guid>
+      <guid>/authors/j.-meador-woodruff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Boer</title>
-      <link>website/authors/s.-boer/</link>
+      <link>/authors/s.-boer/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-boer/</guid>
+      <guid>/authors/s.-boer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Oliveros</title>
-      <link>website/authors/a.-oliveros/</link>
+      <link>/authors/a.-oliveros/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-oliveros/</guid>
+      <guid>/authors/a.-oliveros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Lindberg</title>
-      <link>website/authors/d.-lindberg/</link>
+      <link>/authors/d.-lindberg/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-lindberg/</guid>
+      <guid>/authors/d.-lindberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. S. Choi</title>
-      <link>website/authors/d.-s.-choi/</link>
+      <link>/authors/d.-s.-choi/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-s.-choi/</guid>
+      <guid>/authors/d.-s.-choi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Shan</title>
-      <link>website/authors/d.-shan/</link>
+      <link>/authors/d.-shan/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-shan/</guid>
+      <guid>/authors/d.-shan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Ayers-Ringler</title>
-      <link>website/authors/j.-ayers-ringler/</link>
+      <link>/authors/j.-ayers-ringler/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-ayers-ringler/</guid>
+      <guid>/authors/j.-ayers-ringler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Benitez</title>
-      <link>website/authors/j.-benitez/</link>
+      <link>/authors/j.-benitez/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-benitez/</guid>
+      <guid>/authors/j.-benitez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Prieto</title>
-      <link>website/authors/m.-prieto/</link>
+      <link>/authors/m.-prieto/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-prieto/</guid>
+      <guid>/authors/m.-prieto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Sanacora</title>
-      <link>website/authors/g.-sanacora/</link>
+      <link>/authors/g.-sanacora/</link>
       <pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>website/authors/g.-sanacora/</guid>
+      <guid>/authors/g.-sanacora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. K. Roche</title>
-      <link>website/authors/j.-k.-roche/</link>
+      <link>/authors/j.-k.-roche/</link>
       <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-k.-roche/</guid>
+      <guid>/authors/j.-k.-roche/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Chen</title>
-      <link>website/authors/d.-chen/</link>
+      <link>/authors/d.-chen/</link>
       <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-chen/</guid>
+      <guid>/authors/d.-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. D. Yates</title>
-      <link>website/authors/s.-d.-yates/</link>
+      <link>/authors/s.-d.-yates/</link>
       <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-d.-yates/</guid>
+      <guid>/authors/s.-d.-yates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Mount</title>
-      <link>website/authors/d.-mount/</link>
+      <link>/authors/d.-mount/</link>
       <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-mount/</guid>
+      <guid>/authors/d.-mount/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Moore</title>
-      <link>website/authors/s.-moore/</link>
+      <link>/authors/s.-moore/</link>
       <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-moore/</guid>
+      <guid>/authors/s.-moore/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Walss-Bass</title>
-      <link>website/authors/c.-walss-bass/</link>
+      <link>/authors/c.-walss-bass/</link>
       <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>website/authors/c.-walss-bass/</guid>
+      <guid>/authors/c.-walss-bass/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Raventos</title>
-      <link>website/authors/h.-raventos/</link>
+      <link>/authors/h.-raventos/</link>
       <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>website/authors/h.-raventos/</guid>
+      <guid>/authors/h.-raventos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. K. Marballi</title>
-      <link>website/authors/k.-k.-marballi/</link>
+      <link>/authors/k.-k.-marballi/</link>
       <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-k.-marballi/</guid>
+      <guid>/authors/k.-k.-marballi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. A. Escamilla</title>
-      <link>website/authors/m.-a.-escamilla/</link>
+      <link>/authors/m.-a.-escamilla/</link>
       <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-a.-escamilla/</guid>
+      <guid>/authors/m.-a.-escamilla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. J. Leach</title>
-      <link>website/authors/r.-j.-leach/</link>
+      <link>/authors/r.-j.-leach/</link>
       <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-j.-leach/</guid>
+      <guid>/authors/r.-j.-leach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Yates</title>
-      <link>website/authors/s.-yates/</link>
+      <link>/authors/s.-yates/</link>
       <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-yates/</guid>
+      <guid>/authors/s.-yates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. S. Simmons</title>
-      <link>website/authors/m.-s.-simmons/</link>
+      <link>/authors/m.-s.-simmons/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-s.-simmons/</guid>
+      <guid>/authors/m.-s.-simmons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. D. Spencer</title>
-      <link>website/authors/d.-d.-spencer/</link>
+      <link>/authors/d.-d.-spencer/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-d.-spencer/</guid>
+      <guid>/authors/d.-d.-spencer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Perez</title>
-      <link>website/authors/e.-perez/</link>
+      <link>/authors/e.-perez/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-perez/</guid>
+      <guid>/authors/e.-perez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. Lauritzen</title>
-      <link>website/authors/f.-lauritzen/</link>
+      <link>/authors/f.-lauritzen/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>website/authors/f.-lauritzen/</guid>
+      <guid>/authors/f.-lauritzen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Drummond</title>
-      <link>website/authors/j.-drummond/</link>
+      <link>/authors/j.-drummond/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-drummond/</guid>
+      <guid>/authors/j.-drummond/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. H. Bergersen</title>
-      <link>website/authors/l.-h.-bergersen/</link>
+      <link>/authors/l.-h.-bergersen/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-h.-bergersen/</guid>
+      <guid>/authors/l.-h.-bergersen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. C. {de Lanerolle}</title>
-      <link>website/authors/n.-c.-de-lanerolle/</link>
+      <link>/authors/n.-c.-de-lanerolle/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>website/authors/n.-c.-de-lanerolle/</guid>
+      <guid>/authors/n.-c.-de-lanerolle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Eid</title>
-      <link>website/authors/t.-eid/</link>
+      <link>/authors/t.-eid/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>website/authors/t.-eid/</guid>
+      <guid>/authors/t.-eid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. S. Lee</title>
-      <link>website/authors/t.-s.-lee/</link>
+      <link>/authors/t.-s.-lee/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>website/authors/t.-s.-lee/</guid>
+      <guid>/authors/t.-s.-lee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y. Wang</title>
-      <link>website/authors/y.-wang/</link>
+      <link>/authors/y.-wang/</link>
       <pubDate>Thu, 07 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>website/authors/y.-wang/</guid>
+      <guid>/authors/y.-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. C. Hammond</title>
-      <link>website/authors/j.-c.-hammond/</link>
+      <link>/authors/j.-c.-hammond/</link>
       <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-c.-hammond/</guid>
+      <guid>/authors/j.-c.-hammond/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Hammond</title>
-      <link>website/authors/j.-hammond/</link>
+      <link>/authors/j.-hammond/</link>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-hammond/</guid>
+      <guid>/authors/j.-hammond/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. S. Moehle</title>
-      <link>website/authors/m.-s.-moehle/</link>
+      <link>/authors/m.-s.-moehle/</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-s.-moehle/</guid>
+      <guid>/authors/m.-s.-moehle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. F. Luduena</title>
-      <link>website/authors/r.-f.-luduena/</link>
+      <link>/authors/r.-f.-luduena/</link>
       <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-f.-luduena/</guid>
+      <guid>/authors/r.-f.-luduena/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. S. Sodhi</title>
-      <link>website/authors/m.-s.-sodhi/</link>
+      <link>/authors/m.-s.-sodhi/</link>
       <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-s.-sodhi/</guid>
+      <guid>/authors/m.-s.-sodhi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Rumbaugh</title>
-      <link>website/authors/g.-rumbaugh/</link>
+      <link>/authors/g.-rumbaugh/</link>
       <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>website/authors/g.-rumbaugh/</guid>
+      <guid>/authors/g.-rumbaugh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. Harotunian</title>
-      <link>website/authors/v.-harotunian/</link>
+      <link>/authors/v.-harotunian/</link>
       <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>website/authors/v.-harotunian/</guid>
+      <guid>/authors/v.-harotunian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. E. Bauer</title>
-      <link>website/authors/d.-e.-bauer/</link>
+      <link>/authors/d.-e.-bauer/</link>
       <pubDate>Wed, 14 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-e.-bauer/</guid>
+      <guid>/authors/d.-e.-bauer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I. Smolders</title>
-      <link>website/authors/i.-smolders/</link>
+      <link>/authors/i.-smolders/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>website/authors/i.-smolders/</guid>
+      <guid>/authors/i.-smolders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Cnops</title>
-      <link>website/authors/l.-cnops/</link>
+      <link>/authors/l.-cnops/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-cnops/</guid>
+      <guid>/authors/l.-cnops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Kooijman</title>
-      <link>website/authors/r.-kooijman/</link>
+      <link>/authors/r.-kooijman/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>website/authors/r.-kooijman/</guid>
+      <guid>/authors/r.-kooijman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Kwak</title>
-      <link>website/authors/s.-kwak/</link>
+      <link>/authors/s.-kwak/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-kwak/</guid>
+      <guid>/authors/s.-kwak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y. Michotte</title>
-      <link>website/authors/y.-michotte/</link>
+      <link>/authors/y.-michotte/</link>
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>website/authors/y.-michotte/</guid>
+      <guid>/authors/y.-michotte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Gupta</title>
-      <link>website/authors/d.-gupta/</link>
+      <link>/authors/d.-gupta/</link>
       <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-gupta/</guid>
+      <guid>/authors/d.-gupta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. E. Steffek</title>
-      <link>website/authors/a.-e.-steffek/</link>
+      <link>/authors/a.-e.-steffek/</link>
       <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-e.-steffek/</guid>
+      <guid>/authors/a.-e.-steffek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Oni-Orisan</title>
-      <link>website/authors/a.-oni-orisan/</link>
+      <link>/authors/a.-oni-orisan/</link>
       <pubDate>Tue, 25 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>website/authors/a.-oni-orisan/</guid>
+      <guid>/authors/a.-oni-orisan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. V. Kristiansen</title>
-      <link>website/authors/l.-v.-kristiansen/</link>
+      <link>/authors/l.-v.-kristiansen/</link>
       <pubDate>Tue, 25 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>website/authors/l.-v.-kristiansen/</guid>
+      <guid>/authors/l.-v.-kristiansen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Beneyto</title>
-      <link>website/authors/m.-beneyto/</link>
+      <link>/authors/m.-beneyto/</link>
       <pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-beneyto/</guid>
+      <guid>/authors/m.-beneyto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Kreger</title>
-      <link>website/authors/e.-kreger/</link>
+      <link>/authors/e.-kreger/</link>
       <pubDate>Tue, 16 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-kreger/</guid>
+      <guid>/authors/e.-kreger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. L. Davis</title>
-      <link>website/authors/k.-l.-davis/</link>
+      <link>/authors/k.-l.-davis/</link>
       <pubDate>Tue, 16 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>website/authors/k.-l.-davis/</guid>
+      <guid>/authors/k.-l.-davis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I. Huerta</title>
-      <link>website/authors/i.-huerta/</link>
+      <link>/authors/i.-huerta/</link>
       <pubDate>Sat, 18 Feb 2006 00:00:00 +0000</pubDate>
-      <guid>website/authors/i.-huerta/</guid>
+      <guid>/authors/i.-huerta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. M. Gimenez-Amaya</title>
-      <link>website/authors/j.-m.-gimenez-amaya/</link>
+      <link>/authors/j.-m.-gimenez-amaya/</link>
       <pubDate>Sat, 18 Feb 2006 00:00:00 +0000</pubDate>
-      <guid>website/authors/j.-m.-gimenez-amaya/</guid>
+      <guid>/authors/j.-m.-gimenez-amaya/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. S. Gupta</title>
-      <link>website/authors/d.-s.-gupta/</link>
+      <link>/authors/d.-s.-gupta/</link>
       <pubDate>Fri, 10 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>website/authors/d.-s.-gupta/</guid>
+      <guid>/authors/d.-s.-gupta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. G. Bruneau</title>
-      <link>website/authors/e.-g.-bruneau/</link>
+      <link>/authors/e.-g.-bruneau/</link>
       <pubDate>Tue, 12 Apr 2005 00:00:00 +0000</pubDate>
-      <guid>website/authors/e.-g.-bruneau/</guid>
+      <guid>/authors/e.-g.-bruneau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. M. Clinton</title>
-      <link>website/authors/s.-m.-clinton/</link>
+      <link>/authors/s.-m.-clinton/</link>
       <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-m.-clinton/</guid>
+      <guid>/authors/s.-m.-clinton/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. J. Semins</title>
-      <link>website/authors/m.-j.-semins/</link>
+      <link>/authors/m.-j.-semins/</link>
       <pubDate>Tue, 03 Feb 2004 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-j.-semins/</guid>
+      <guid>/authors/m.-j.-semins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Davidkova</title>
-      <link>website/authors/g.-davidkova/</link>
+      <link>/authors/g.-davidkova/</link>
       <pubDate>Sat, 20 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>website/authors/g.-davidkova/</guid>
+      <guid>/authors/g.-davidkova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I. F. Charo</title>
-      <link>website/authors/i.-f.-charo/</link>
+      <link>/authors/i.-f.-charo/</link>
       <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
-      <guid>website/authors/i.-f.-charo/</guid>
+      <guid>/authors/i.-f.-charo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Gharaee-Kermani</title>
-      <link>website/authors/m.-gharaee-kermani/</link>
+      <link>/authors/m.-gharaee-kermani/</link>
       <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
-      <guid>website/authors/m.-gharaee-kermani/</guid>
+      <guid>/authors/m.-gharaee-kermani/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. H. Phan</title>
-      <link>website/authors/s.-h.-phan/</link>
+      <link>/authors/s.-h.-phan/</link>
       <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-h.-phan/</guid>
+      <guid>/authors/s.-h.-phan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. L. Kunkel</title>
-      <link>website/authors/s.-l.-kunkel/</link>
+      <link>/authors/s.-l.-kunkel/</link>
       <pubDate>Wed, 12 Nov 2003 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-l.-kunkel/</guid>
+      <guid>/authors/s.-l.-kunkel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. M. Agrawal</title>
-      <link>website/authors/s.-m.-agrawal/</link>
+      <link>/authors/s.-m.-agrawal/</link>
       <pubDate>Thu, 02 Oct 2003 00:00:00 +0000</pubDate>
-      <guid>website/authors/s.-m.-agrawal/</guid>
+      <guid>/authors/s.-m.-agrawal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. L. Stincic</title>
-      <link>website/authors/t.-l.-stincic/</link>
+      <link>/authors/t.-l.-stincic/</link>
       <pubDate>Thu, 02 Oct 2003 00:00:00 +0000</pubDate>
-      <guid>website/authors/t.-l.-stincic/</guid>
+      <guid>/authors/t.-l.-stincic/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/abdul/</link>
+      <link>/authors/abdul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/abdul/</guid>
+      <guid>/authors/abdul/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/adam/</link>
+      <link>/authors/adam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/adam/</guid>
+      <guid>/authors/adam/</guid>
       <description>&lt;p&gt;Adam received his undergraduate degree in Biology from the University of Nevada Reno (2004). After graduation he accepted a research assistant position with a local biotech company, Sierra Sciences, where he performed research related to telomere biology and telomerase activation. Adam was then accepted into the Neurobiology graduate program at the University of Alabama Birmingham (2006) where he joined the lab of Drs. McCullumsmith and Meador-Woodruff studying the neurobiology of schizophrenia. For his dissertation work, Adam found abnormalities in multiple intracellular signaling cascades in postmortem brain tissue from patients with schizophrenia.&lt;/p&gt;
 
 &lt;p&gt;Upon receiving his PhD (2011), Adam joined the lab of Dr. DeSilva as a postdoctoral fellow studying the role of glutamate in oligodendrocyte development and demyelinating disease. Adam joined Dr. McCullumsmith in Cincinnati in 2014 as a postdoctoral fellow to perform proteomic analyses of postsynaptic density proteins. Dr. Funk joined the faculty at the University of Toledo Medical Center as a Research Assistant Professor in August of 2018 to continue studying the protein-protein interactions of PSD-95 (a major scaffolding and trafficking protein in the postsynaptic density) in postmortem human tissue. The goal of his research is to employ proteomic approaches to hypotheses of synaptic abnormalities in patients with schizophrenia.&lt;/p&gt;
@@ -2265,106 +2265,106 @@
     
     <item>
       <title></title>
-      <link>website/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/alex/</link>
+      <link>/authors/alex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/alex/</guid>
+      <guid>/authors/alex/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/billy/</link>
+      <link>/authors/billy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/billy/</guid>
+      <guid>/authors/billy/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/elizabeth/</link>
+      <link>/authors/elizabeth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/elizabeth/</guid>
+      <guid>/authors/elizabeth/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/emily/</link>
+      <link>/authors/emily/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/emily/</guid>
+      <guid>/authors/emily/</guid>
       <description>&lt;p&gt;Emily earned a BS in neurobiology from the University of Cincinnati in 2016.  During her undergraduate career, she spent two years researching Parkinson&amp;rsquo;s disease where she analyzed ultrasonic vocalizations in rat models as a way to study dysarthria and cognitive function during disease progression.  Emily joined the Cognitive Disorders Research Laboratory in September 2016 and quickly became the lead laser capture microdissection technician, using this technique along with QPCR to explore glutamate transported expression in schizophrenia.  In the summer of 2018, Emily will relocate to the University of Toledo Medical Center in August of 2018 where she continue her work with the laboratory.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/evelyn/</link>
+      <link>/authors/evelyn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/evelyn/</guid>
+      <guid>/authors/evelyn/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/hunter/</link>
+      <link>/authors/hunter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/hunter/</guid>
+      <guid>/authors/hunter/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/james/</link>
+      <link>/authors/james/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/james/</guid>
+      <guid>/authors/james/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/justin/</link>
+      <link>/authors/justin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/justin/</guid>
+      <guid>/authors/justin/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/nick/</link>
+      <link>/authors/nick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/nick/</guid>
+      <guid>/authors/nick/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/ram/</link>
+      <link>/authors/ram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/ram/</guid>
+      <guid>/authors/ram/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/rawan/</link>
+      <link>/authors/rawan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/rawan/</guid>
+      <guid>/authors/rawan/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/rob/</link>
+      <link>/authors/rob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/rob/</guid>
+      <guid>/authors/rob/</guid>
       <description>&lt;p&gt;Dr. McCullumsmith studied biochemistry (BS) at Indiana University, then pursued joint MD, PhD degrees at the University of Michigan. Following a research-track residency in Psychiatry at the University of Michigan, he joined the faculty and began to study abnormalities of glutamate transporter expression in severe mental illness. Dr. McCullumsmith was promoted to Associate Professor with Tenure while at the Department of Psychiatry and Neurobiology at the University of Alabama-Birmingham.&lt;/p&gt;
 
 &lt;p&gt;He relocated to the University of Cincinnati in 2013 where he served as the Associate Vice Chair for Translational Research at UC and the Medical Director of the Outpatient Mental health Division at the Cincinnati VAMC. In 2017 he was promoted to full Professor with tenure.&lt;/p&gt;
@@ -2375,17 +2375,17 @@
     
     <item>
       <title></title>
-      <link>website/authors/scott/</link>
+      <link>/authors/scott/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/scott/</guid>
+      <guid>/authors/scott/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/sinead/</link>
+      <link>/authors/sinead/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/sinead/</guid>
+      <guid>/authors/sinead/</guid>
       <description>&lt;p&gt;Sinead received her undergraduate degree in Neurosciences from Trinity College, the University of Dublin, Ireland.  She conducted her PhD thesis, &amp;ldquo;The Molecular, Cellular and Behavioral Effects of Electroconvulsive Stimulation in the Rodent,&amp;rdquo; with the Neurobiology of Depression research group in the Depat. of Psychiatry, Trinity College Dublin.  This project examined the effects of electroconvulsive stimulation on rat hippocampal and frontal cortex proteomes.  It also established a novel animal model of ECS administration, ultra-brief pulse stimulation, to aid in studying the parameters of this treatment for severe depression.&lt;/p&gt;
 
 &lt;p&gt;In 2014, Sinead joined the McCullumsmith laboratory in the Dept. of Psychiatry at the University of Cincinnati as a postdoctoral fellow, continuing her work in translational neuroscience.  This research focused on abnormalities of glutamate transporters (EAAT2) in schizophrenia, using postmortem tissue. It also highlighted the necessity of examining cell-specific and subcellular-level alterations in molecular systems in severe mental illness.  Using methods such as laser capture microdissection, significant, cell-subtype specific changes in EAAT2 and it&amp;rsquo;s splice variants, particularly EAAT2b, were identified in corticothalamic regions in schizophrenia.  In addition, she is interested in the aberrant metabolism of the adenosine system in disease.  Adenosine modulates the glutamate and dopamine neurotransmitter systems which are dysregulated in schizophrenia and contribute to the positive, negative and cognitive symptoms of schizophrenia.&lt;/p&gt;
@@ -2396,33 +2396,33 @@
     
     <item>
       <title></title>
-      <link>website/authors/sophie/</link>
+      <link>/authors/sophie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/sophie/</guid>
+      <guid>/authors/sophie/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/vineet/</link>
+      <link>/authors/vineet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/vineet/</guid>
+      <guid>/authors/vineet/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/wilma/</link>
+      <link>/authors/wilma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/wilma/</guid>
+      <guid>/authors/wilma/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>website/authors/xiaolu/</link>
+      <link>/authors/xiaolu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>website/authors/xiaolu/</guid>
+      <guid>/authors/xiaolu/</guid>
       <description></description>
     </item>
     
