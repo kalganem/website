@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Prieto | CDRL</title>
-    <link>kalganem.github.io/authors/m.-prieto/</link>
-      <atom:link href="kalganem.github.io/authors/m.-prieto/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/m.-prieto/</link>
+      <atom:link href="website/authors/m.-prieto/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Prieto</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>kalganem.github.io/img/icon-192.png</url>
+      <url>website/img/icon-192.png</url>
       <title>M. Prieto</title>
-      <link>kalganem.github.io/authors/m.-prieto/</link>
+      <link>website/authors/m.-prieto/</link>
     </image>
     
     <item>
       <title>Purinergic signaling and energy homeostasis in psychiatric disorders</title>
-      <link>kalganem.github.io/publication/2015-05-08_rn5179/</link>
+      <link>website/publication/2015-05-08_rn5179/</link>
       <pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/publication/2015-05-08_rn5179/</guid>
+      <guid>website/publication/2015-05-08_rn5179/</guid>
       <description></description>
     </item>
     

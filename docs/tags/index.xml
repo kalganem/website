@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | CDRL</title>
-    <link>kalganem.github.io/tags/</link>
-      <atom:link href="kalganem.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/tags/</link>
+      <atom:link href="website/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>kalganem.github.io/img/icon-192.png</url>
+      <url>website/img/icon-192.png</url>
       <title>Tags</title>
-      <link>kalganem.github.io/tags/</link>
+      <link>website/tags/</link>
     </image>
     
     <item>
       <title>Apps</title>
-      <link>kalganem.github.io/tags/apps/</link>
+      <link>website/tags/apps/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/tags/apps/</guid>
+      <guid>website/tags/apps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bioinformatics</title>
-      <link>kalganem.github.io/tags/bioinformatics/</link>
+      <link>website/tags/bioinformatics/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/tags/bioinformatics/</guid>
+      <guid>website/tags/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>kalganem.github.io/tags/projects/</link>
+      <link>website/tags/projects/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/tags/projects/</guid>
+      <guid>website/tags/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Shiny</title>
-      <link>kalganem.github.io/tags/r-shiny/</link>
+      <link>website/tags/r-shiny/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/tags/r-shiny/</guid>
+      <guid>website/tags/r-shiny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Application</title>
-      <link>kalganem.github.io/tags/web-application/</link>
+      <link>website/tags/web-application/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/tags/web-application/</guid>
+      <guid>website/tags/web-application/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demonstration</title>
-      <link>kalganem.github.io/tags/demonstration/</link>
+      <link>website/tags/demonstration/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:01 +0000</pubDate>
-      <guid>kalganem.github.io/tags/demonstration/</guid>
+      <guid>website/tags/demonstration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drug Discovery</title>
-      <link>kalganem.github.io/tags/drug-discovery/</link>
+      <link>website/tags/drug-discovery/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:01 +0000</pubDate>
-      <guid>kalganem.github.io/tags/drug-discovery/</guid>
+      <guid>website/tags/drug-discovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Symposium</title>
-      <link>kalganem.github.io/tags/symposium/</link>
+      <link>website/tags/symposium/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:01 +0000</pubDate>
-      <guid>kalganem.github.io/tags/symposium/</guid>
+      <guid>website/tags/symposium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>kalganem.github.io/tags/talks/</link>
+      <link>website/tags/talks/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:01 +0000</pubDate>
-      <guid>kalganem.github.io/tags/talks/</guid>
+      <guid>website/tags/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Webinars</title>
-      <link>kalganem.github.io/tags/webinars/</link>
+      <link>website/tags/webinars/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:01 +0000</pubDate>
-      <guid>kalganem.github.io/tags/webinars/</guid>
+      <guid>website/tags/webinars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SFN</title>
-      <link>kalganem.github.io/tags/sfn/</link>
+      <link>website/tags/sfn/</link>
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/tags/sfn/</guid>
+      <guid>website/tags/sfn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coding</title>
-      <link>kalganem.github.io/tags/coding/</link>
+      <link>website/tags/coding/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/tags/coding/</guid>
+      <guid>website/tags/coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>kalganem.github.io/tags/courses/</link>
+      <link>website/tags/courses/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/tags/courses/</guid>
+      <guid>website/tags/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>kalganem.github.io/tags/r/</link>
+      <link>website/tags/r/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/tags/r/</guid>
+      <guid>website/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshops</title>
-      <link>kalganem.github.io/tags/workshops/</link>
+      <link>website/tags/workshops/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/tags/workshops/</guid>
+      <guid>website/tags/workshops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posters</title>
-      <link>kalganem.github.io/tags/posters/</link>
+      <link>website/tags/posters/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/tags/posters/</guid>
+      <guid>website/tags/posters/</guid>
       <description></description>
     </item>
     

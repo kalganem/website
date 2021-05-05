@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Schwendt | CDRL</title>
-    <link>kalganem.github.io/authors/m.-schwendt/</link>
-      <atom:link href="kalganem.github.io/authors/m.-schwendt/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/m.-schwendt/</link>
+      <atom:link href="website/authors/m.-schwendt/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Schwendt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 May 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>kalganem.github.io/img/icon-192.png</url>
+      <url>website/img/icon-192.png</url>
       <title>M. Schwendt</title>
-      <link>kalganem.github.io/authors/m.-schwendt/</link>
+      <link>website/authors/m.-schwendt/</link>
     </image>
     
     <item>
       <title>Contrasting the Role of xCT and GLT-1 Upregulation in the Ability of Ceftriaxone to Attenuate the Cue-Induced Reinstatement of Cocaine Seeking and Normalize AMPA Receptor Subunit Expression</title>
-      <link>kalganem.github.io/publication/2017-05-13_rn5167/</link>
+      <link>website/publication/2017-05-13_rn5167/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      <guid>kalganem.github.io/publication/2017-05-13_rn5167/</guid>
+      <guid>website/publication/2017-05-13_rn5167/</guid>
       <description></description>
     </item>
     

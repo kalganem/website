@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDRL</title>
-    <link>kalganem.github.io/authors/rob/</link>
-      <atom:link href="kalganem.github.io/authors/rob/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/authors/rob/</link>
+      <atom:link href="website/authors/rob/index.xml" rel="self" type="application/rss+xml" />
     <description>CDRL</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>kalganem.github.io/img/icon-192.png</url>
+      <url>website/img/icon-192.png</url>
       <title>CDRL</title>
-      <link>kalganem.github.io/authors/rob/</link>
+      <link>website/authors/rob/</link>
     </image>
     
   </channel>
