@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posters | CDRL</title>
-    <link>/tags/posters/</link>
-      <atom:link href="/tags/posters/index.xml" rel="self" type="application/rss+xml" />
+    <link>website/tags/posters/</link>
+      <atom:link href="website/tags/posters/index.xml" rel="self" type="application/rss+xml" />
     <description>Posters</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>website/img/icon-192.png</url>
       <title>Posters</title>
-      <link>/tags/posters/</link>
+      <link>website/tags/posters/</link>
     </image>
     
     <item>
       <title>Kaleidoscope Poster (SOBP &amp; GLBIO 2019)</title>
-      <link>/project/projects_and_posters/khaled_sobp2019/</link>
+      <link>website/project/projects_and_posters/khaled_sobp2019/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      <guid>/project/projects_and_posters/khaled_sobp2019/</guid>
+      <guid>website/project/projects_and_posters/khaled_sobp2019/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: &lt;a href=&#34;/authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;, Jarek Meller, &lt;a href=&#34;/authors/rob&#34;&gt;Robert Mccullumsmith&lt;/a&gt;&lt;br /&gt;
-&lt;strong&gt;Presenter&lt;/strong&gt;: &lt;a href=&#34;/authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: &lt;a href=&#34;website/authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;, Jarek Meller, &lt;a href=&#34;website/authors/rob&#34;&gt;Robert Mccullumsmith&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Presenter&lt;/strong&gt;: &lt;a href=&#34;website/authors/khaled&#34;&gt;Khaled Alganem&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 
