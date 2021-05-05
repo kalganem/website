@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | CDRL</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>kalganem.github.io/post/</link>
+      <atom:link href="kalganem.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>kalganem.github.io/img/icon-192.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>kalganem.github.io/post/</link>
     </image>
     
     <item>
       <title>CDRL Bioinformatics Hackathon 2021</title>
-      <link>/post/bioinformatics_hackathon_2021/</link>
+      <link>kalganem.github.io/post/bioinformatics_hackathon_2021/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/post/bioinformatics_hackathon_2021/</guid>
+      <guid>kalganem.github.io/post/bioinformatics_hackathon_2021/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; style=&#34;width:65.0%;height:65.0%&#34; /&gt;&lt;/p&gt;
